@@ -1,0 +1,16 @@
+# Site settings
+title: Barbara Schwarzl
+email: babs_mail@gmx.at
+description: > # this means to ignore newlines until "baseurl:"
+  Reiselustige Autorin. Eine Übersicht über ihre Werke.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://bschwarzl.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+paginate: 5
+
+author: Barbara Schwarzl
+
+gems: [jekyll-paginate]
