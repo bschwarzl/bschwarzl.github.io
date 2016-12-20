@@ -13,3 +13,5 @@ Das Buch ist erhältlich auf [Amazon][amazon].
 
 
 [amazon]: https://www.amazon.de/Reise-Durch-Estland-Lettland-Litauen/dp/399003264X
+
+[facebook]: https://www.facebook.com/Reise-quer-durch-Estland-Lettland-und-Litauen-251627861517218/
