@@ -9,7 +9,9 @@ Ob „baltische Highlights“ wie die Kurische Nehrung, die Hauptstädte Tallinn
 Dieses Reisetagebuch macht Lust die baltischen Länder zu bereisen und ist der ideale Reisebegleiter.
 
 
-Das Buch ist erhältlich auf [Amazon][amazon]. 
+Das Buch ist erhältlich auf [Amazon][amazon].
+
+Weitere Informationen auch auf [Facebook][facebook].
 
 
 [amazon]: https://www.amazon.de/Reise-Durch-Estland-Lettland-Litauen/dp/399003264X

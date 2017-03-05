@@ -13,6 +13,7 @@ Wissenswertes und bisher weniger Bekanntes über Venedig und die Normandie mit b
 
 Das Buch ist erhältlich auf [Amazon][amazon].
 
+Weitere Informationen auch auf [Facebook][facebook].
 
 [amazon]: https://www.amazon.de/Alles-Anders-Auf-Umwegen-Angekommen/dp/3990263110
 
