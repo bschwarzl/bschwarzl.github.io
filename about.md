@@ -1,6 +1,6 @@
 ---
 layout: no-about-page
-title: About
+title: Die Autorin
 permalink: /about/
 image: /images/pic02.jpg
 ---

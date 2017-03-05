@@ -24,9 +24,9 @@
                 <!-- <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p> -->
                 </div>
                 <div class="meta">
-                  <time class="published" datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%B %d, %Y" }}</time>
+                  <time class="published" datetime="{{ page.date | date: "%F" }}">{{ page.date | date: "%d.%m.%Y" }}</time>
                   {% for category in page.categories limit:1 %}
-                    <a href="#">{{ category }}</a>
+                    <a href="#">{{ category | capitalize }}</a>
                   {% endfor %}
 
         <!--
@@ -53,14 +53,14 @@
            </article>
   					<ul class="actions pagination">
   					  {% if page.previous %}
-  	  				  <li><a href="{{ page.previous.url }}" class="button big previous">Previous Post</a></li>
+  	  				  <li><a href="{{ page.previous.url }}" class="button big previous">Zurück</a></li>
   						{% else %}
-  						  <li><a href="#" class="disabled button big previous">Previous Post</a></li>
+  						  <li><a href="#" class="disabled button big previous">Zurück</a></li>
   						{% endif %}
 							{% if page.next %}
-  						  <li><a href="{{ page.next.url }}" class="button big next">Next Post</a></li>
+  						  <li><a href="{{ page.next.url }}" class="button big next">Weiter</a></li>
   						{% else %}
-  						  <li><a href="#" class="disabled button big next">Next Post</a></li>
+  						  <li><a href="#" class="disabled button big next">Weiter</a></li>
   						{% endif %}
   					</ul>
 					</div>
