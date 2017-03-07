@@ -9,8 +9,30 @@ Tina Bäck, eine intelligente und moderne Frau des 21. Jahrhunderts, begibt sich
 Tina will diese verteufelte Krankheit verstehen. Kein Fachbuch ist vor ihr sicher. Sogar als Universitätsprofessorin verschreibt sie sich dem Thema „Genie und Wahnsinn“.
 Plötzlich geschehen sonderbare Dinge, die sie sich nicht erklären kann.
 
-Ein Buch, das unterhält und reichlich Informationen rund um 
-die facettenreiche Krankheit Schizophrenie liefert.
+Ein Buch, das unterhält und reichlich Informationen rund um die facettenreiche Krankheit Schizophrenie liefert.
+
+
+
+## Was veranlasste die Autorin ein Buch über Schizophrenie zu schreiben?
+
+Als Apothekerin hat Barbara Schwarzl natürlich laufend mit psychisch Kranken und im Besonderen mit Schizophrenen Kontakt, deren Schicksale sie zutiefst bewegen. Mit "Spurensuche. Diagnose Schizophrenie" möchte sie psychisch Kranke, diese manchmal geächteten, bedauernswerten Menschen, ins Bewusstsein rufen und für sie als Fürsprecherin auftreten. Obwohl sich die medizinische Versorgung diesbezüglich in den letzten Jahrzehnten deutlich verbessert hat, sind psychisch Kranke nach wie vor stigmatisiert und ausgestoßen. <br> Angehörige schämen sich ihrer, man lacht und tuschelt über sie, sperrt sie weg, verwahrt oder verleugnet sie. Selbst ihren eigenen Angehörigen fällt es manchmal schwer, ihnen unvoreingenommen zu begegnen.
+Die Autorin möchte mit "Spurensuche. Diagnose Schizophrenie" aufklären und aufrütteln, aber ebenso unterhalten.
+
+Im November 2016 durfte Barbara Schwarzl "Spurensuche. Diagnose Schizophrenie" beim DGPPN-Kongress in Berlin vorstellen. Dabei zeigte sich, dass diese fiktive Geschichte mit in die Handlung eingewobenen Informationen rund um die facettenreiche Krankheit Schizophrenie genauso fesselte wie Autobiographisches von Betroffenen.
+
+
+
+## Was ist das Besondere an diesem Roman?
+
+"Spurensuche. Diagnose Schizophrenie" ist ein Roman, der eine frei erfundene Geschichte zur Grundlage hat. Frei nach Erich Kästner wissen wir, dass fiktive Geschichten durchaus wahr sein können, wenn sie im Kern so geschehen sein könnten, wie sie beschrieben sind.
+
+Barbara Schwarzl war es ein besonderes Anliegen, die Krankheit der Schizophrenie von jedem nur erdenklichen Winkel zu beleuchten. „Spurensuche. Diagnose Schizophrenie“ kann als eine Mischung aus Sachbuch und Roman verstanden werden. <br> Im Vordergrund steht die Geschichte von Tina Bäck und ihrem schizophrenen Vater. <br> Da sie diese vielschichtige Krankheit verstehen will, liest sie viel darüber, weshalb der Leser reichlich Hintergrundinformationen über die Schizophrenie bekommt: Ursachen, Prognose, Symptome, Vererbung, Therapiemöglichkeiten, wie erlebt der Kranke und die Familie die Krankheit, kann er in den Arbeitsprozess integriert werden, was heißt es, die Tochter eines Schizophrenen zu sein, Rückblick auf die nationalsozialistische Lösung und veraltete Therapien, Nennung von psychisch kranken Persönlichkeiten, die Genies, die dem Wahnsinn nahe waren etc. <br>
+All diese Punkte sind in den Roman eingewoben, in diese berührende Geschichte.
+
+Bemerkenswert ist, dass der Leser den Ausbruch der Erkrankung selbst miterlebt, ohne vielleicht die ersten Symptome als solche richtig zu deuten.
+
+
+ 
 
 Das Buch ist erhältlich auf [Amazon][amazon], [Thalia] [thalia]. 
 
