@@ -13,5 +13,5 @@ paginate: 5
 
 author: Barbara Schwarzl
 
-gems:
+plugins:
   - jekyll-paginate
