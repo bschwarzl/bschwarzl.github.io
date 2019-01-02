@@ -13,7 +13,12 @@ Dieses Reisetagebuch macht Lust die baltischen Länder zu bereisen und ist der i
 
 Barbara Schwarzl schrieb ihrer Familie und ihren Freunden immer gerne von unterwegs ausführliche Schilderungen von ihren Reisen, anfänglich als Seiten lange Briefe, später als Fax oder Mail. Als sie in der BRD an ihrer Diplomarbeit arbeitete, begann sie mit dieser Tradition. Damals wurden ihre wöchentlichen, Detail genauen Berichte zu Hause bereits sehnsüchtig erwartet. Immer wieder wurde sie dazu ermuntert, auch für Fremde zu schreiben. <br> Die Baltikumreise mit ihrem Herzbuben faszinierte sie so sehr, dass sie vor Ort jedes Detail in ihrem Tagebuch vermerkte. Zuhause flogen die Finger über die Tastatur, immer sich die Schönheiten des Baltikums vor Augen haltend. Somit erlebte sie selbst die Reise immer wieder aufs Neue, wenn auch nur in Gedanken.
 
-Barbara Schwarzl war es ein Anliegen, auch Informationen über Land und Leute einfließen zu lassen. Aber nur mit Bedacht, denn sie hat Estland, Lettland und Litauen als Touristin und nicht als Expertin bereist. Sie  weist im Vorwort von "Reise quer durch Estland, Lettland und Litauen" darauf hin, dass es sich um keinen Reiseführer handelt, das Buch sich aber bestens als Ergänzung dazu eignet. <br> Als sie den Entschluss gefasst hatte, sich endlich im Schreiben zu versuchen, wollte sie ein unterhaltsammes und gleichermaßen interessantes Reisetagebuch verfassen. Die wunderschönen Fotos ihres Herzbuben machen dieses Reisebuch einzigartig.
+Barbara Schwarzl war es ein Anliegen, auch Informationen über Land und Leute in das Buch einfließen zu lassen. Aber nur mit Bedacht, denn sie hat Estland, Lettland und Litauen als Touristin und nicht als Expertin bereist. Sie  weist im Vorwort von "Reise quer durch Estland, Lettland und Litauen" darauf hin, dass es sich um keinen Reiseführer handelt, das Buch sich aber bestens als Ergänzung dazu eignet. <br> Als sie den Entschluss gefasst hatte, sich endlich im Schreiben zu versuchen, wollte sie ein unterhaltsammes und gleichermaßen interessantes Reisetagebuch verfassen. Die wunderschönen Fotos ihres Herzbuben machen dieses Reisebuch einzigartig.
+
+
+## Zielgruppe für "Reise quer durch Estland, Lettland und Litauen"?
+
+Personen, die sich auf eine Reise ins Baltikum einstimmen möchten, die unabhängige Informaitionen von Reisenden zu schätzen wissen, ganz gleich ob Pauschal- oder Individualtouristen.
 
 
 ## Welche Orte des Baltikums werden beschrieben?
@@ -23,12 +28,12 @@ Jurmala, Kuldiga, Lipaja, Palanga, Klaipeda, Kurische Nehrung, Tal der Memmel, K
 
 ## Was ist das Besondere dieses Reisetagebuchs?
 
-Die einzelnen Routen können gut nachgefahren oder nachgegangen werden, weshalb dieses Buch gerade für Individualreisende besonders interessant ist. Pauschaltouristen können sich damit natürlich ebenso gut auf Estland, Lettland und Litauen einstimmen. <br> Dazu ein wenig Hintergrundinformationen in anschaulicher Sprache und kurzweilige, humorvolle Erzählungen von kleinen Pannen und kulinarischen Höhenflügen. Und nicht zu vergessen die großartigen Fotos.
+Die einzelnen Routen können gut nachgefahren oder nachgegangen werden, weshalb dieses Buch gerade für Individualreisende besonders interessant ist. Pauschaltouristen können sich damit natürlich ebenso gut auf Estland, Lettland und Litauen einstimmen. <br> Dazu ein wenig Hintergrundinformationen in anschaulicher Sprache und kurzweilige, humorvolle Erzählungen von kleinen Pannen und kulinarischen Höhenflügen. Und nicht zu vergessen die großartigen Fotos. Somit ist das Reisetagebuch "Reise quer durch Estland, Lettland und Litauen" ein unverzichtbarer Reisebegleiter in den baltischen Ländern und die ideale Ergänzung zu herkömmlichen Reiseführern. <br> In diesem Sinne wünscht Barbara Schwarzl eine gute Reise und unvergessliche Eindrücke in Estland, Lettland und Litauen.
 
 
 Das Buch ist erhältlich auf [Amazon][amazon], im [Novum Verlag][novum verlag].
 
-Weitere Informationen auch auf [Facebook][facebook].
+Weitere Informationen auch auf [Facebook][facebook], wo die Autorin mit baltischen Seiten vernetzt ist und regelmäßig Aktuelles postet.
 
 
 [amazon]: https://www.amazon.de/Reise-Durch-Estland-Lettland-Litauen/dp/399003264X
