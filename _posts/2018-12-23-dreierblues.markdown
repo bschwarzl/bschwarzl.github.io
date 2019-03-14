@@ -49,7 +49,7 @@ Auch im Urlaub ist Richie als Alphatier die treibende Kraft. Seine unorthodoxen 
 <img src="/images/cover_dreierblues.jpg" alt="Buchcover Dreierblues" />
 </center>
 
-Das Buch ist erhältlich auf [Amazon][amazon], [neobooks] [neobooks]. 
+Das Buch ist erhältlich als e-book oder als Taschenbuch auf [Amazon][amazon], [neobooks][neobooks], [epubli][epubli]. 
 
 Rezensionen gibt es derzeit leider noch keine. Ich bitte um fleißige Rückmeldungen. Danke!
 
@@ -58,5 +58,8 @@ Weitere Informationen auch auf [Facebook][facebook].
 
 [facebook]: https://www.facebook.com/Dreierblues-373622486772735/
 [amazon]:https://www.amazon.de/s/ref=nb_sb_noss/260-1243103-4337016?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks&field-keywords=dreierblues
-[neobooks]: https://www.neobooks.com/ebooks/barbara-schwarzl-dreierblues-ebook-neobooks-AWfcPc9mQf4BctmW2kp-?toplistType=LATESTBOOKS&pageNumber=2
+[neobooks]: https://www.neobooks.com/suche?searchTerm=dreierblues
+[epubli]:https://www.epubli.de//shop/buch/Dreierblues-Barbara-Schwarzl-9783748514664/83874?utm_medium=email&utm_source=transactional&utm_campaign=Systemmail_PublishedSuccessfully
+
+
  
