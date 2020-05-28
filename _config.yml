@@ -1,8 +1,8 @@
 # Site settings
 title: Barbara Schwarzl
-email: babs_mail@gmx.at
+email: b.schwarzl.autor@A1.net
 description: > # this means to ignore newlines until "baseurl:"
-  Reiselustige Autorin. Eine Übersicht über ihre Werke.
+  Die schreibende Apothekerin. Eine Übersicht über ihre Bücher.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://barbaraschwarzl.com" # the base hostname & protocol for your site
 
