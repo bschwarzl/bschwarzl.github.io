@@ -1,7 +1,7 @@
 # Site settings
 title: Barbara Schwarzl
 email: b.schwarzl.autor@A1.net
-description: > #Ihre Bücher
+description: > #Ihre Werke
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://barbaraschwarzl.com" # the base hostname & protocol for your site
 
