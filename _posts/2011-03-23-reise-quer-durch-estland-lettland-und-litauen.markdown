@@ -2,7 +2,7 @@
 layout: post
 title:  "Reise quer durch Estland, Lettland, und Litauen"
 categories: buch
-image: /images/reisetagebuch.jpg
+image: /images/Reisetagebuch.Cover.klein.jpg
 ---
 
 Ob „baltische Highlights“ wie die Kurische Nehrung, die Hauptstädte Tallinn, Riga und Vilnius, oder der Berg der Kreuze und das Schloss Rundale, ob Nationalparks und hierzulande unbekannte Regionen abseits der Touristentrampelpfade, ob kleine Pannen oder kulinarische Erlebnisse - gemeinsam entdeckt und erlebt mit ihrem Herzbuben - Barbara Schwarzl erzählt enthusiastisch davon, abwechselnd mit fein dosierten Hintergrundinformationen. 

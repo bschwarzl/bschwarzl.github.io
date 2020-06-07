@@ -2,7 +2,7 @@
 layout: post
 title:  "Spurensuche. Diagnose Schizophrenie"
 categories: buch
-image: /images/spurensuche.jpg
+image: /images/Spurensuche.und.Coverklein.jpg
 ---
 
 Tina Bäck, eine intelligente und moderne Frau des 21. Jahrhunderts, begibt sich auf Spurensuche und begegnet mit 34 Jahren ihrem Vater zum ersten Mal. Er ist schizophren. Und schlimmer, er ist ihr erschreckend ähnlich.

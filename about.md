@@ -2,7 +2,7 @@
 layout: no-about-page
 title: Die Autorin
 permalink: /about/
-image: /images/pic02.jpg
+image: /images/Autorin.jpg
 ---
 
 ## Schön, dass Sie zu mir gefunden haben! Ich bin Barbara Schwarzl, die schreibende Apothekerin mit unersättlicher Reiselust.

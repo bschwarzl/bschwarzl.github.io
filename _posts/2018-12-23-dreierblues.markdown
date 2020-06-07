@@ -2,7 +2,7 @@
 layout: post
 title:  "Dreierblues"
 categories: buch
-image: /images/dreierblues.jpg
+image: /images/Dreierblues.und.Coverklein.jpg
 ---
 
 Drei Menschen, die unter weniger außergewöhnlichen Umständen keine Sekunde füreinander verschwendet hätten, entkommen gemeinsam dem Krankenhausblues: Ein Ex-Junkie, eine Depressive und ein Mitachtziger mit Krebs im Endstadium. Aber ihre Fürsorge füreinander stärkt sie.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Alles Anders. Auf Umwegen angekommen"
 categories: buch
-image: /images/alles-anders.jpg
+image: /images/Allesanders.und.Cover.klein.jpg
 ---
 
 Schlag für Schlag verändert sich Dr. Beate Thomas Leben. Letztlich kommt alles anders und ihre tiefsten Träume werden wahr.

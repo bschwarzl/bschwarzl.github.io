@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 permalink: /privacy/
-image: /images/pic01.jpg
+image: /images/Paragraph.JPEG
 ---
 
 #### Daten die wir sammeln
