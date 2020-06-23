@@ -2,6 +2,7 @@
 layout: post
 title:  "Spurensuche. Diagnose Schizophrenie"
 categories: buch
+permalink: /spurensuche-diagnose-schizophrenie/
 image: /images/Spurensuche.und.Coverklein.jpg
 ---
 

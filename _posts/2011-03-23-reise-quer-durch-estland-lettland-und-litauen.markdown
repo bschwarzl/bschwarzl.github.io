@@ -2,6 +2,7 @@
 layout: post
 title:  "Reise quer durch Estland, Lettland, und Litauen"
 categories: buch
+permalink: /reise-quer-durch-estland-lettland-und-litauen/
 image: /images/Reisetagebuch.Cover.klein.jpg
 ---
 

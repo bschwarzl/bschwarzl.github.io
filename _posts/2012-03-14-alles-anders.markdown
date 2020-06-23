@@ -2,6 +2,7 @@
 layout: post
 title:  "Alles Anders. Auf Umwegen angekommen"
 categories: buch
+permalink: /alles-anders-auf-umwegen-angekommen/
 image: /images/Allesanders.und.Cover.klein.jpg
 ---
 

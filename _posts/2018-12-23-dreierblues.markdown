@@ -2,6 +2,7 @@
 layout: post
 title:  "Dreierblues"
 categories: buch
+permalink: /dreierblues/
 image: /images/Dreierblues.und.Coverklein.jpg
 ---
 
