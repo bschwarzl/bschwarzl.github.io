@@ -58,6 +58,10 @@ Rezensionen gibt es auf [Buchaviso] [buchaviso] und [Leseleidenschaft] [leseleid
 
 Weitere Informationen auch auf [Facebook][facebook], wo Sie mich gerne kontaktieren können.
 
+# Informationen für psychisch Kranke und ihre Angehörigen
+
+[DGPPN] [dgppn], [Hilfe für Angehörige psychisch Erkrankter] [hilfe für Angehörige psychisch Erkrankter], [Öffentliches Gesundheitsportal Österreichs] [öffentliches Gesundheitsportal Österreichs]
+
 
 [buchaviso]: http://buchaviso.de/spurensuche-diagnose-schizophrenie-von-barbara-schwarzl
 [leseleidenschaft]: http://www.leseleidenschaft.de/gastrezension-spurensuche-von-barbara-schwarzl/
@@ -65,3 +69,7 @@ Weitere Informationen auch auf [Facebook][facebook], wo Sie mich gerne kontaktie
 [amazon]: https://www.amazon.de/Spurensuche-Diagnose-Schizophrenie-Barbara-Schwarzl/dp/394477115X
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID44038233.html?retn=thatsel:q1
 [online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
+
+[dgppn]: https://www.dgppn.de/
+[hilfe für Angehörige psychisch Erkrankter]: https://www.hpe.at/home.html
+[öffentliches Gesundheitsportal Österreichs]: https://www.gesundheit.gv.at/krankheiten/psyche/inhalt

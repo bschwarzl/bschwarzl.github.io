@@ -21,7 +21,7 @@ Die Geschichte ist mir im wahrsten Sinne des Wortes zugeflogen. Ich war mit dem 
 ## Was veranlasste Barbara Schwarzl, die schreibende Apothekerin, dieses Buch zu schreiben?
 
 In Dreierblues spreche ich Themen an, mit denen ich als Apothekerin in meinem Berufsalltag häufig konfrontiert bin: Drogensucht, Burnout, Depression und Krebserkrankung. <br> Die Figurenkonstellation von "Dreierblues" ist gewagt und ebenso reizvoll. Ich sehe regelmäßig, dass Drogensüchtige eine Empathie entwickeln können, die ihnen viele nicht zutrauen. Diese Fürsorge lenkt sie zumindest zeitweilig von ihren eigenen Problemen ab. <br> Die an Burn-out erkrankte Karin wird vom charismatischen Ex-Junkie Richie aus ihrer Lethargie gerissen. Der an Krebs erkrankte Hans wartet nicht mehr auf den Tod, sondern will in der kurzen Zeit, die ihm noch bleibt, seinen Spaß haben und mit seinen jungen Freunden noch allerlei erleben. Wenn es nach Richie ginge, sollte er es noch einmal so richtig krachen lassen. <br> Was liegt näher als eine letzte gemeinsame Reise? Die Karibik ist das perfekte Ziel. Und Karins sehnlichster Wunsch ist ein Urlaub in Westindien. Sommerlich warm im Winter, pudrig feiner, weißer Sand, türkisblaues, wohl temperiertes Meer, liebenswerte, gastfreundliche Menschen, die pure Lebenslust versprühen. Die idealen Zutaten für einen Traumurlaub. <br> Meine Reiselust treibt mich gerne in fremde Länder, auch um meinen Horizont zu erweitern. Manchmal lassen sich Probleme mit einem gewissen Abstand zur Heimat aus einem anderen Winkel betrachten. Natürlich lassen Sonne, karibisch weißer Strand und kristallklares Meer unsere Herzen hüpfen, was wiederum einen Einfluss auf unsere Gesundheit haben kann.
-Anders als mein Buch "Spurensuche. Diagnose Schizophrenie" geht es im "Dreierblues" nicht um Fakten und nicht um einen regen Informationsfluss, sondern um Unterhaltung pur. "Dreierblues" macht Lust, den nächsten Urlaub in der Karbik zu verbringen. Das Buch ist eine angenehm leichte Strandlektüre, das ganz nebenbei Hintergrundinformationen über Land und Leute liefert. 
+Anders als mein Buch [Spurensuche. Diagnose Schizophrenie] [spurensuche. Diagnose Schizophrenie] geht es im "Dreierblues" nicht um Fakten und nicht um einen regen Informationsfluss, sondern um Unterhaltung pur. "Dreierblues" macht Lust, den nächsten Urlaub in der Karbik zu verbringen. Das Buch ist eine angenehm leichte Strandlektüre, das ganz nebenbei Hintergrundinformationen über Land und Leute liefert. 
 
 
 
@@ -57,6 +57,7 @@ Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jew
 Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik auf [Facebook][facebook].
 
 
+[spurensuche. Diagnose Schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
 [online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
 [facebook]: https://www.facebook.com/Roadnovel.DominikanischeRepublik
 [amazon]:https://www.amazon.de/s/ref=nb_sb_noss/260-1243103-4337016?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks&field-keywords=dreierblues
