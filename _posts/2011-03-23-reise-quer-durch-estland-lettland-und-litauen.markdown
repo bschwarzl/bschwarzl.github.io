@@ -30,7 +30,7 @@ Jurmala, Kuldiga, Lipaja, Palanga, Klaipeda, Kurische Nehrung, Tal der Memmel, K
 Die einzelnen Routen können gut nachgefahren oder nachgegangen werden, weshalb dieses Buch gerade für Individualreisende interessant ist. Pauschaltouristen können sich damit natürlich ebenso gut auf Estland, Lettland und Litauen einstimmen. <br> Dazu ein wenig Hintergrundinformationen in anschaulicher Sprache und kurzweilige, humorvolle Erzählungen von kleinen Pannen und kulinarischen Höhenflügen. Und nicht zu vergessen die großartigen Fotos. Somit ist mein Reisetagebuch "Reise quer durch Estland, Lettland und Litauen" ein unverzichtbarer Reisebegleiter in den baltischen Ländern und die ideale Ergänzung zu herkömmlichen Reiseführern. <br> Ich wünsche Ihnen eine angenehme Lektüre und eine gute Reise mit unvergesslichen Eindrücken von Estland, Lettland und Litauen.
 
 
-Das Buch ist erhältlich auf [Amazon][amazon], im [Novum Verlag][novum verlag], auf allen gängigen Plattformen und beim Buchhändler Ihres Vertrauens.
+Das Buch können Sie kaufen auf [Amazon][amazon], beim [Novum Verlag][novum verlag], auf allen gängigen Plattformen, in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] und beim Buchhändler Ihres Vertrauens, der es jederzeit bestellen kann, falls es nicht vorrätig ist.
 
 Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][facebook], wo Sie mich gerne kontaktieren können.
 
@@ -39,3 +39,4 @@ Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][f
 [novum verlag]: https://www.novumverlag.com/buecher/ratgeber-sachbuch/sonstiges-allerlei/reise-quer-durch-estland-lettland-und-litauen.html
 
 [facebook]: https://www.facebook.com/Reise-quer-durch-Estland-Lettland-und-Litauen-251627861517218/
+[online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
