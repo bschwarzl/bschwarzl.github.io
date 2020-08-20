@@ -52,7 +52,7 @@ Bereits zwei Mal (im November 2016 und 2018) durfte ich "Spurensuche. Diagnose S
 
  
 
-Das Buch ist erhältlich auf [Amazon][amazon], [Thalia] [thalia], auf allen gängigen Plattformen, in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] und bei Ihrem regionalen Buchhändler, der das Buch jederzeit bestellen kann, falls es nicht vorrätig ist. 
+Das Buch (ISBN 978-3944771151) ist erhältlich auf [Amazon][amazon], [Thalia] [thalia], auf allen gängigen Plattformen, in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] und bei Ihrem regionalen Buchhändler, der das Buch jederzeit bestellen kann, falls es nicht vorrätig ist. Ich danke Ihnen für den Kauf!
 
 Rezensionen gibt es auf [Buchaviso] [buchaviso] und [Leseleidenschaft] [leseleidenschaft]. Ich bin dankbar für weitere wohlwollende Rezensionen und für Mundpropaganda.
 

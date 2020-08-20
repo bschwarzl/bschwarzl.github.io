@@ -50,7 +50,7 @@ Auch im Urlaub ist Richie als Alphatier die treibende Kraft. Seine unorthodoxen 
 <img src="/images/cover_dreierblues.jpg" alt="Buchcover Dreierblues" />
 </center>
 
-Das Buch ist erhältlich als e-book oder als Taschenbuch auf [Amazon][amazon], [Thalia][thalia], [Epubli][epubli], auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. 
+Das Buch (ISBN 978-3-7427-1061-1) ist erhältlich als e-book oder als Taschenbuch auf [Amazon][amazon], [Thalia][thalia], [Epubli][epubli], auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke für den Kauf!
 
 Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Bitte betreiben Sie fleißig Mundpropaganda. Lassen Sie mich unbedingt wissen, wie Ihnen "Dreierblues" gefallen hat. Ich freue mich, wenn Sie mich auf Facebook kontaktieren. <br> Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie sich unbedingt mein nächstes Buch besorgen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
 

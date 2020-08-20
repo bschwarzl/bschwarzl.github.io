@@ -29,7 +29,7 @@ Es freut mich, dass ich "Spurensuche. Diagnose Schizophrenie" auf den DGPPN-Kong
 
 In meinem vierten Buch [Dreierblues] [dreierblues] stechen meine Vorliebe für das Reisen und für psychologische Tiefgänge hervor. "Dreierblues" ist sicher mein bisher pfiffigstes Buch und ist am ehesten in das Genre Roadnovel einzuordnen. Bedingt durch die drei unterschiedlichen Charaktere variiert die Sprachmelodie von gehoben bis zu salopp und flapsig. <br> Der Roman "Dreierblues" erschien Ende Dezember 2018 bei Neobooks und im Februar 2019 als Taschenbuch bei Epubli.
 
-Mit meinem fünften Buch befinde ich mich gerade in der Endphase. Vorerst verrate ich nur so viel, dass es ein Roman wird, der stellenweise sicher unter die Haut gehen wird. Mit der Veröffentlichung sollte es 2020 klappen. Ich werde Sie rechtzeitig an dieser Stelle informieren. Folgen Sie mir bitte auch auf [Facebook][facebook].
+Mit meinem fünften Buch befinde ich mich gerade in der Endphase. Vorerst verrate ich nur so viel, dass es ein Roman wird, der stellenweise sicher unter die Haut gehen wird. Mit der Veröffentlichung sollte es 2020 klappen. Ich werde Sie rechtzeitig an dieser Stelle informieren. Folgen Sie mir bitte auch auf [Facebook][facebook]: #schreibendeApothekerin
 
 Meine Bücher können Sie bei den bekannten Online-Riesen kaufen, und natürlich in der Buchhandlung Ihres Vertrauens, wo sie, falls nicht vorrätig, gerne bestellt werden können. Hier eine Übersicht der [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen].
 
@@ -37,10 +37,11 @@ Ich wünsche Ihnen gute Unterhaltung und angenehme Stunden mit meinen Büchern, 
 Alles Liebe, Ihre Barbara Schwarzl, die schreibende und reiselustige Apothekerin
 
 
+
 [reise quer durch Estland, Lettland und Litauen]: https://barbaraschwarzl.com/reise-quer-durch-estland-lettland-und-litauen/
 [alles anders. Auf Umwegen angekommen]: https://barbaraschwarzl.com/alles-anders-auf-umwegen-angekommen/
 [spurensuche. Diagnose Schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
 [dreierblues]: https://barbaraschwarzl.com/dreierblues/
 
-[facebook]: https://www.facebook.com/barbara.schwarzl.1
+[facebook]: https://www.facebook.com/schreibendeApothekerin
 [online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
