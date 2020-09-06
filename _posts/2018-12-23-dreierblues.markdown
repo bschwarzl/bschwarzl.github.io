@@ -10,7 +10,7 @@ Drei Menschen, die unter weniger außergewöhnlichen Umständen keine Sekunde f�
 Lässiges Verhalten und lockere Sprüche prallen auf Spießertum und konservative Werte. 
 Aus unterschiedlichen Motiven brechen sie auf zu einem Luxusurlaub in die Dominikanische Republik. Eine Reise ins Ungewisse, die ihr Leben für immer verändern wird.
 
-"Dreierblues" ist ein unterhaltsamer Roman über Freunde, die mit ihrer Sorge füreinander ihre eigenen Probleme meistern und ihre Lebenskrisen überwinden. Ihre unvergessliche Reise in die Karibik, ans andere Ende der Welt schweißt sie zusammen. <br> "Dreierblues" lässt sich in das Genre erzählende Prosa, Unterhaltungs- und Gegenwartsliteratur und Roadnovel einordnen. <br> Trotz der ernst anmutenden Themen (Krebs, Drogensucht und Burn-out) gewinnt der Text seine Lebendigkeit aus den Dialogen und den atmosphärischen Details.
+"Dreierblues" lässt sich in das Genre erzählende Prosa, Unterhaltungs- und Gegenwartsliteratur bzw. zeitgenössische Literatur einordnen. Im Speziellen ist "Dreierblues" ein Freundschaftsroman, eine Roadnovel über die Dominikanische Republik oder sogar eine Fernweh-Apotheke der schreibenden Apothekerin und last but not least Reiseliteratur. <br> In diesem unterhaltsamen Roman stelle ich drei ungleiche Freunde in den Mittelpunkt, die mit ihrer Sorge füreinander ihre eigenen Probleme meistern und ihre Lebenskrisen überwinden werden. Gelingt es ihnen auf dieser unvergesslichen Reise in die Karibik, der Krebserkrankung, dem Burn-out oder der Drogensucht zu entfliehen? So viel sei verraten: Manchmal werden sie den Blues haben und diese Reise ans andere Ende der Welt wird sie auf ewig zusammenschweißen. <br> Trotz der ernst anmutenden Themen (Krebs, Drogensucht und Burn-out) gewinnt der Text seine Lebendigkeit aus den Dialogen und den atmosphärischen Details.
 
 
 ## Wie kam es zu "Dreierblues"?
@@ -50,7 +50,8 @@ Auch im Urlaub ist Richie als Alphatier die treibende Kraft. Seine unorthodoxen 
 <img src="/images/cover_dreierblues.jpg" alt="Buchcover Dreierblues" />
 </center>
 
-Das Buch (ISBN 978-3-7427-1061-1) ist erhältlich als e-book oder als Taschenbuch auf [Amazon][amazon], [Thalia][thalia], [Epubli][epubli], auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke für den Kauf!
+Das Buch ist erhältlich als e-book (9783742710611) oder als Taschenbuch (ISBN 978-3-7485-1466-4) auf [Amazon][amazon], [Thalia][thalia], [Epubli][epubli], auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke für den Kauf!
+*** NEU ***: "Dreierblues" ist seit 3.9.2020 auch für Tolino-Reader verfügbar (ISBN 13: 9783752112924)!!
 
 Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Bitte betreiben Sie fleißig Mundpropaganda. Lassen Sie mich unbedingt wissen, wie Ihnen "Dreierblues" gefallen hat. Ich freue mich, wenn Sie mich auf Facebook kontaktieren. <br> Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie sich unbedingt mein nächstes Buch besorgen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
 
