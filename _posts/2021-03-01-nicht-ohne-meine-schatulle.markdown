@@ -3,7 +3,7 @@ layout: post
 title:  "Nicht ohne meine Schatulle"
 categories: buch
 permalink: /nicht-ohne-meine-schatulle/
-image: /images/IMG_0638.jpeg
+image: /images/IMG_0638.JPEG
 ---
 
 
