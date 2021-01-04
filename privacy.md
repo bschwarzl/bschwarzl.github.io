@@ -10,21 +10,16 @@ image: /images/Paragraph.JPEG
 Darum werden über die Website www.barbaraschwarzl.com keine Daten gespeichert, gesammelt, verkauft, gehandelt und an andere verliehen!
 Diese Seite nutzt derzeit weder Google Analytics, noch Google Tag Manager, noch Cookies.
 
-Die Nutzung dieser Website ist ohne Angabe personenbezogener Daten möglich.
-Sofern Sie mit mir per Mail in Kontakt treten, lösche ich Ihre Daten wieder, sobald Ihr Anliegen erledigt ist, und gebe sie niemals ohne Ihre ausdrückliche Zustimmung an Dritte weiter.
+Die Nutzung dieser Website ist ohne Angabe personenbezogener Daten möglich, da Sie nur Informationen über die Autorentätigkeit der schreibenden Apothekerin liefert.
+Sofern Sie mit der Autorin per Mail in Kontakt treten, löscht sie Ihre Daten, sobald Ihr Anliegen erledigt ist, und gibt sie niemals ohne Ihre ausdrückliche Zustimmung an Dritte weiter.
 
-Ich weise darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
+Die Autorin weist darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
-Ich habe auf meiner Website die Social-Media-Buttons folgender Unternehmen eingebunden:
+Diese Website verwendet Social-Media-Funktionen von Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. Über darauf eingebundene Facebook-Schaltflächen können Sie direkt auf die Autorenseiten von Barbara Schwarzl bei Facebook gelangen.
+Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 UAbs. 1 Buchstabe f) DSGVO das berechtigte Interesse an der Optimierung des Websiteangebots. Durch Anklicken des Facebook-Logos wird eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Besitzen Sie einen Facebook-Account, erhält Facebook die Information, dass Sie mit Ihrer IP-Adresse diese Website besucht haben und kann diese Daten Ihrem Benutzerkonto zuordnen. Wenn Sie keine Zuordnung dieser Daten zu Ihrem Facebook-Account wünschen, loggen Sie sich daher bitte vor dem Besuch dieser Seite bei Facebook aus und löschen Sie die Cookies in Ihrem Browser. Facebook hat sich dem Datenschutzabkommen „Privacy Shield“ zwischen der USA und der EU unterworfen.
+(Quelle: Muster-Datenschutzerklärung von anwalt.de.) <br> Die Autorin weist darauf hin, dass sie als Anbieterin dieser Seite keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhält. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von [Facebook] [facebook].
 
-Facebook
-
-(1) Auf meiner Seite sind Plugins des sozialen Netzwerks Facebook, 1601 South California Avenue, Palo Alto, CA 94304, USA integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder dem „Like-Button“ („Gefällt mir“) auf unserer Seite. Eine Übersicht über die Facebook-Plugins finden Sie hier: developers.facebook.com/docs/plugins/.
-(2) Wenn Sie meine Seite besuchen, wird über das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Facebook erhält dadurch die Information, dass Sie mit Ihrer IP-Adresse unsere Seite besucht haben. Wenn Sie den Facebook „Like-Button“ anklicken während Sie in Ihrem Facebook-Account eingeloggt sind, können Sie die Inhalte unserer Seiten auf Ihrem Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen.
-
-(3) Ich weise darauf hin, dass ich als Anbieter der Seite keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhalte. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von [Facebook] [facebook].
-
-Außerdem verweise ich auf verschiedene Verkaufsportale, für deren Inhalt und Einhaltung der Datenschutzrichtlinie ich nicht verantwortlich bin. Nähere Informationen unter:
+Außerdem verweist die Autorin auf verschiedene Verkaufsportale, um Ihnen die Suche nach ihren Büchern zu erleichtern. Sie ist für den Inhalt und die Einhaltung der Datenschutzrichtlinie dieser Seiten nicht verantwortlich. Nähere Informationen unter:
 [Amazon] [amazon], [Thalia] [thalia], [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen], [Morawa] [morawa], [Novumverlag] [novumverlag].
 
 [facebook]: https://www.facebook.com/policy.php

@@ -40,9 +40,9 @@ In der Normandie sucht Bea alle Sehenswürdigkeiten auf, von denen ich überzeug
 Alençon, Carrouges, Château d´O, Camembert, Falaise, Saint-Lô, Balleroy, Caen, Bayeux, Quistreham, die Strände der Landung, wie Juno, Omaha, Sword und Utah Beach, Pointe du Hoc, Arromanches-les-Bains, Sainte-Mère-Église, Cherbourg, Nez de Jobourg, Granville, Mont-Saint-Michel, Port-en-Bessin, Beuvron-en Auge, Deauville, Trouville und Honfleur an der Côte Fleurie, Le Havre, Étretat und Fécamp an der Côte d`Alabatre, Pont-Audemer, Pointe de la Roque, Tancarville, Duclair, Jumièges, St.-Martin-de-Boscherville, Rouen, Côte des Deux Amantes, Les Andelys, Vernon, Monets Garten in Giverny. <br> Wetten, dass Sie sich am liebsten sofort nach Venedig oder in die Normandie begeben möchten?? <br> "Alles anders. Auf Umwegen angekommen" ist der ideale Roman für reiselustige, italo- und frankophile Leser(innen).
 
 
-Das Buch (ISBN 978-3-99026-311-2) ist derzeit vorrätig bei [Morawa im Citypark in Graz] [morawa im Citypark in Graz]; in der [Libreria Dante Alighieri] [libreria Dante Alighieri], Via Dante Alighieri 37 in Grado und bei mir. Ich danke für den Kauf!
+Das Buch (ISBN 978-3-99026-311-2) ist derzeit vorrätig bei [Morawa im Citypark in Graz] [morawa im Citypark in Graz]; in der [Libreria Dante Alighieri] [libreria Dante Alighieri], Via Dante Alighieri 37 in Grado und natürlich auch bei mir persönlich. Ich danke für den Kauf!
 
-Besuchen Sie mich auf [Facebook][facebook], wo ich regelmäßig Aktuelles aus Venedig und der Normandie poste. Ich freue mich, wenn Sie mich dort kontaktieren.
+Besuchen Sie mich auf [Facebook] facebook], wo ich regelmäßig Aktuelles aus Venedig und der Normandie poste. Ich freue mich, wenn Sie mich dort kontaktieren.
 
 
 [reise quer durch Estland, Lettland und Litauen]: https://barbaraschwarzl.com/reise-quer-durch-estland-lettland-und-litauen/
