@@ -53,7 +53,9 @@ Auch im Urlaub ist Richie als Alphatier die treibende Kraft. Seine unorthodoxen 
 Das Buch ist erhältlich als e-book (9783742710611) oder als Taschenbuch (ISBN 978-3-7485-1466-4) auf [Amazon][amazon], [Thalia][thalia] und auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke für den Kauf!
 *** NEU ***: "Dreierblues" ist seit 3.9.2020 auch für Tolino-Reader verfügbar (ISBN 13: 9783752112924)!!
 
-Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Bitte betreiben Sie fleißig Mundpropaganda. Lassen Sie mich unbedingt wissen, wie Ihnen "Dreierblues" gefallen hat. Ich freue mich, wenn Sie mich auf Facebook kontaktieren. <br> Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie sich unbedingt mein nächstes Buch [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] besorgen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
+*** AKTUELLES ***: [Michelangelos Bookblog] [michelangelos Bookblog] präsentiert im Jänner 2021 "Dreierblues". Die Schnitzel aus dem Buch könnt Ihr auf diesem vielseitigen Blog nachlesen.
+
+Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Bitte betreiben Sie fleißig Mundpropaganda. Lassen Sie mich unbedingt wissen, wie Ihnen "Dreierblues" gefallen hat. Ich freue mich, wenn Sie mich auf [Facebook] [facebook] kontaktieren. Oder kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? <br> #schreibendeApothekerin <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie sich unbedingt mein nächstes Buch [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] besorgen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
 
 Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik auf [Facebook][facebook].
 
@@ -63,6 +65,8 @@ Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik au
 [facebook]: https://www.facebook.com/Roadnovel.DominikanischeRepublik
 [amazon]:https://www.amazon.de/s/ref=nb_sb_noss/260-1243103-4337016?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks&field-keywords=dreierblues
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID141994088.html
+[michelangelos Bookblog]: https://michelangelosbookblog.blogspot.com/search/label/Psychologie
+[autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [nicht ohne meine Schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
 
 

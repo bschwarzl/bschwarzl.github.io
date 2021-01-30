@@ -56,7 +56,7 @@ Das Buch (ISBN 978-3944771151) ist erhältlich auf [Amazon][amazon], [Thalia] [t
 
 Rezensionen gibt es auf [Buchaviso] [buchaviso] und [Leseleidenschaft] [leseleidenschaft]. Ich bin dankbar für weitere wohlwollende Rezensionen und für Mundpropaganda.
 
-Weitere Informationen auch auf [Facebook][facebook], wo Sie mich gerne kontaktieren können.
+Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie auch meine [Autorenseite auf Facebook] [autorenseite auf facebook]! <br> #schreibendeApothekerin
 
 # Informationen für psychisch Kranke und ihre Angehörigen
 
@@ -69,7 +69,7 @@ Weitere Informationen auch auf [Facebook][facebook], wo Sie mich gerne kontaktie
 [amazon]: https://www.amazon.de/Spurensuche-Diagnose-Schizophrenie-Barbara-Schwarzl/dp/394477115X
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID44038233.html?retn=thatsel:q1
 [online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
-
+[autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [dgppn]: https://www.dgppn.de/
 [hilfe für Angehörige psychisch Erkrankter]: https://www.hpe.at/home.html
 [öffentliches Gesundheitsportal Österreichs]: https://www.gesundheit.gv.at/krankheiten/psyche/inhalt

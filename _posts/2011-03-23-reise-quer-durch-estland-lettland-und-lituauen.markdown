@@ -33,11 +33,11 @@ Die einzelnen Routen können gut nachgefahren oder nachgegangen werden, weshalb 
 
 Das Buch (ISBN 978-3-99003-264-0) können Sie kaufen auf [Amazon][amazon], beim [Novum Verlag][novum verlag], auf allen gängigen Plattformen, in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] und beim Buchhändler Ihres Vertrauens, der es jederzeit bestellen kann, falls es nicht vorrätig ist. Ich danke für den Kauf!
 
-Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][facebook], wo Sie mich gerne kontaktieren können.
-
+Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][facebook]. Kennen Sie schon meine [Autorenseite auf Facebook] [autorenseite auf facebook]? <br> #schreibendeApothekerin
 
 [amazon]: https://www.amazon.de/Reise-Durch-Estland-Lettland-Litauen/dp/399003264X
 [novum verlag]: https://www.novumverlag.com/buecher/ratgeber-sachbuch/sonstiges-allerlei/reise-quer-durch-estland-lettland-und-litauen.html
 
 [facebook]: https://www.facebook.com/Reise-quer-durch-Estland-Lettland-und-Litauen-251627861517218/
 [online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
+[autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
