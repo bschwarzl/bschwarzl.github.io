@@ -13,11 +13,9 @@ Dieses schreckliche Geheimnis bewahrt Emma bis zu ihrem 77. Sommer wie einen Sch
 Dann taucht auch noch ihr Bruder Fritz aus der Versenkung auf. Der Wunsch nach Rache eint sie.
 „Wer mir wehtut, dem tu ich erst so richtig weh!“, hatte sie sich als Mädchen geschworen. Zeit, dieses Versprechen endlich einzulösen. <br> 
 
-## Vorankündigung ;)
+## In Kürze im Buchhandel! <br> 
 
-In Kürze im Buchhandel! <br> 
-
-Demnächst enthülle ich an dieser Stelle mehr ... und ebenso auf [Facebook] [facebook]. <br> Nur so viel sei verraten: Die auf dem Foto dargestellten Gegenstände haben eine Bedeutung für die Geschichte. Worüber könnte Sie handeln? Haben Sie eine Idee? <br> Folgen Sie mir auf [Facebook] [facebook], erfahren Sie mehr über mich und meine Bücher! <br> 
+Demnächst enthülle ich an dieser Stelle mehr ... und ebenso auf [Facebook] [facebook]. <br> Folgen Sie mir auf [Facebook] [facebook], erfahren Sie mehr über mich und meine Bücher! <br> 
 
 
 [facebook]: https://www.facebook.com/schreibendeApothekerin/
