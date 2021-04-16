@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Blog post 1"
+categories: 
+image: /images/Reisetagebuch.Cover.klein.jpg
+---
+
+Lorem ipsum, bacon or whatever.
