@@ -15,3 +15,7 @@ author: Barbara Schwarzl
 
 plugins:
   - jekyll-paginate
+
+collections:
+  books:
+    output: true
