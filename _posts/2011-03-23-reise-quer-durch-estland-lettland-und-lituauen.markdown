@@ -43,5 +43,5 @@ Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][f
 [dreierblues]: https://barbaraschwarzl.com/dreierblues/
 
 [facebook]: https://www.facebook.com/Reise-quer-durch-Estland-Lettland-und-Litauen-251627861517218/
-[online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
+[online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin

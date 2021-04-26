@@ -60,7 +60,7 @@ Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jew
 Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik auf [Facebook][facebook].
 
 [spurensuche. Diagnose Schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
-[online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
+[online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
 [facebook]: https://www.facebook.com/Roadnovel.DominikanischeRepublik
 [amazon]:https://www.amazon.de/s/ref=nb_sb_noss/260-1243103-4337016?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks&field-keywords=dreierblues
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID141994088.html

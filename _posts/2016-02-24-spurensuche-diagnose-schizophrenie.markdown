@@ -68,7 +68,7 @@ Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie auch 
 [facebook]: https://www.facebook.com/Spurensuche-Diagnose-Schizophrenie-511738592352066/
 [amazon]: https://www.amazon.de/Spurensuche-Diagnose-Schizophrenie-Barbara-Schwarzl/dp/394477115X
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID44038233.html?retn=thatsel:q1
-[online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
+[online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [dgppn]: https://www.dgppn.de/
 [hilfe für Angehörige psychisch Erkrankter]: https://www.hpe.at/home.html
