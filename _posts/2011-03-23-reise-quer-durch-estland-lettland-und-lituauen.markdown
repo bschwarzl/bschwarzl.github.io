@@ -16,9 +16,9 @@ Ich liebte es schon immer, Freunden und der Familie von unterwegs ausführliche 
 Neben den detailgetreuen Reiseschilderungen habe ich Informationen über Land und Leute in das Buch einfließen lassen. Aber nur mit Bedacht, denn ich habe Estland, Lettland und Litauen als Touristin und nicht als Expertin bereist. Darum weise ich hier, wie auch im Vorwort von "Reise quer durch Estland, Lettland und Litauen", darauf hin, dass es sich bei dem Buch um keinen Reiseführer handelt, dass es sich aber bestens als Ergänzung dazu eignet. Ich schildere darin unsere Eindrücke, die wir als Individualtouristen in Estland, Lettland und Litauen gemacht haben. <br> Die wunderschönen Fotos steuerte mein Herzbube bei, der nach wie vor nicht namentlich genannt werden möchte. Mit diesem bebilderten Reisebuch können Sie, liebe Leserin, lieber Leser, sich vortrefflich auf das Baltikum einstimmen und als Individualreisende(r) unsere Route gerne übernehmen.
 
 
-## Zielgruppe für "Reise quer durch Estland, Lettland und Litauen"?
+## Wem könnte "Reise quer durch Estland, Lettland und Litauen" gefallen?
 
-Leser, ganz gleich ob Pauschal- oder Individualtouristen, die sich auf eine Reise ins Baltikum einstimmen möchten, die unabhängige Informationen von Reisenden zu schätzen wissen. Leser, die sich von meinen Reiseerzählungen inspirieren lassen möchten. Leser, die gerne im Kopf verreisen. Leser mit einer Vorliebe für Reisegeschichten oder Reisetagebücher.
+LeserInnen, ganz gleich ob Pauschal- oder IndividualtouristInnen, die sich auf eine Reise ins Baltikum einstimmen möchten, die unabhängige Informationen von Reisenden zu schätzen wissen. LeserInnen, die sich von meinen Reiseerzählungen inspirieren lassen möchten. LeserInnen, die gerne im Kopf verreisen. LeserInnen mit einer Vorliebe für Reisegeschichten oder Reisetagebücher.
 
 
 ## Welche Orte des Baltikums werden beschrieben?
@@ -34,7 +34,7 @@ Die einzelnen Routen können gut nachgefahren oder nachgegangen werden, weshalb 
 Das Buch (ISBN 978-3-99003-264-0) können Sie kaufen auf [Amazon][amazon], beim [Novum Verlag][novum verlag], auf allen gängigen Plattformen, in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] und beim Buchhändler Ihres Vertrauens, der es jederzeit bestellen kann, falls es nicht vorrätig ist. Ich danke für den Kauf! <br> 
 Wohin führt Ihre nächste Reise? Für Venedig und die Normandie empfiehlt Ihnen die schreibende Apothekerin aus ihrer Fernweh Apotheke [Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen] und für die nächste Fernreise in die Karibik bzw. in die Dominikanische Republik [Dreierblues] [dreierblues]. <br> Viele schöne Reisen - real und im Kopf - wünscht Ihnen Barbara Schwarzl, die schreibende Apothekerin mit unersättlicher Reiselust.
 
-Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][facebook]. Kennen Sie schon meine [Autorenseite auf Facebook] [autorenseite auf facebook]? <br> #schreibendeApothekerin
+Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][facebook]. Kennen Sie schon meine [Autorenseite auf Facebook] [autorenseite auf facebook]? Oder jene auf [Twitter] [twitter]?<br> #schreibendeApothekerin
 
 [amazon]: https://www.amazon.de/Reise-Durch-Estland-Lettland-Litauen/dp/399003264X
 [novum verlag]: https://www.novumverlag.com/buecher/ratgeber-sachbuch/sonstiges-allerlei/reise-quer-durch-estland-lettland-und-litauen.html
@@ -45,3 +45,4 @@ Weitere Informationen und Aktuelles aus den baltischen Ländern auf [Facebook][f
 [facebook]: https://www.facebook.com/Reise-quer-durch-Estland-Lettland-und-Litauen-251627861517218/
 [online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
+[twitter]: https://twitter.com/BuchSchwarzl

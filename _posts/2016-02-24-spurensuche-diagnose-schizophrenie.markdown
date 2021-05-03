@@ -41,7 +41,7 @@ Bemerkenswert ist, dass Sie, liebe(r) Leser(in), den Ausbruch der Erkrankung sel
 
 ## Was bringt die Zukunft?
 
-Bereits zwei Mal (im November 2016 und 2018) durfte ich "Spurensuche. Diagnose Schizophrenie" auf dem renommierten DGPPN-Kongress in Berlin vorstellen und daraus lesen. Dabei zeigte sich, dass diese fiktive Geschichte mit in die Handlung eingewobenen Informationen genauso fesselte wie Autobiographisches von Betroffenen. Die Kombination von Roman und Sachbuch fand besonderen Anklang. Es wird sich weisen, ob sich eine weitere Zusammenarbeit ergeben wird. Ich bin der DGPPN dankbar für die Einladungen. Ich konnte interessante Kontakte knüpfen und großartige Menschen kennenlernen. Mein Respekt gilt den Betroffenen, die bei den Lesungen offen über ihre Krankheit sprachen. <br> Ich vernetze mich laufend mit engagierten Angehörigengruppen und Personen, die wie ich gegen die Vorverurteilung psychisch Kranker ankämpfen. Bei Interesse stehe ich gerne für Buchpräsentationen und Lesungen zur Verfügung. Zögern Sie nicht, mich zu kontaktieren! <br> Auf Facebook poste ich regelmäßig Interessantes zum Thema.
+Bereits zwei Mal (im November 2016 und 2018) durfte ich "Spurensuche. Diagnose Schizophrenie" auf dem renommierten DGPPN-Kongress in Berlin vorstellen und daraus lesen. Dabei zeigte sich, dass diese fiktive Geschichte mit in die Handlung eingewobenen Informationen genauso fesselte wie Autobiographisches von Betroffenen. Die Kombination von Roman und Sachbuch fand besonderen Anklang. Es wird sich weisen, ob sich eine weitere Zusammenarbeit ergeben wird. Ich bin der DGPPN dankbar für die Einladungen. Ich konnte interessante Kontakte knüpfen und großartige Menschen kennenlernen. Mein Respekt gilt den Betroffenen, die bei den Lesungen offen über ihre Krankheit sprachen. <br> Ich vernetze mich laufend mit engagierten Angehörigengruppen und Personen, die wie ich gegen die Vorverurteilung psychisch Kranker ankämpfen. Bei Interesse stehe ich gerne für Buchpräsentationen und Lesungen zur Verfügung. Zögern Sie nicht, mich zu kontaktieren! <br> Auf [Facebook] [facebook] poste ich regelmäßig Interessantes zum Thema.
 
 
 
@@ -56,7 +56,7 @@ Das Buch (ISBN 978-3944771151) ist erhältlich auf [Amazon][amazon], [Thalia] [t
 
 Rezensionen gibt es auf [Buchaviso] [buchaviso] und [Leseleidenschaft] [leseleidenschaft]. Ich bin dankbar für weitere wohlwollende Rezensionen und für Mundpropaganda.
 
-Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie auch meine [Autorenseite auf Facebook] [autorenseite auf facebook]! <br> #schreibendeApothekerin
+Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie auch meine [Autorenseite auf Facebook] [autorenseite auf facebook]! Und gerne auch auf [Twitter] [twitter] <br> #schreibendeApothekerin
 
 # Informationen für psychisch Kranke und ihre Angehörigen
 
@@ -70,6 +70,7 @@ Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie auch 
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID44038233.html?retn=thatsel:q1
 [online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
+[twitter]: https://twitter.com/BuchSchwarzl
 [dgppn]: https://www.dgppn.de/
 [hilfe für Angehörige psychisch Erkrankter]: https://www.hpe.at/home.html
 [öffentliches Gesundheitsportal Österreichs]: https://www.gesundheit.gv.at/krankheiten/psyche/inhalt

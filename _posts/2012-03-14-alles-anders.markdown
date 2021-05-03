@@ -20,19 +20,19 @@ Nach meinem Erstling, dem Reisetagebuch [Reise quer durch Estland, Lettland und 
  
  
  
-## Für wen ist "Alles anders. Auf Umwegen angekommen" geeignet?
+## Wem könnte "Alles anders. Auf Umwegen angekommen" gefallen?
  
-Natürlich für alle LeserInnen von zeitgenössischer bzw. moderner Literatur mit einer Vorliebe für Italien und Frankreich, im Speziellen für Venedig und die Normandie; für LeserInnen, die diese Regionen besser kennenlernen und sich inspirieren lassen möchten. Für alle, die Venedig und die Normandie abseits der Touristenpfade erkunden möchten, die Reisetipps zu schätzen wissen oder für jene, die gerne im Kopf reisen. <br> Oder überlegen Sie gerade, wie Sie Venedig als Individualtourist besichtigen können? Haben Sie Angst, sich im Labyrinth Venedigs zu verlaufen? Scheuen Sie sich, Venedig alleine zu Fuß und per Boot zu erkunden? Sie fragen sich, ob es außer dem Markusdom und der Rialtobrücke überhaupt Sehenswertes gibt? Venedig abseits der Massen erleben soll möglich sein? Und was sollen Sie ausgerechnet in Frankreich und dann noch in der Normandie? Wo soll denn diese Normandie sein? Und gibt es in der Normandie Sehenswürdigkeiten, die die weite Anreise lohnen? ... Sie zögern? Dann lesen Sie bitte weiter.;)
+LeserInnen von zeitgenössischer bzw. moderner Literatur mit einer Vorliebe für Italien und Frankreich, im Speziellen für Venedig und die Normandie; LeserInnen, die diese Regionen besser kennenlernen und sich inspirieren lassen möchten. Alle, die Venedig und die Normandie abseits der Touristenpfade erkunden möchten, die Reisetipps zu schätzen wissen oder jene, die gerne im Kopf reisen. <br> Oder überlegen Sie gerade, wie Sie Venedig als Individualtourist besichtigen können? Haben Sie Angst, sich im Labyrinth Venedigs zu verlaufen? Scheuen Sie sich, Venedig alleine zu Fuß und per Boot zu erkunden? Sie fragen sich, ob es außer dem Markusdom und der Rialtobrücke überhaupt Sehenswertes gibt? Venedig abseits der Massen erleben soll möglich sein? Und was sollen Sie ausgerechnet in Frankreich und dann noch in der Normandie? Wo soll denn diese Normandie sein? Und gibt es in der Normandie Sehenswürdigkeiten, die die weite Anreise lohnen? ... Sie zögern? Dann lesen Sie bitte weiter.;)
 
 
  
-## Welche Art von Buch ist "Alles anders. Auf Umwegen angekommen"? Ein Roman oder ein Reisebuch?
+## Ist "Alles anders. Auf Umwegen angekommen" ein Roman oder ein Reisebuch?
 
 Es ist ein Reiseroman und der Belletristik zuzuordnen, eine kurzweilige Strand- und Urlaubslektüre. Die Protagonistin befindet sich beruflich und privat an einem Wendepunkt und begibt sich auf Reisen. Ihre Reiserouten durch Venedig und die Normandie sind ähnlich wie in einem Reisetagebuch beschrieben, die Sie, liebe Leserin, lieber Leser, mühelos selbst nachgehen bzw. nachfahren können. Deshalb ist dieses Buch der ideale Reisebegleiter für Venedig und die Normandie. 
 
 
 
-## Was ist das Besondere von "Alles anders. Auf Umwegen angekommen"?
+## Warum soll ein(e) LiebhaberIn von Venedig und der Normandie "Alles anders. Auf Umwegen angekommen" lesen?
 
 Ich liebe Italien und Frankreich, ich spreche Italienisch und Französisch und habe diese beiden wunderschönen Länder oft und ergiebig auf eigene Faust bereist. Dabei haben sich manchmal nette Bekanntschaften und bereichernde Freundschaften ergeben. "Alles anders. Auf Umwegen angekommen" ist meine Liebeserklärung an Italien und Frankreich. Das möchte ich mit diesem Buch vermitteln. Stellenweise finden sich kurze italienische und französische Passagen in den Dialogen, was den Roman authentischer und lebendiger macht. <br> "Alles anders. Auf Umwegen angekommen" wäre kein Buch von mir, wenn nicht Hintergrundinformationen, wie gewohnt fein dosiert, in die fiktive Geschichte eingewoben wären. Darüber ließe sich vortrefflich diskutieren. <br> Ich erzähle jede Menge über Venedig, schicke Bea, die Protagonistin, mit Vorliebe abseits der üblichen Touristenpfade zielgenau durch das Gassenlabyrinth der Serenissima. So lernen Sie, liebe Leserin, lieber Leser, Venedig abseits der üblichen Touristenmagneten, wie San Marco und Rialto, kennen und wagen es vielleicht bei Ihrem nächsten Venedig-Besuch in eine unbeachtete Calle einzutauchen. Ich möchte Sie ermuntern, Venedig auf eigene Faust zu erkunden und nicht nur den Massen hinterherzulaufen. Manchmal werden Sie sich im Kreis bewegen, irgendwo landen, wohin Sie nicht wollten, verzweifelt auf einen Kanal blicken und sich fragen: "Wo bin ich nur?" Glauben Sie mir, so erging es auch mir. In Venedig müssen Sie mit allem rechnen. Ich möchte Sie dazu animieren, Ihre Augen offenzuhalten, sich treiben zu lassen, Venedig zu spüren, offen für Neues zu sein und nicht ständig Ihren Kopf auf Google Maps zu richten. Es gibt so viel abseits der berühmten Sehenswürdigkeiten zu entdecken. Lassen Sie sich treiben. Machen Sie es wie die Venezianer, kehren Sie in die nächste Bar ein und entspannen Sie sich! Dann sieht alles ganz anders aus. <br> 
  
@@ -50,7 +50,7 @@ Alençon, Carrouges, Château d´O, Camembert, Falaise, Saint-Lô, Balleroy, Cae
 
 Neugierig? Prima! Das Buch (ISBN 978-3-99026-311-2) ist derzeit vorrätig bei [Morawa im Citypark in Graz] [morawa im Citypark in Graz]; in der [Libreria Dante Alighieri] [libreria Dante Alighieri], Via Dante Alighieri 37 in Grado und natürlich auch bei mir persönlich. Scheuen Sie sich nicht, mich zu kontaktieren! Ich danke für den Kauf. <br> Wenn Ihnen das Buch gefallen hat, bitte ich Sie um eine kurze Buchkritik. Für unbekannte Autorinnen sind wohlwollende Rezensionen und Mundpropaganda wie das Salz in der Suppe.
 
-Besuchen Sie mich auf [Facebook] [facebook], wo ich regelmäßig Aktuelles aus Venedig und der Normandie poste. Oder kennen Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [autorenseite auf facebook]? <br> #schreibendeApothekerin
+Besuchen Sie mich auf [Facebook] [facebook], wo ich regelmäßig Aktuelles aus Venedig und der Normandie poste. Oder kennen Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [autorenseite auf facebook]? Oder jene auf [Twitter] [twitter]? <br> #schreibendeApothekerin
 
 
 [reise quer durch Estland, Lettland und Litauen]: https://barbaraschwarzl.com/reise-quer-durch-estland-lettland-und-litauen/
@@ -59,5 +59,6 @@ Besuchen Sie mich auf [Facebook] [facebook], wo ich regelmäßig Aktuelles aus V
 [libreria Dante Alighieri]: https://de-de.facebook.com/LibreriaDanteSas/
 [facebook]: https://www.facebook.com/Venedig.Normandie.Barbara.Schwarzl/
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
+[twitter]: https://twitter.com/BuchSchwarzl
 
 
