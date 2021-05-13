@@ -22,7 +22,7 @@ Es ist mir ein großes Anliegen, aufzuzeigen, dass Schizophrenie als Diagnose ni
 
 
 
-## Wer soll "Spurensuche. Diagnose Schizophrenie" lesen?
+## Wer sollte "Spurensuche. Diagnose Schizophrenie" unbedingt lesen?
 
 Dieses Buch über Schizophrenie ist eine Mischung aus Roman und Sachbuch. Deshalb finde ich es ideal für Betroffene, Angehörige und Berufsbeginner im pflegenden Bereich, um die Krankheit der Schizophrenie besser verstehen zu können. Grundsätzlich möchte ich alle LeserInnen ansprechen, die mehr über diese facettenreiche Krankheit erfahren möchten. <br>  Dieses Buch ist passend für LeserInnen, die sich Folgendes fragen: Was für eine Erkrankung ist Schizophrenie? Welche Symptome treten auf? Welche Anzeichen für Schizophrenie gibt es? Welche Halluzinationen zeigen sich? Hat ein Schizophrener eine gespaltene Persönlichkeit? Gibt es Risikofaktoren? Kann Schizophrenie vererbt werden? Wie wird Schizophrenie behandelt? Nur Medikamente, nur Niederspritzen? Hilft Psychotherapie? Wie kann man mit Schizophrenie leben? Wie groß ist die Wahrscheinlichkeit, dass Schizophrenie vererbt wird? Wie wurden psychisch Kranke in der Vergangenheit behandelt? Diese Auflistung ließe sich endlos fortsetzen und soll Ihnen einen groben Überblick geben. <br>  
 
