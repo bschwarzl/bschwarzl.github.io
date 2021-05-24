@@ -56,7 +56,7 @@ Das Buch (ISBN 978-3944771151) ist erhältlich auf [Amazon][amazon], [Thalia] [t
 
 Rezensionen gibt es auf [Buchaviso] [buchaviso] und [Leseleidenschaft] [leseleidenschaft]. Ich bin dankbar für weitere wohlwollende Rezensionen und für Mundpropaganda.
 
-Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie auch meine [Autorenseite auf Facebook] [autorenseite auf facebook]! Und gerne auch auf [Twitter] [twitter] <br> #schreibendeApothekerin
+Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie gerne meine [Autorenseite auf Facebook] [autorenseite auf facebook], auf [Instagram] [instagram] und auf [Twitter] [twitter] <br> #schreibendeApothekerin
 
 # Informationen für psychisch Kranke und ihre Angehörigen
 
@@ -71,6 +71,7 @@ Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie auch 
 [online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
+[instagram]: https://www.instagram.com/schreibendeapothekerin/
 [dgppn]: https://www.dgppn.de/
 [hilfe für Angehörige psychisch Erkrankter]: https://www.hpe.at/home.html
 [öffentliches Gesundheitsportal Österreichs]: https://www.gesundheit.gv.at/krankheiten/psyche/inhalt

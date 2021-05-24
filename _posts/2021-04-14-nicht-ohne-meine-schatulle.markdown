@@ -47,13 +47,13 @@ Dass jede Art von Gewalt nicht spurlos an einem Menschen vorüber geht, liegt au
 Ich möchte mir nicht anmaßen, zu wissen, was es heißt, misshandelt oder sexuell missbraucht worden zu sein. Deshalb ist „Nicht ohne meine Schatulle“ ein Roman und kein Erfahrungsbericht. Er soll unterhalten, aufrütteln und stellvertretend für viel zu viele Opfer, die lieber Überlebende genannt werden, anklagen. Ich möchte für Betroffene abseits der MeToo-Debatte als Sprachrohr fungieren, für jene, die sich dafür schämen, was ihnen angetan worden ist, die sich niemanden anvertrauen können und alleine mit ihrem Schmerz und ihren Seelenqualen fertig werden müssen.
 
 
-## Muss die Leserin/ der Leser fürchten, von der Lektüre deprimiert zu werden?
+## Deprimiert dieses Buch die Leserin/ den Leser?
 
-Nein und nochmals nein!  <br>
+Nein!  <br>
 Kindesmissbrauch, Kindesmisshandlung, Kindheitstrauma und häusliche Gewalt sind naturgemäß keine heiteren Themen. Um dem Text eine mitreißende Note, eine gewisse Leichtigkeit zu verleihen, mischt der charismatische Richie aus dem [Dreierblues] [dreierblues] mit. Mit seinen markigen Sprüchen und seinen unorthodoxen Ideen peppt er die Geschichte ungemein auf und verleiht ihr den richtigen Drive. "Keine Panik auf der Titanic", würde Richie sagen. Dank ihm machte das Schreiben ungeheuren Spaß. Dank Richie, dem charmanten Teufelskerl mit der losen Klappe im Tattootarnkostüm ist "Nicht ohne meine Schatulle" ein unterhaltsamer Roman. Für ihn ist Freundschaft kein geflügeltes Wort. Überzeugen Sie sich selbst!<br>
 
 
-## Wo spielt die "Nicht ohne meine Schatulle"?
+## Wo spielt "Nicht ohne meine Schatulle"?
 
 Die fiktive Geschichte ist in und um Graz, sowie in der Südsteiermark angesiedelt. Die Ortschaften St. Ägyd, St. Donat und Rebendorf, wie auch deren Bewohner und die beschriebenen Geschehnisse entspringen meiner Fantasie und haben nichts gemein mit real existierenden Orten, die diese Namen tragen. Bei den Schilderungen meiner Heimatstadt Graz verschwimmen die Grenzen zwischen Realität und Fiktion. <br> 
 
@@ -71,7 +71,7 @@ Als eBook mit den ISBN 9783753184623 (Neobooks) und 9783752141016 (Tolino), sowi
 # Noch eine Bitte zum Schluss
  
 Für AutorInnen sind Rückmeldungen ihrer LeserInnen ungemein wichtig. Darum meine Bitte an Sie. Ihnen hat das Buch gefallen? Fein. Dann schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Und bitte, bitte betreiben Sie fleißig Mundpropaganda.<br>
-Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter auf meiner Homepage. Kennen Sie schon meine Autorenseiten auf Facebook und [Twitter] [twitter]? Am besten abonieren Sie mich gleich auf [Facebook] [facebook], damit Sie immer auf dem Laufenden sind. <br> #schreibendeApothekerin
+Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter auf meiner Homepage. Kennen Sie meine Autorenseiten auf [Facebook] [facebook], [Instagram] [instagram] und [Twitter] [twitter]? Am besten abonieren Sie mich gleich auf [Facebook] [facebook], damit Sie immer auf dem Laufenden sind. <br> #schreibendeApothekerin
  
 
 [dreierblues]: https://barbaraschwarzl.com/dreierblues/
@@ -80,6 +80,7 @@ Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter
 [online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
 [twitter]: https://twitter.com/BuchSchwarzl
 [facebook]: https://www.facebook.com/schreibendeApothekerin/
+[instagram]: https://www.instagram.com/schreibendeapothekerin/
 
 
 

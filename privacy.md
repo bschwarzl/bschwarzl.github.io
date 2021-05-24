@@ -16,7 +16,7 @@ Sofern Sie mit der Autorin per Mail in Kontakt treten, löscht sie Ihre Daten, s
 Die Autorin weist darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
 Diese Website verwendet Social-Media-Funktionen von Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA. Über darauf eingebundene Facebook-Schaltflächen können Sie direkt auf die Autorenseiten von Barbara Schwarzl bei Facebook gelangen.
-Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 UAbs. 1 Buchstabe f) DSGVO das berechtigte Interesse an der Optimierung des Websiteangebots. Durch Anklicken des Facebook-Logos wird eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Besitzen Sie einen Facebook-Account, erhält Facebook die Information, dass Sie mit Ihrer IP-Adresse diese Website besucht haben und kann diese Daten Ihrem Benutzerkonto zuordnen. Wenn Sie keine Zuordnung dieser Daten zu Ihrem Facebook-Account wünschen, loggen Sie sich daher bitte vor dem Besuch dieser Seite bei Facebook aus und löschen Sie die Cookies in Ihrem Browser. Facebook hat sich dem Datenschutzabkommen „Privacy Shield“ zwischen der USA und der EU unterworfen.
+Rechtsgrundlage für die Verarbeitung der Daten ist Art. 6 Abs. 1 UAbs. 1 Buchstabe f) DSGVO das berechtigte Interesse an der Optimierung des Websiteangebots. Durch Anklicken des Facebook-Logos wird eine direkte Verbindung zwischen Ihrem Browser und dem Facebook-Server hergestellt. Besitzen Sie einen Facebook-Account, erhält Facebook die Information, dass Sie mit Ihrer IP-Adresse diese Website besucht haben und kann diese Daten Ihrem Benutzerkonto zuordnen. Wenn Sie keine Zuordnung dieser Daten zu Ihrem Facebook-Account wünschen, loggen Sie sich daher bitte vor dem Besuch dieser Seite bei Facebook aus und löschen Sie die Cookies in Ihrem Browser. Dasselbe gilt für das Anklicken der Links von Instagram und Twitter. Facebook hat sich dem Datenschutzabkommen „Privacy Shield“ zwischen der USA und der EU unterworfen.
 (Quelle: Muster-Datenschutzerklärung von anwalt.de.) <br> Die Autorin weist darauf hin, dass sie als Anbieterin dieser Seite keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Facebook erhält. Weitere Informationen hierzu finden Sie in der Datenschutzerklärung von [Facebook] [facebook].
 
 Außerdem verweist die Autorin auf verschiedene Verkaufsportale, um Ihnen die Suche nach ihren Büchern zu erleichtern. Sie ist für den Inhalt und die Einhaltung der Datenschutzrichtlinie dieser Seiten nicht verantwortlich. Nähere Informationen unter:
@@ -45,5 +45,5 @@ Indem Sie diese Seite nutzen, zeigen Sie sich mit diesen Bedingungen einverstand
 Wenn Sie irgendwelche Fragen zu dieser Datenschutzerklärung oder anderen Inhalten dieser Seite haben, bittet die Autorin, sie zu kontaktieren.
 
 Eingeführt 05.03.2017  
-Letzte Änderung 04.01.2021
+Letzte Änderung 24.05.2021
  

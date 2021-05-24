@@ -50,7 +50,7 @@ Alençon, Carrouges, Château d´O, Camembert, Falaise, Saint-Lô, Balleroy, Cae
 
 Neugierig? Prima! Das Buch (ISBN 978-3-99026-311-2) ist derzeit vorrätig bei [Morawa im Citypark in Graz] [morawa im Citypark in Graz]; in der [Libreria Dante Alighieri] [libreria Dante Alighieri], Via Dante Alighieri 37 in Grado und natürlich auch bei mir persönlich. Scheuen Sie sich nicht, mich zu kontaktieren! Ich danke für den Kauf. <br> Wenn Ihnen das Buch gefallen hat, bitte ich Sie um eine kurze Buchkritik. Für unbekannte Autorinnen sind wohlwollende Rezensionen und Mundpropaganda wie das Salz in der Suppe.
 
-Besuchen Sie mich auf [Facebook] [facebook], wo ich regelmäßig Aktuelles aus Venedig und der Normandie poste. Oder kennen Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [autorenseite auf facebook]? Oder jene auf [Twitter] [twitter]? <br> #schreibendeApothekerin
+Besuchen Sie mich auf [Facebook] [facebook], wo ich regelmäßig Aktuelles aus Venedig und der Normandie poste. Oder kennen Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [autorenseite auf facebook]? Oder jene auf [Instagram] [instagram] und [Twitter] [twitter]? <br> #schreibendeApothekerin
 
 
 [reise quer durch Estland, Lettland und Litauen]: https://barbaraschwarzl.com/reise-quer-durch-estland-lettland-und-litauen/
@@ -60,5 +60,6 @@ Besuchen Sie mich auf [Facebook] [facebook], wo ich regelmäßig Aktuelles aus V
 [facebook]: https://www.facebook.com/Venedig.Normandie.Barbara.Schwarzl/
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
+[instagram]: https://www.instagram.com/schreibendeapothekerin/
 
 

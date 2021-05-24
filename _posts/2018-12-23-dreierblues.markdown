@@ -57,7 +57,7 @@ Das Buch ist erhältlich als e-book (9783742710611) oder als Taschenbuch (ISBN 9
 
 *** AKTUELLES ***:  [Michelangelos Bookblog] [michelangelos Bookblog] präsentiert im Jänner 2021 "Dreierblues". Die Schnitzel aus dem Buch können Sie auf diesem vielseitigen Blog nachlesen.
 
-Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Bitte betreiben Sie fleißig Mundpropaganda. Lassen Sie mich unbedingt wissen, wie Ihnen "Dreierblues" gefallen hat. Ich freue mich, wenn Sie mich auf [Facebook] [facebook] kontaktieren. Oder kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? Oder auf [Twitter] [twitter]? <br> #schreibendeApothekerin <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie sich unbedingt mein nächstes Buch [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] besorgen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
+Wenn Ihnen das Buch gefallen hat, schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Bitte betreiben Sie fleißig Mundpropaganda. Lassen Sie mich unbedingt wissen, wie Ihnen "Dreierblues" gefallen hat. Ich freue mich, wenn Sie mich auf [Facebook] [facebook] kontaktieren. Oder kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? Oder auf [Instagram] [instagram] und [Twitter] [twitter]? <br> #schreibendeApothekerin <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie sich unbedingt mein nächstes Buch [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] besorgen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
 
 Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik auf [Facebook][facebook].
 
@@ -70,5 +70,5 @@ Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik au
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [nicht ohne meine Schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
 [twitter]: https://twitter.com/BuchSchwarzl
-
+[instagram]: https://www.instagram.com/schreibendeapothekerin/
  
