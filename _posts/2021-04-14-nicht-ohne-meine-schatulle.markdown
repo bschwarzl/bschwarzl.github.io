@@ -11,8 +11,13 @@ image: /images/Schatulle_Coverklein.JPEG
 Missbraucht, misshandelt und verschenkt. <br> 
 Dieses schreckliche Geheimnis bewahrt Emma bis zu ihrem 77. Sommer wie einen Schatz. Dass der Mistkerl von Stiefvater mit seinen 94 Jahren noch immer nicht in der Hölle schmort, wohin er längst gehörte, ändert alles. St. Ägyd, ihr einstiger Ort des Grauens, streckt wie eine Krake seine Fänge nach ihr aus. Immer öfter taucht Emma in die Abgründe ihrer Seele hinab, dem Ruf der Geister der Vergangenheit folgend. Jetzt kann sie ihre Traumatisierung nicht mehr weglächeln oder darüber hinwegtäuschen. <br> 
 Dann taucht auch noch ihr Bruder Fritz aus der Versenkung auf. Der Wunsch nach Rache eint sie.
-„Wer mir wehtut, dem tu ich erst so richtig weh!“, hatte sie sich als Mädchen geschworen. Zeit, dieses Versprechen endlich einzulösen. <br> 
+„Wer mir wehtut, dem tu ich erst so richtig weh!“, hatte sie sich als Mädchen geschworen. Zeit, dieses Versprechen endlich einzulösen. <br>
 
+
+*** #Buchempfehlung #Buchkritik #Buchrezension ***<br>
+Ich freue mich riesig über die ersten LeserInnenrückmeldungen. ;)<br>
+@suzacarolina schrieb: Ein richtiger "Pageturner" ... spannend, schwungvoll und wortgewandt. Bestes Zubehör: ein gemütlicher Liegestuhl im Schatten. Man möchte nicht aufhören zu lesen!!<br>
+Weitere Rezensionen von "Nicht ohne meine Schatulle" auf [Amazon] [amazon] und [Lovelybooks] [lovelybooks]. Herzlichen Dank für die tollen Bewertungen. Haben Sie den Roman auch gelesen? Hat er Ihnen gefallen? Dann schreiben Sie bitte eine Kritik, gerne auch nur ein paar Worte.
 
 
 ## Ein Roman abseits von #MeToo? Oder welche Art von Buch ist "Nicht ohne meine Schatulle"?
@@ -74,6 +79,8 @@ Für AutorInnen sind Rückmeldungen ihrer LeserInnen ungemein wichtig. Darum mei
 Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter auf meiner Homepage. Kennen Sie meine Autorenseiten auf [Facebook] [facebook], [Instagram] [instagram] und [Twitter] [twitter]? Am besten abonieren Sie mich gleich auf [Facebook] [facebook], damit Sie immer auf dem Laufenden sind. <br> #schreibendeApothekerin
  
 
+[amazon]: https://www.amazon.de/Nicht-meine-Schatulle-Barbara-Schwarzl-ebook/dp/B092CGMGQP/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=304OW76SS83YZ&dchild=1&keywords=nicht+ohne+meine+schatulle&qid=1627742598&sprefix=nicht+ohne+meine+schatu%2Caps%2C184&sr=8-1
+[lovelybooks]: https://www.lovelybooks.de/autor/Barbara-Schwarzl/Nicht-ohne-meine-Schatulle-2939263234-w/
 [dreierblues]: https://barbaraschwarzl.com/dreierblues/
 [spurensuche. diagnose schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
 [buecher.de]: https://www.buecher.de/ni/search_search/quick_search/q/cXVlcnk9bmljaHQrb2huZSttZWluZStzY2hhdHVsbGUmcmVzdWx0cz0xNQ==/#pid_61447771
