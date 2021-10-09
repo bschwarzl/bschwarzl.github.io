@@ -7,7 +7,7 @@ image: /images/Dreierblues.und.Coverklein.jpg
 ---
 
 
-Stellen Sie sich vor, die Sonnenstrahlen tanzen am türkisblauen Meereswasser. Zwischen Ihren Zehen spüren Sie den pudrigweißen Sand. Sie wünschen sich, die Zeit anhalten zu können. Dabei kann ich Ihnen helfen. Mit meiner Roadnovel "Dreierblues" können Sie sofort eine Kopfreise in die Karibik, genauer gesagt in die Dominikanische Republik, antreten.
+Stellen Sie sich vor, Sonnenstrahlen tanzen am türkisblauen Meereswasser. Zwischen Ihren Zehen spüren Sie den pudrigen, weißen Sand. Sie tanzen Merengue, inhalieren mit jedem Atemzug karibische Lebensfreude und staunen über sich selbst. Sie wünschen sich, die Zeit anhalten zu können. Nichts leichter als das. Mit meiner Roadnovel "Dreierblues" können Sie ihre Kopfreise in die Karibik, genauer gesagt in die Dominikanische Republik, fortsetzen.
 
 
 ## Leserstimmen
