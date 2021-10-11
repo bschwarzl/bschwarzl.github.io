@@ -7,7 +7,7 @@ image: /images/Schatulle_Coverklein.JPEG
 ---
 
 
-Bei den vielen Neuerscheinungen ist es schwierig, den Überblick zu behalten. Bloggerinnen empfehlen "Nicht ohne meine Schatulle". Sexueller Missbrauch, ein brissantes und leider allzeit aktuelles Thema. Verschließen wir nicht länger die Augen, werden wir hellhörig! Ein emotionaler Roman, der in zerstörte Seelen blicken lässt. <br>
+Bei den vielen Neuerscheinungen ist es schwierig, den Überblick zu behalten. Bloggerinnen empfehlen "Nicht ohne meine Schatulle". Sexueller Missbrauch, ein brisantes und leider allzeit aktuelles Thema. Verschließen wir nicht länger die Augen, werden wir hellhörig! Ein emotionaler Roman, der in zerstörte Seelen blicken lässt. <br>
 
 
 ## Leserstimmen
