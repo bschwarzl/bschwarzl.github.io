@@ -63,7 +63,7 @@ Karin, einer 39 jährigen, arbeitslosen Sozialpädagogin, machen die Trennung vo
 
 
 
-## Wo kann ich das Buch kaufen?
+## Wo können Sie das Buch kaufen?
 
 Das Buch ist erhältlich als e-book (9783742710611) oder als Taschenbuch (ISBN 978-3-7485-1466-4) auf [Amazon][amazon], [Thalia][thalia] und auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke für den Kauf!
 *** NEU ***: "Dreierblues" ist seit 3.9.2020 auch für Tolino-Reader verfügbar (ISBN 13: 9783752112924)!! <br> 
@@ -75,7 +75,7 @@ Die #schreibendeApothekerin wünscht Ihnen viel Spaß beim Lesen und eine gute R
 Im Jänner 2021 präsentierte [Michelangelos Bookblog] [michelangelos Bookblog] "Dreierblues". Die Schnitzel aus dem Buch können Sie auf diesem vielseitigen Blog nachlesen.
 
 
-## Eine Bitte an die LeserInnen von "Dreierblues"
+## Eine Bitte an die Leser/Innen von "Dreierblues"
 
 Hat Ihnen das Buch gefallen? Dann schreiben Sie bitte eine Buchkritik - gerne auch eine kurze - auf dem jeweiligen Verkaufsportal. Natürlich können Sie sie mir auch per Mail schicken. Bitte betreiben Sie fleißig Mundpropaganda. Ich freue mich, wenn Sie mich auf [Facebook] [facebook] oder auf [Instagram] [instagram] und [Twitter] [twitter]kontaktieren. Kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie unbedingt [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] lesen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
 

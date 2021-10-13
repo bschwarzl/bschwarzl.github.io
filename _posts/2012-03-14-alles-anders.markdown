@@ -50,12 +50,12 @@ Ich habe in diesem Reiseroman viele meiner Eindrücke von Venedig und der Norman
 Alençon, Carrouges, Château d´O, Camembert, Falaise, Saint-Lô, Balleroy, Caen, Bayeux, Quistreham, die Strände der Landung, wie Juno, Omaha, Sword und Utah Beach, Pointe du Hoc, Arromanches-les-Bains, Sainte-Mère-Église, Cherbourg, Nez de Jobourg, Granville, Mont-Saint-Michel, Port-en-Bessin, Beuvron-en Auge, Deauville, Trouville und Honfleur an der Côte Fleurie, Le Havre, Étretat und Fécamp an der Côte d`Alabatre, Pont-Audemer, Pointe de la Roque, Tancarville, Duclair, Jumièges, St.-Martin-de-Boscherville, Rouen, Côte des Deux Amantes, Les Andelys, Vernon, Monets Garten in Giverny. <br> Wetten, dass Sie sofort nach Venedig oder in die Normandie reisen möchten??? <br> Erwägen Sie einen Urlaub in Frankreich? Dann lege ich Ihnen die Normandie ans Herz. Es gibt viel zu entdecken. Massentourismus gibt es wenig und nur an wenigen Orten. Trotz der Fülle an Sehenswürdigkeiten können Sie sich wunderbar erholen. Wagen Sie es, die Normandie auf eigene Faust zu erkunden! Und nehmen Sie sich ausreichend Zeit.
 
 
-## Wo kann ich das Buch kaufen? 
+## Wo können Sie das Buch kaufen? 
 
 Neugierig? Prima! Das Buch (ISBN 978-3-99026-311-2) ist derzeit vorrätig bei [Morawa im Citypark in Graz] [morawa im Citypark in Graz] und natürlich auch bei mir persönlich. Scheuen Sie sich nicht, mich zu kontaktieren! Ich danke für den Kauf. <br> Wenn Ihnen das Buch gefallen hat, mailen Sie mir bitte ein paar Zeilen. Für unbekannte Autorinnen sind wohlwollende Rezensionen und Mundpropaganda wie das Salz in der Suppe.
 
 
-## Treten Sie mit der Autorin in Kontakt.
+## Treten Sie mit der Autorin in Kontakt!
 
 Besuchen Sie mich auf [Facebook] [facebook], wo ich regelmäßig Aktuelles aus Venedig und der Normandie poste. Oder kennen Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [autorenseite auf facebook]? Oder jene auf [Instagram] [instagram] und [Twitter] [twitter]? <br> Ich wünsche Ihnen viele wundervolle Reisen nach Venedig und in die Normandie, Ihre #schreibendeApothekerin
 
