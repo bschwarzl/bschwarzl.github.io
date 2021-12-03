@@ -1,8 +1,93 @@
 ---
 layout: post
-title:  "Blog post 1"
+title:  "Es herbstelt"
 categories: 
-image: /images/Reisetagebuch.Cover.klein.jpg
+image: /images/Winterblues_Phytos.JPEG
 ---
 
-Lorem ipsum, bacon or whatever.
+# H1
+## H2
+### H3
+#### H4
+##### H5
+
+Text der **bold text** *kursiv* _kursiv_ ~~strkethrough~~ `code`
+
+> blockquote
+
+1. First item
+2. Second item
+3. Third item
+
+---
+
+- First item
+- Second item
+- Third item
+
+* First item
+* Second item
+* Third item
+
+---
+
+term
+: definition
+
+---
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+Winterblues, Coronablues? Nährstoffe und Pflanzliches für mentale Energie, für Entspannung und gegen Stress
+
+Alle Jahre wieder erdrückt Sie die dicke Nebeldecke? Pünktlich zur kalten Jahreszeit haben Sie ein Stimmungstief? Sie fühlen sich müde, energie- und kraftlos? Sie sind gereizt, Ihr Appetit auf Süßes nimmt zu? Corona bedingtes Homeoffice und Homeschooling überlasten Sie? Die gute Nachricht ist: Mit der richtigen Auswahl an Nährstoffen und Heilpflanzen können Sie besser durch diesen Winter kommen.
+Ich bin Barbara Schwarzl, die schreibende Apothekerin. Ich schreibe Reise- und psychologische Romane. In meinen Romanen „Spurensuche. Diagnose Schizophrenie“, „Dreierblues“ und „Nicht ohne meine Schatulle“ thematisiere ich psychische Erkrankungen. In diesem Artikel verrate ich Ihnen als Apothekerin Tipps für ein besseres psychisches Wohlbefinden.
+
+Was steckt hinter einer Winterdepression? Was sind die Ursachen?
+In unseren Breiten scheint von Oktober bis März zu wenig lange und zu wenig intensiv die Sonne. Morgens ist das Tageslicht zu schwach. Deswegen wird das Schlafhormon Melatonin zu lange ausgeschüttet und zu wenig vom Glückshormon Serotonin gebildet. Zusätzlich wandelt der Körper mehr Serotonin in Melatonin um. Zu wenig Serotonin bedeutet Stimmungsschwankungen und Niedergeschlagenheit, und zu viel Melatonin Müdigkeit.
+Es steht außer Frage, dass die Pandemie, die für einen jeden von uns bereits viel zu lange dauert, sich zusätzlich auf die Psyche schlägt. Möglicherweise leidet die/der eine oder andere erstmals unter depressiven Verstimmungen.
+
+Licht gegen den Blues
+Mehr Licht bedeutet mehr Serotonin. Gehen Sie bei Sonnenschein so oft und so viel wie möglich nach draußen. An trüben Tagen kann eine Tageslichtlampe, die weißes Licht ohne UV-Strahlen abgibt, mit einer Stärke von 10.000 Lux helfen.
+
+Gesunder Lebensstil als bestes Investment
+Sie hasten durch den Alltag und haben keine Zeit, lange in der Küche zu stehen? Das verstehe ich sehr gut. Vermeiden Sie dennoch Fast-Food. Es liefert zu viel an Kohlehydraten, Salz, Zucker, Aromen und Transfetten, aber zu wenig an Nährstoffen und guten, also ungesättigten, Fettsäuren. Die viel gepriesene ausgewogene Ernährung mit erntefrischem, heimischem Obst und Gemüse mit einer Extraportion Vollkorn, Samen und Nüssen, aber auch hochwertigen Pflanzenölen tut Ihrem Körper und Ihren Nerven gut. Was halten Sie von einem Gemüse- oder Obstteller oder Studentenfutter als Alternative zum Schokoriegel. Wetten, dass Sie bald mehr Energie haben und sich besser konzentrieren werden?
+Überwinden Sie Ihren inneren Schweinehund und gehen Sie auch bei Nebel und Kälte nach draußen. Nach einem Spaziergang an der frischen Luft ist Ihr Körper wieder besser mit Sauerstoff versorgt und Sie fühlen sich entspannt.
+
+Welche Nährstoffe helfen gegen den Winterblues?
+Stellen Sie sich vor, Sie wollen ein Haus bauen. Natürlich werden Sie auf ein solides Fundament achten. Ob Sie Beton, Holz oder Ziegel als weitere Baustoffe wählen, wird sich vermutlich danach richten, welche Dachkonstruktion sie bevorzugen. Ein Dachgiebel stellt andere Erfordernisse als ein Flachdach. Für Ihre Gesundheit ist es ähnlich. Eine gesunde Ernährung bildet Ihr Fundament. Je nach Belastungssituation kann der Bedarf an einzelnen Nährstoffen steigen:
+Beginnen wir mit dem Darm. Ohne gesunden Darm gibt es keine ausreichende Nährstoffaufnahme. Deshalb starten Sie am besten mit einem Probiotikum. Sie zweifeln? Dann stelle ich Ihnen eine indiskrete Frage. Leiden Sie unter Durchfällen, wenn Sie nervös sind? Das liegt an der sogenannten Darm-Hirn-Achse, dh. Ihr Hirn kommuniziert mit Ihrem Darm. Ist dieser geschwächt oder nicht in Balance, kann sich das auf das andere Ende der Achse, nämlich Ihre Nerven, auswirken.
+Ein Vitamin-B-Komplex, der die gesamte Gruppe der B-Vitamine enthält, bildet die Basis für eine bessere Belastbarkeit und Stressresistenz, für die Bildung von Nervenbotenstoffen und gegen Müdigkeit. Er ist sozusagen ein Allrounder für psychisches Wohlbefinden. Zum besseren Verständnis stelle ich Ihnen eine Wirkung von Thiamin (B1) vor. Essen Sie gerne Süßes oder Weißmehlprodukte? Dann benötigen Sie ausreichend Vitamin B1, um den Zucker abbauen zu können. Quellen von Vitamin B1 sind z.B. Vollkorn, Samen und Nüsse. Ein Mangel an Vitamin B1 kann zu Depressionen führen. Sie sehen, wir landen wieder bei der gesunden Ernährung.
+Nicht nur Ihre Muskeln brauchen Magnesium. Dieser Mineralstoff spielt eine zentrale Rolle im Energiestoffwechsel. Unter Stress steigt ihr täglicher Magnesiumbedarf.
+Das Sonnenvitamin D ist seit Jahren in aller Munde. Während der dunklen Jahreszeit empfiehlt sich eine Substitution. Es spielt eine zentrale Rolle im Knochenstoffwechsel und im Immunsystem, und hat noch unzählige andere Wirkungen. Ein Mangel an Vitamin D wird auch mit Depressionen assoziiert.
+L-Phenylalanin fungiert als Baustein von Serotonin.
+Stehen Sie unter Dauerstrom? Dann könnte Cholin bzw. Lecithin, das die Nervenscheiden auskleidet, helfen, die Nervenfunktion und das Denkvermögen zu steigern und die Entspannung zu fördern.
+Omega-3-Fettsäuren fördern die Konzentration.
+Ubichinon bzw. Coenzym Q10 ist eine Schlüsselsubstanz im Energiestoffwechsel. Hat Ihnen Ihr Hausarzt einen Cholesterinsenker verschrieben? Ja? Dann sollten Sie unbedingt Q10 in ausreichenden Mengen zuführen.
+
+Hilfe aus dem Pflanzenreich gegen den Blues?
+Johanniskraut ist sicher die bekannteste Heilpflanze, die bei leichten bis mittelschweren Depressionen eingesetzt wird. Sie greift in den Serotoninstoffwechsel ein und wirkt somit ähnlich wie die vom Arzt verordneten, stärker wirksamen Antidepressiva. Anfänglich brauchen Sie Geduld. Eine Wirkung werden Sie erst nach zwei bis drei Wochen spüren. Wenn Sie regelmäßig Medikamente einnehmen müssen, beraten Sie sich bitte in der Apotheke Ihres Vertrauens. Johanniskraut wird wie auch viele andere Arzneistoffe über ein Enzymsystem der Leber abgebaut und hat deswegen viele Wechselwirkungen, die durchaus fatal sein können. Außerdem kann es an der Haut Sonnenschäden bewirken. Wegen dieser Neben- und Wechselwirkungen werden zunehmend andere Heilpflanzen empfohlen.
+Safran für eine positive Stimmung. Natürlich kennen Sie die roten Fäden des Safrankrokus als Gewürz, dem teuersten der Welt übrigens. Seit wenigen Jahren wird der Safran bei uns nun auch als Heilpflanze mit antidepressivem Potential geschätzt.
+Lieben Sie wie ich den Duft von Lavendel? Das ätherische Öl entspannt und fördert den Schlaf. In der Aromatherapie wird es dafür schon lange verwendet. Neuerdings gibt es auch ein Fertigpräparat, das die Entspannung fördert bzw. gegen Schlafstörungen hilft.
+Die Passionsblume ist eine meiner Lieblingspflanzen. Ihre Blüte ist für mich von außerordentlicher Schönheit und ein Wunder der Natur. Ich empfehle sie gerne als Tagessedativum bei Stress und bei außergewöhnlichen Belastungen. Der Passionsblumenextrakt beruhigt und wirkt gegen Ängste. In Studien wurde eine vergleichbare Wirkung gezeigt zu Benzodiazepinen, das sind stark beruhigende Arzneimittel, die aber zu Abhängigkeit führen.
+
+Heilpflanzen gegen Stress?
+Meistern Sie den Spagat zwischen Homeoffice, Homeschooling und Haushalt? Die Belastung und der Stress steigen? Und Sie selbst kommen dabei zu kurz? Auch dafür gibt es Hilfe aus dem Reich der Heilpflanzen. Haben Sie schon etwas von adaptogenen Pflanzen gehört? Diese helfen, mit Stress besser umgehen, ihn besser ertragen zu können. Auch hier kommen Pflanzenextrakte als Fertigpräparate zum Einsatz.
+Bei Einnahme von Ginsengwurzelpräparaten fühlen sie sich aktiver und Ihre Konzentration verbessert sich. Deswegen werden sie zur Stärkung und Kräftigung bei Müdigkeits- und Schwächegefühl, aber auch in der Erholungsphase nach einer Erkrankung eingesetzt. Hypertoniker müssen beachten, dass eventuell der Blutdruck ansteigen könnte. Dieses Problem entfällt bei der Taigawurzel.
+Die Rosenwurz ist ein probates Mittel, wenn Sie sich geistig und psychisch erschöpft fühlen, wenn Sie das Gefühl haben, dass Ihnen alles zu viel wird, wenn Sie fürchten, dass Ihre Batterien sich zu rasch entladen. Sie verbessert eine stressbedingte körperliche und mentale Erschöpfung.
+Phytopharmaka benötigen ausreichend Zeit, damit sie ihre Wirkung entfalten können, oft sogar mehrere Wochen. Deswegen sollten Sie sie mehrere Monate regelmäßig einnehmen.
+
+Wann ist Schluss mit Herumdoktern?
+Ganz einfach. Wenn Ihnen meine Tipps nicht weiterhelfen, wenn Sie Mühe haben, Ihren Alltag zu bewältigen oder wenn Sie es gar nicht mehr aus dem Bett schaffen, spätestens dann ist der Zeitpunkt gekommen, dass Sie sich rasch an Ihre Ärztin/ Ihren Arzt wenden sollten. Eine Depression muss professionell behandelt werden. Sie brauchen sich nicht dafür zu schämen! Sie sind nicht schwach! Ganz im Gegenteil, es gehört viel Stärke dazu, sich einer psychischen Erkrankung zu stellen.
+
+Meine Bitte zum Schluss
+Greifen wir auf das Bild mit dem Hausbau zurück. Sie planen Ihr Traumhaus sicher mit einem erfahrenen Architekten und nicht mit einem Hilfsarbeiter. Sie bauen keine Hundehütte, sondern Ihr Traumhaus, in dem noch die Kinder Ihrer Kindeskinder wohnen sollen. Sie planen ein schönes und stabiles Haus, das nicht beim nächsten Sturm einstürzt. Ähnlich verhält es sich mit Ihrer Gesundheit. Auch dafür sollten Sie sich an ExpertInnen wenden. Falsch dosierte Vitaminpräparate können Ihnen schaden. Deshalb fragen Sie die Apothekerin oder den Apotheker Ihres Vertrauens nach Rat. Meine KollegInnen und ich wissen, worauf es ankommt. Dosierungen, Wechsel- und Nebenwirkungen sind unser tägliches Brot. Wir empfehlen Ihnen das, was für Sie am besten und geeignetsten ist, denn Ihre Gesundheit liegt uns am Herzen.
+Ich habe Ihnen bewusst keine Angaben zu Dosierungen gemacht. Nicht, um Sie zu verärgern, sondern weil es auf den speziellen Fall, auf die Umstände ankommt. Lassen Sie sich in der nächsten Apotheke beraten. Und nehmen Sie nicht auf eigene Faust und wahllos Nahrungsergänzungsmittel ein. Achten Sie auf Qualität. Ihrer Gesundheit zuliebe.
+
+Mehr von der schreibenden Apothekerin
+Abonnieren Sie meine Autorenseite auf FB, um immer am laufenden zu sein.
+
+
+
