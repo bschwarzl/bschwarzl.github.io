@@ -6,9 +6,6 @@
     {% if post.image %}
       <a href="{{ post.url }}" class="image preview"><img src="{{post.image}}" alt="" /></a>
     {% endif %}
-      <div class="meta">
-        <time class="published" datetime="{{ post.date | date: "%F" }}">{{ post.date | date: "%b %Y" }}</time>
-      </div>
     <div class="title">
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <!-- <p>Lorem ipsum dolor amet nullam consequat etiam feugiat</p> -->
