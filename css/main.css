@@ -3450,6 +3450,7 @@
     #books .title {
         font-size: 0.7em;
         width: auto;
+        padding-right:0.5em;
     }
     #books .list {
         width: 100%;
@@ -3463,4 +3464,23 @@
     #books .actions {
         margin-top: 0.5em;
         margin-bottom: 0.5em;
+    }
+
+    @media screen and (max-width: 980px) {
+
+        #books .book {
+            width: 50%;
+        }
+
+        #books {
+            border-left: 0;
+            border-right: 0;
+            left: -3em;
+            width: calc(100% + (3em * 2));
+        }
+        
+        #books .book:nth-child(n+3) {
+         display: none;
+        }
+
     }
