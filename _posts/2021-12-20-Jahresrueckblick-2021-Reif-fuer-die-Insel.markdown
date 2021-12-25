@@ -2,7 +2,7 @@
 layout: post
 title:  "Jahresrückblick 2021: Ich bin reif für die Insel"
 categories: 
-image: /images/Jahresrueckblick_2021.JPEG
+image: /images/Jahresrueckblick2021.JPEG
 ---
 
 
