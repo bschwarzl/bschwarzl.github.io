@@ -21,7 +21,7 @@ Sofern die Inhalte auf dieser Seite nicht von der Autorin selbst erstellt wurden
 
 Links zu externen Websites Dritter, entziehen sich dem Verantwortungsbereich der Autorin, weshalb sie für diese fremden Inhalte auch keine Gewähr übernimmt. Für die Inhalte der verlinkten Seiten ist der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Rechtsverstöße der verlinkten Seiten waren zum Zeitpunkt der Verlinkung nicht erkennbar. <br> Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden derartige Links natürlich entfernt.
 
-Der (künftige) Blog behandelt Themen rund um die Autorentätigkeit von Mag. Barbara Schwarzl.
+Der Blog behandelt Themen rund um die Autorentätigkeit von Mag. Barbara Schwarzl.
 
 Dieses Impressum gilt auch für die von Mag. Barbara Schwarzl betriebenen Seiten auf Facebook, Instagram und Twitter.
 
