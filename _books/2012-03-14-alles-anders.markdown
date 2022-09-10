@@ -52,7 +52,7 @@ Alençon, Carrouges, Château d´O, Camembert, Falaise, Saint-Lô, Balleroy, Cae
 
 ## Wo können Sie das Buch kaufen? 
 
-Neugierig? Prima! Das Buch (ISBN 978-3-99026-311-2) ist derzeit vorrätig bei [Morawa im Citypark in Graz] [morawa im Citypark in Graz] und natürlich auch bei mir persönlich. Scheuen Sie sich nicht, mich zu kontaktieren! Ich danke für den Kauf. <br> Wenn Ihnen das Buch gefallen hat, mailen Sie mir bitte ein paar Zeilen. Für unbekannte Autorinnen sind wohlwollende Rezensionen und Mundpropaganda wie das Salz in der Suppe.
+Neugierig? Prima! Das Buch (ISBN 978-3-99026-311-2) ist derzeit vorrätig bei [Morawa im Citypark in Graz] [morawa im Citypark in Graz].<br> Wenn Ihnen das Buch gefallen hat, mailen Sie mir bitte ein paar Zeilen. Für unbekannte Autorinnen sind wohlwollende Rezensionen und Mundpropaganda wie das Salz in der Suppe.
 
 
 ## Treten Sie mit der Autorin in Kontakt!
