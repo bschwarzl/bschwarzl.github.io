@@ -77,7 +77,7 @@ Für AutorInnen sind Rückmeldungen ihrer LeserInnen ungemein wichtig. Darum mei
 Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter auf meiner Homepage. Kennen Sie meine Autorenseiten auf [Facebook] [facebook], [Instagram] [instagram] und [Twitter] [twitter]? Am besten abonnieren Sie mich gleich auf [Facebook] [facebook], damit Sie immer auf dem Laufenden sind. <br> Ihre #schreibendeApothekerin
  
 
-[amazon]: https://www.amazon.de/Nicht-meine-Schatulle-Barbara-Schwarzl-ebook/dp/B092CGMGQP/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=304OW76SS83YZ&dchild=1&keywords=nicht+ohne+meine+schatulle&qid=1627742598&sprefix=nicht+ohne+meine+schatu%2Caps%2C184&sr=8-1
+[amazon]: https://www.amazon.de/Nicht-meine-Schatulle-Barbara-Schwarzl/dp/3754114026/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2I89PHXZD7Z00&keywords=nicht+ohne+meine+schatulle&qid=1662916601&sprefix=nicht+ohne+meine+schatulle%2Caps%2C102&sr=8-2
 [lovelybooks]: https://www.lovelybooks.de/autor/Barbara-Schwarzl/Nicht-ohne-meine-Schatulle-2939263234-w/
 [dreierblues]: https://barbaraschwarzl.com/dreierblues/
 [spurensuche. diagnose schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
