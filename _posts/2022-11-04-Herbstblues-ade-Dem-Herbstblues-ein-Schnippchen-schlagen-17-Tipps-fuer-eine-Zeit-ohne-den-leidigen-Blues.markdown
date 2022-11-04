@@ -6,7 +6,6 @@ image: /images/Herbstblues.JPEG
 ---
 
 
-## Herbstblues ade! Dem Herbstblues ein Schnippchen schlagen!<br>
 
 Im Herbst fällt mit den Blättern die Stimmung. Deshalb fürchten Sie sich vor dem leidigen Blues? Das brauchen Sie nicht. Es gibt einen Weg aus der Abwärtsspirale von Antriebslosigkeit, Melancholie und Stimmungsschwankungen. Diesmal schlagen Sie dem Herbstblues ein Schnippchen! Vielleicht zeigen Sie ihm sogar die lange Nase? Mit meinen Tipps gegen den leidigen Blues können Sie gut in den Frühling kommen. Ich bin Barbara Schwarzl, die schreibende Apothekerin. Ich setze auf Prävention, denn vorbeugen ist bekanntlich besser als heilen.<br>
 
