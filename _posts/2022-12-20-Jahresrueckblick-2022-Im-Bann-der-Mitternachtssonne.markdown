@@ -67,7 +67,7 @@ Pünktlich zu meiner Abreise weinte der italienische Himmel. Er braucht aber nic
 
 ## Schreibmuskeltraining mit Kurzgeschichten
 
-Manchmal stillen auch kleine Brötchen den Appetit. Natürlich hatte ich Lust aufs Schreiben. An Appetit und Hunger mangelte es nicht, wohl aber an der Ausdauer für ein langes Manuskript. Ideen für weitere Buchprojekte poppten auf, aber sie sind noch zu vage und zu wenig ausgereift. Drei Jahre Pandemie und permanentes Krisenmanagement in der Apotheke haben mich ausgelaugt. Und weil mich das Meer erstaunlich oft gerufen hatte, blieb zu wenig Zeit für kontinuierliches Schreiben.<br>
+Manchmal stillen auch kleine Brötchen den Appetit. Natürlich hatte ich Lust aufs Schreiben. An Appetit und Hunger mangelte es nicht, wohl aber an der Ausdauer für ein langes Manuskript. Ideen für weitere Buchprojekte poppten auf, aber sie sind noch zu vage und zu wenig ausgereift. Drei Jahre Pandemie und permanentes Krisenmanagement in der Apotheke haben viel abverlangt. Und weil mich das Meer erstaunlich oft gerufen hatte, blieb zu wenig Zeit für kontinuierliches Schreiben.<br>
 So machte ich aus der Not eine Tugend und schrieb Kurzgeschichten, damit mein Schreibmuskel nicht verkümmerte. Ich nahm an Wettbewerben teil, konnte mich aber gegen hunderte von KonkurrentInnen nicht durchsetzen. Ich nahm es sportlich, denn dabei zu sein ist bekanntlich alles.<br>
 
 Vier meiner Kurzgeschichten wurden 2022 veröffentlicht:<br>
