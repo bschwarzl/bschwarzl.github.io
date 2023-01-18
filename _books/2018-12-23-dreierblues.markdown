@@ -65,7 +65,7 @@ Karin, einer 39 jährigen, arbeitslosen Sozialpädagogin, machen die Trennung vo
 
 ## Wo können Sie das Buch kaufen?
 
-Das Buch ist erhältlich als eBook (9783742710611) oder als Taschenbuch (ISBN 978-3-7485-1466-4) auf [Amazon][amazon], [Thalia][thalia] und auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke für den Kauf!
+Das Buch ist erhältlich als eBook (9783742710611) oder als Taschenbuch (ISBN 978-3-7485-1466-4) auf [Amazon][amazon], [Thalia][thalia] und auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler, natürlich in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] oder über die Buchsuchmaschine [Buchsiegel] [buchsiegel]. Ich danke für den Kauf!
 *** NEU ***: "Dreierblues" ist seit 3.9.2020 auch für Tolino-Reader verfügbar (ISBN 13: 9783752112924)!! <br> 
 Die #schreibendeApothekerin wünscht Ihnen viel Spaß beim Lesen und eine gute Reise!
 
@@ -92,4 +92,6 @@ Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik au
 [nicht ohne meine Schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[buchsiegel]: https://www.buchsiegel.de/
+
  

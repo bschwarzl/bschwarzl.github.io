@@ -52,6 +52,12 @@ Meist ist der größte Feind Zuhause, genau dort, wo man sich am sichersten füh
 
 7. Sie können auch einen stillen Notruf an die Polizei schicken. Dafür brauchen Sie sich nur rechtzeitig den App **DEC112-den Notruf für Gehörlose** auf Ihrem Smartphone installieren. Mehr Informationen auf der Homepage der [Österreichischen Polizei] [österreichischen polizei].
 
+8. Um Spuren nach einem gewaltsamen Übergriff zu sichern, können Sie sich in Graz an die [Gewaltambulanz] [gewaltambulanz], die sogenannte Klinisch-forensische Untersuchungsstelle wenden. Vergleichbaren Service gibt es sicher auch in anderen Städten.
+
+9. In Graz können Frauen und Mädchen sich bei sexualisierter Gewalt an die Beratungsstelle [Tara] [tara] wenden.
+
+10. In einer Krisensituation ist das [Kriseninterventionsteam] [kriseninterventionsteam] für Sie da. Anfragen können Sie rund um die Uhr per Mail stellen oder zu den Öffnungszeiten anrufen. Im Notfall wählen Sie bitte die Nummer der **Telefonseelsorge 142**.
+
 
 ## Im Namen der Ehre
 
@@ -61,7 +67,8 @@ In manchen Kulturkreisen scheint es normal zu sein, Frauen Gewalt anzutun. Hier 
 ## Er tut mir weh! Hilfe für Kinder in Not
 
 Hast Du zuhause Angst? Kannst Du in der Nacht nicht schlafen? Fürchtest Du Dich vor dem Geschrei, dem Türenknallen? Droht er Dir damit, dass Du niemanden etwas sagen darfst? Hat er wieder fest zugeschlagen? Kannst Du Dich niemandem anvertrauen?
-Ja, Du hast Recht, das ist alles nicht in Ordnung. Gewalt ist nie tolerierbar, auch nicht Kindern und Jugendlichen gegenüber. Auf der Seite von [Gewalt ist nicht OK] [gewalt ist nicht ok] bekommst Du rund um die Uhr Hilfe. Dort findest Du Links, die Dir weiterhelfen, und Geschichten von Kindern, denen es vielleicht ähnlich wie Dir ergeht. Suche Dir Hilfe, wenn Du in Not bist.
+Ja, Du hast Recht, das ist alles nicht in Ordnung. Gewalt ist nie tolerierbar, auch nicht Kindern und Jugendlichen gegenüber. Auf der Seite von [Gewalt ist nicht OK] [gewalt ist nicht ok] bekommst Du rund um die Uhr Hilfe. Dort findest Du Links, die Dir weiterhelfen, und Geschichten von Kindern, denen es vielleicht ähnlich wie Dir ergeht. Suche Dir Hilfe, wenn Du in Not bist. <br>
+Wenn Du in Graz wohnst, wende Dich an [Tartaruga] [tartaruga], die Kriseninterventionsstelle für Jugendliche. Du kannst rund um die Uhr die **Telefonnummer 050/7900 3200** wählen.
 
 
 ## Vergessen wir nicht die Täter. Auch Männer brauchen Hilfe.
@@ -108,6 +115,15 @@ Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [ins
 [männerinfo]: https://www.maennerinfo.at/
 
 [neustart]: https://www.neustart.at/gewaltpraevention/#:~:text=NEUSTART%20ist%20in%20f%C3%BCnf%20Bundesl%C3%A4ndern,14%20Tagen%20ab%20Kontaktaufnahme%20stattfinden.
+
+[gewaltambulanz]: https://gerichtsmedizin.medunigraz.at/gewaltambulanz
+
+[tara]: https://www.taraweb.at/
+
+[kriseninterventionsteam]: https://kriseninterventionszentrum.at/kontakt/kontakt-und-beratung/#:~:text=In%20dringenden%20F%C3%A4llen%20au%C3%9Ferhalb%20unserer,unter%2001%2F313%2030%20wenden.
+
+[tartaruga]: https://jaw.or.at/ueber-uns/standorte/einrichtung/s/tartaruga/
+
 
 
 [spurensuche. diagnose schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
