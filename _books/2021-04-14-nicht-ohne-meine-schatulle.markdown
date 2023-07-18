@@ -38,7 +38,7 @@ Jetzt fragen Sie sich, ob sie sich an dem Mistkerl von Stiefvater rächen könne
 
 ## Neugierig? Wo kann man "Nicht ohne meine Schatulle" kaufen?
 
-Als eBook mit den ISBN 9783753184623 (Neobooks) und 9783752141016 (Tolino), sowie als Printausgabe mit der ISBN 9783754114025  z.B. bei [Buecher.de] [buecher.de], über die Plattform Ihres Vertrauens, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke herzlich für den Kauf und wünsche unterhaltsame, aber auch nachdenkliche Stunden. <br>
+Als eBook mit den ISBN 9783753184623 (Neobooks) und 9783752141016 (Tolino), sowie als Printausgabe mit der ISBN 9783754114025  z.B. bei [Thalia] [thalia], [Buecher.de] [buecher.de], über die Plattform Ihres Vertrauens, bei Ihrem regionalen Buchhändler und natürlich auch in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. Ich danke herzlich für den Kauf und wünsche unterhaltsame, aber auch nachdenkliche Stunden. <br>
 
 
 ## Ist "Nicht ohne meine Schatulle" eine wahre Geschichte?
@@ -87,6 +87,7 @@ Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter
 [facebook]: https://www.facebook.com/schreibendeApothekerin/
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
 
+[thalia]: https://www.thalia.at/suche?sq=barbara+schwarzl
 
 
 
