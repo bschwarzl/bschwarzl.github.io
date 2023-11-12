@@ -66,11 +66,13 @@ Die Personen am anderen Ende der Leitung haben keine Berührungsängste mit seel
 
 16. **[Pro Mente Österreich] [pro mente österreich]**, der Österreichische Dachverband für Vereine und Gesellschaften für psychische und soziale Gesundheit, hat in allen Bundesländern ein breites Serviceangebot.
 
-17. In der Schweiz engagiert sich die **[Dargebotene Hand] [dargebotene hand]** am Telefon unter 143, online oder im Chat für Sie unter dem Slogan „Manchmal möchte man mit jemandem reden“.
+17. **[PsyNot] [psynot]**, das psychiatrische Krisentelefon der Steiermark ist unter 0800/ 44 99 33 rund um die Uhr erreichbar, noch dazu kostenfrei und anonym.
 
-18. Auf der Website von **[Pro Mente Sana] [pro mente sana]** finden Sie die wichtigsten Notfallnummern für die Schweiz.
+18. In der Schweiz engagiert sich die **[Dargebotene Hand] [dargebotene hand]** am Telefon unter 143, online oder im Chat für Sie unter dem Slogan „Manchmal möchte man mit jemandem reden“.
 
-19. Die Angst- und Panikhilfe Schweiz **[APHS] [aphs]** können Sie telefonisch gebührenpflichtig und per Mail kontaktieren.
+19. Auf der Website von **[Pro Mente Sana] [pro mente sana]** finden Sie die wichtigsten Notfallnummern für die Schweiz.
+
+20. Die Angst- und Panikhilfe Schweiz **[APHS] [aphs]** können Sie telefonisch gebührenpflichtig und per Mail kontaktieren.
 
 
 ## Was kann ich sonst bei nervlichen Beschwerden tun?
@@ -103,6 +105,7 @@ Abonnieren Sie doch meine Seiten auf [Facebook] [facebook] und [Instagram] [inst
 [bitte lebe]: https://bittelebe.at/
 [böp]: https://www.boep.or.at/psychologische-behandlung/helpline
 [pro mente österreich]: https://www.promenteaustria.at/de/home/
+[psynot]: https://psynot-stmk.at/
 [dargebotene hand]: https://www.143.ch/
 [aphs]: https://www.aphs.ch/hotline/die-aphs-hotline/
 [pro mente sana]: https://www.promentesana.ch/angebote/anzeichen-erkennen/notfaelle-erkennen

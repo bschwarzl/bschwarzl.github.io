@@ -38,45 +38,49 @@ Meist ist der größte Feind Zuhause, genau dort, wo man sich am sichersten füh
 
 ## Hilfe für Frauen in Not
 
-1. Fühlen Sie sich bedroht? Dann wenden Sie sich bitte an ein [Frauenhaus] [frauenhaus] in Ihrer Nähe.
+1. Fühlen Sie sich bedroht? Dann wenden Sie sich bitte an ein **[Frauenhaus] [frauenhaus]** in Ihrer Nähe.
 
-2. Die [Gewaltschutzzentren] [gewaltschutzzentren] informieren, beraten, begleiten Sie zur Polizei, zum Gericht und anderen Behörden, helfen Ihnen bei der Durchsetzung Ihrer Rechte und bieten eine Prozessbegleitung für Sie und Ihre Kinder.
+2. Die **[Gewaltschutzzentren] [gewaltschutzzentren]** informieren, beraten, begleiten Sie zur Polizei, zum Gericht und anderen Behörden, helfen Ihnen bei der Durchsetzung Ihrer Rechte und bieten eine Prozessbegleitung für Sie und Ihre Kinder.
 
-3. Sie können sich in [Beratungsstellen] [beratungsstellen] kostenlos beraten lassen, denn Wissen um Ihre Rechte ist Ihre Macht.
+3. Sie können sich in **[Beratungsstellen] [beratungsstellen]** kostenlos beraten lassen, denn Wissen um Ihre Rechte ist Ihre Macht.
 
-4. Die [Frauenhelpline] [frauenhelpline] ist rund um die Uhr für Sie da. Wenn Sie bedroht werden, rufen Sie innerhalb von Österreich 0800/ 222 555.
+4. Die **[Frauenhelpline] [frauenhelpline]** ist rund um die Uhr für Sie da. Wenn Sie bedroht werden, rufen Sie innerhalb von Österreich 0800/ 222 555.
 
-5. Im [Helpchat] [helpchat] können Sie sich täglich von 18.00 bis 22.00 Uhr beraten lassen und sich mit anderen Frauen austauschen.
+5. Im **[Helpchat] [helpchat]** können Sie sich täglich von 18.00 bis 22.00 Uhr beraten lassen und sich mit anderen Frauen austauschen.
 
 6. Wenn sich die Lage bedrohlich zuspitzt, wählen Sie bitte den **Polizeinotruf 133 oder 112**. Die Polizei können Sie innerhalb von Österreich auch per SMS unter 0800/ 133 133 erreichen.
 
 7. Sie können auch einen stillen Notruf an die Polizei schicken. Dafür brauchen Sie sich nur rechtzeitig den App **DEC112-den Notruf für Gehörlose** auf Ihrem Smartphone installieren. Mehr Informationen auf der Homepage der [Österreichischen Polizei] [österreichischen polizei].
 
-8. Um Spuren nach einem gewaltsamen Übergriff zu sichern, können Sie sich in Graz an die [Gewaltambulanz] [gewaltambulanz], die sogenannte Klinisch-forensische Untersuchungsstelle wenden. Vergleichbaren Service gibt es sicher auch in anderen Städten.
+8. Um Spuren nach einem gewaltsamen Übergriff zu sichern, können Sie sich in Graz an die **[Gewaltambulanz] [gewaltambulanz]**, die sogenannte Klinisch-forensische Untersuchungsstelle wenden. Vergleichbaren Service gibt es sicher auch in anderen Städten.
 
-9. In Graz können Frauen und Mädchen sich bei sexualisierter Gewalt an die Beratungsstelle [Tara] [tara] wenden.
+9. Das **[Gewaltschutzzentrum Steiermark] [gewaltschutzzentrum steiermark]** ist Ihr Ansprechpartner hilft vertraulich und kostenfrei bei jeder Art der Gewalt (Mobbing, Gewalt in der Familie, Stalking, Zwangsheirat usw.) unter 0043 316/ 77 41 99. 
 
-10. In einer Krisensituation ist das [Kriseninterventionsteam] [kriseninterventionsteam] für Sie da. Anfragen können Sie rund um die Uhr per Mail stellen oder zu den Öffnungszeiten anrufen. Im Notfall wählen Sie bitte die Nummer der **Telefonseelsorge 142**.
+10. In Graz können Frauen und Mädchen sich bei sexualisierter Gewalt an die Beratungsstelle **[Tara] [tara]** wenden.
+
+11. **[PsyNot] [psynot]**, das psychiatrische Krisentelefon der Steiermark ist unter 0800/ 44 99 33 rund um die Uhr erreichbar, noch dazu kostenfrei und anonym.
+
+12. In einer Krisensituation ist das **[Kriseninterventionsteam] [kriseninterventionsteam]** für Sie da. Anfragen können Sie rund um die Uhr per Mail stellen oder zu den Öffnungszeiten anrufen. Im Notfall wählen Sie bitte die Nummer der **Telefonseelsorge 142**.
 
 
 ## Im Namen der Ehre
 
-In manchen Kulturkreisen scheint es normal zu sein, Frauen Gewalt anzutun. Hier setzt ein neues Projekt der Caritas Graz mit einem Buddy-Projekt an. Einheimische Frauen vernetzen sich nach einer Einschulung mit Migrantinnen mit dem Fokus auf Gewaltprävention. Vorsorgen ist bekanntlich immer besser als heilen. Wollen Sie Patin werden oder brauchen Sie selbst Hilfe? Hier geht`s zu [Malala] [malala].
+In manchen Kulturkreisen scheint es normal zu sein, Frauen Gewalt anzutun. Hier setzt ein neues Projekt der Caritas Graz mit einem Buddy-Projekt an. Einheimische Frauen vernetzen sich nach einer Einschulung mit Migrantinnen mit dem Fokus auf Gewaltprävention. Vorsorgen ist bekanntlich immer besser als heilen. Wollen Sie Patin werden oder brauchen Sie selbst Hilfe? Hier geht`s zu **[Malala] [malala]**.
 
 
 ## Er tut mir weh! Hilfe für Kinder in Not
 
 Hast Du zuhause Angst? Kannst Du in der Nacht nicht schlafen? Fürchtest Du Dich vor dem Geschrei, dem Türenknallen? Droht er Dir damit, dass Du niemanden etwas sagen darfst? Hat er wieder fest zugeschlagen? Kannst Du Dich niemandem anvertrauen?
-Ja, Du hast Recht, das ist alles nicht in Ordnung. Gewalt ist nie tolerierbar, auch nicht Kindern und Jugendlichen gegenüber. Auf der Seite von [Gewalt ist nicht OK] [gewalt ist nicht ok] bekommst Du rund um die Uhr Hilfe. Dort findest Du Links, die Dir weiterhelfen, und Geschichten von Kindern, denen es vielleicht ähnlich wie Dir ergeht. Suche Dir Hilfe, wenn Du in Not bist. <br>
-Wenn Du in Graz wohnst, wende Dich an [Tartaruga] [tartaruga], die Kriseninterventionsstelle für Jugendliche. Du kannst rund um die Uhr die **Telefonnummer 050/7900 3200** wählen.
+Ja, Du hast Recht, das ist alles nicht in Ordnung. Gewalt ist nie tolerierbar, auch nicht Kindern und Jugendlichen gegenüber. Auf der Seite von **[Gewalt ist nicht OK] [gewalt ist nicht ok]** bekommst Du rund um die Uhr Hilfe. Dort findest Du Links, die Dir weiterhelfen, und Geschichten von Kindern, denen es vielleicht ähnlich wie Dir ergeht. Suche Dir Hilfe, wenn Du in Not bist. <br>
+Wenn Du in Graz wohnst, wende Dich an **[Tartaruga] [tartaruga]**, die Kriseninterventionsstelle für Jugendliche. Du kannst rund um die Uhr die **Telefonnummer 050/7900 3200** wählen.
 
 
-## Vergessen wir nicht die Täter. Auch Männer brauchen Hilfe.
+## Auch Männer brauchen Hilfe.
 
-Nein, Sie sind kein Weichei, wenn Sie Hilfe annehmen! Alleine schaffen Sie es vermutlich nicht, den Kreislauf der Gewalt zu durchbrechen. Mit einer Therapie können Sie Ihre Aggressionen besser beherrschen. Es ist keine Lösung, die Fäuste sprechen zu lassen. Wenden Sie sich bitte an die [Männerinfo] [männerinfo]. Die Hotline erreichen Sie rund um die Uhr unter 0800/ 400 777. <br>
+Nein, Sie sind kein Weichei, wenn Sie Hilfe annehmen! Alleine schaffen Sie es vermutlich nicht, den Kreislauf der Gewalt zu durchbrechen. Mit einer Therapie können Sie Ihre Aggressionen besser beherrschen. Es ist keine Lösung, die Fäuste sprechen zu lassen. Wenden Sie sich bitte an die **[Männerinfo] [männerinfo]**. Die Hotline erreichen Sie rund um die Uhr unter **0800/ 400 777**. <br>
 Seit September 2021 müssen sich Personen, gegen die ein Betretungs- und Annäherungsverbot ausgesprochen wurde, einer sechsstündigen Beratung unterziehen. Innerhalb von fünf Tagen nach der Wegweisung muss ein Termin vereinbart werden. Das Erstgespräch muss innerhalb von 14 Tagen stattfinden. Sonst werden hohe Geldstrafen verhängt. <br>
 Es geht hier nicht um Schikane, sondern um Deeskalation und um einen Plan B, also wie es nach dem Betretungsverbot weitergehen soll.
-Weitere Informationen finden Sie auf der Website von [Neustart] [neustart]. Nützen Sie das Angebot, Ihrer Familie zuliebe.
+Weitere Informationen finden Sie auf der Website von **[Neustart] [neustart]**. Nützen Sie das Angebot, Ihrer Familie zuliebe.
 
 
 ## Hinschauen, handeln, helfen, gemeinsam gegen Gewalt an Frauen und Kinder vorgehen!
@@ -109,6 +113,10 @@ Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [ins
 [gewalt ist nicht ok]: https://www.gewalt-ist-nie-ok.at/de
 
 [österreichischen polizei]: https://www.polizei.gv.at/alle/notrufe_gehoerlose.aspx
+
+[gewaltschutzzentrum steiermark]: https://www.gewaltschutzzentrum-steiermark.at/
+
+[psynot]: https://psynot-stmk.at/
 
 [malala]: https://www.caritas-steiermark.at/malalapatenschaften
 
