@@ -137,6 +137,7 @@ Emma und Fritz, die beiden Geschwister in [Nicht ohne meine Schatulle] [nicht oh
 
 Möchten Sie erfahren, wie meine Romanfiguren gegen ihre Ängste ankämpfen oder ob sie es schaffen, zuversichtlicher zu werden? Die Antwort finden Sie in den Büchern, die Sie gerne in der Buchhandlung Ihrer Wahl kaufen können.<br>
 
+
 Abonnieren Sie meine Seiten auf [Facebook][facebook] und [Instagram] [instagram], um stets auf dem Laufenden zu sein. Ich freue mich über Ihre Likes und Kommentare.<br>
 
 
