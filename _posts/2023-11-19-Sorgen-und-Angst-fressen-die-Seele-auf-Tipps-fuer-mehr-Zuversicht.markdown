@@ -128,6 +128,11 @@ In der Steiermark können sich Menschen mit einer psychischen Belastung bzw. Erk
 In meinem Blogartikel [Seele in Not] [seele in not] finden Sie eine hilfreiche Kontaktliste.<br>
 
 
+## 5 Gesunde Fragen im Gesundheitstalk der Kleinen Zeitung
+
+Am 22.11.2023 war ich mit Dr.Dr. Astrid Maierhofer-Deutschmann beim Gesundheitstalk der Kleinen Zeitung in Graz zu Gast. Sonja Krause stellte uns fünf Fragen zu krankhafter Angst oder wie sich eine Panikattacke anfühlt. Ich verriet welche Symptome mich als Apothekerin hellhörig machen oder welche Hilfsmittel ich in der Apotheke empfehle. Das gekürzte Video können Sie auf der Homepage der [Kleinen Zeitung] [kleine zeitung] gerne ansehen.
+
+
 ## Bücher der schreibenden Apothekerin: Thema Angst
 
 In meinen Romanen und Kurzgeschichten thematisiere ich psychische Erkrankungen, um meine LeserInnen dafür zu sensibilisieren. Das ist mein Antistigma-Beitrag. Schließlich weiß niemand, ob es ihn nicht selbst irgendwann einmal in der einen oder anderen Form treffen wird.
@@ -157,6 +162,9 @@ Abonnieren Sie meine Seiten auf [Facebook][facebook] und [Instagram] [instagram]
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+
+[kleine zeitung]: https://www.kleinezeitung.at/lebensart/gesundheit/17873351/krankhafte-angst-wie-fuehlt-sich-eine-panikattacke-an
+
 
 
 
