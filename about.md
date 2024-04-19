@@ -9,18 +9,19 @@ image: /images/Autorin.jpg
 
 Buchstaben formen sich zu Wörtern und Wörter zu Geschichten.<br>
 Seit ich denken kann, sind Bücher mein Leben. Sie öffnen meinen Blick für Neues und Unbekanntes. Sie sind in meinem Kopf und in meinem Herzen.<br>
-Ich lasse Worte sprechen und manchmal auch Blumen. Ich bringe gerne ferne Orte zu Ihnen nach Hause, um Ihre Reiselust zu wecken. Wagen Sie es, mit mir unter den Teppich zu blicken und Unliebsames hervorzuholen? Blicken wir gemeinsam in die dunkelsten Winkel so mancher Seele? <br>
+Ich lasse Worte sprechen und manchmal auch Blumen. Ich bringe Ihnen gerne ferne Orte näher, um Ihre Reiselust zu wecken. Ich animiere Sie, mit mir unter den Teppich oder in die dunkelsten Winkel so mancher Seele zu blicken. <br>
 
 
 ## Dem Rat der Eltern folgen: Von der Bücherliebe zur Autorin
 
-Ich schrieb die längsten Aufsätze, später die längsten Faxe oder Mails. Die Älteren unter Ihnen können sich vielleicht noch an Faxe auf Endlospapier erinnern. Meine Eltern erhielten einmal pro Woche einen Meter davon und warteten sehnsüchtig auf meine Reiseberichte. Damals arbeitete ich bei der Immuno AG (jetzt Baxter) in Heidelberg an meiner Diplomarbeit und erkundete an den Wochenenden die Gegend.<br> Mein Stiefvater meinte, wenn das mit der “Apothekerei” nichts werde, könnte ich jederzeit umsatteln. Seine Worte fielen verspätet auf fruchtbaren Boden. Jetzt mache ich beides.<br>
+Ich schrieb die längsten Aufsätze, später die längsten Faxe oder Mails. Die Älteren unter Ihnen können sich vielleicht noch an Faxe auf Endlospapier erinnern. Meine Eltern erhielten einmal pro Woche einen Meter davon und warteten sehnsüchtig auf meine Reiseberichte. Damals arbeitete ich bei der Immuno AG (jetzt Baxter) in Heidelberg an meiner Diplomarbeit und erkundete an den Wochenenden die Gegend.<br> Mein Stiefvater meinte, wenn das mit der “Apothekerei” nichts werde, könnte ich jederzeit umsatteln. Seine Worte fielen verspätet auf fruchtbaren Boden. Jetzt bin ich Apothekerin und Autorin, also die schreibende Apothekerin.<br>
+
 Wissensdurst, Empathie, Organisationstalent und die Kunst des Zuhörens sind wichtige Zutaten für den Apothekerberuf. Manches davon fließt in meine Bücher ein, ebenso die eine oder andere Begegnung. Mein Apothekerberuf inspiriert mein Schreiben.<br>
 
-Ein Schlüsselerlebnis löste den Schreibimpuls aus:<br>
+**Ein Schlüsselerlebnis löste den Schreibimpuls aus**:<br>
 Irgendwann mit Mitte 30 philosophierte ich mit einer Freundin über den Sinn des Lebens. Wir sprachen darüber, was wir immer tun wollten, aber letztlich nie getan hatten. Kennen Sie das? Sie sind im Beruf gefestigt, Ihr Leben ist auf Schiene, aber irgendetwas fehlt?<br>
 “Wie war das mit dem Schreiben?”, fragte meine Freundin.<br>
-Das war der Auslöser. Die Blockaden lösten sich, die Gedanken kamen in Fluss und ein erstes Thema tat sich auf: Schizophrenie! Ich sah vor lauter Bäumen keinen Wald und erkannte, dass das für den Anfang zu anspruchsvoll war. Vom Schreiben zu träumen ist eine Sache, es zu verwirklichen eine andere.<br>
+Das war der Auslöser. Die Blockaden lösten sich, die Gedanken kamen in Fluss und ein erstes Thema tat sich auf: Schizophrenie! Ich sah vor lauter Bäumen keinen Wald und erkannte, dass das für den Anfang zu anspruchsvoll war. Vom Schreiben zu träumen ist eine Sache. Es zu verwirklichen eine andere.<br>
 *Back to the roots*. Reisebeschreibungen lagen mir. So kam es, dass ein Reisetagebuch mein Erstling wurde.<br>
 
 
@@ -33,14 +34,14 @@ Wenn ich nicht arbeite, schreibe, reise oder lese, widme ich mich unserem Garten
 ## Was für Bücher schreibt die schreibende Apothekerin?
 
 Meist handeln sie vom **Reisen**: An Sehnsuchtsorte oder an tief verborgene Orte der **menschlichen Seele**.
-Meine Reiselust findet sich in meinen Büchern wieder, mal als Reisetagebuch, als Reiseerzählung, als Reiseschilderung, als Reiseroman oder Roadnovel. Mich faszinieren psychologische und medizinische Themen, Nischenthemen bzw. unbequeme Themen, die zum Nachdenken anregen. <br>  Mich reizen die Untiefen der Seele und seelische Abgründe. Je dunkler desto besser. Ich habe ein Faible für Personen mit schwierigen Schicksalen, die mit aller Kraft für ein besseres Leben kämpfen und sich niemals unterkriegen lassen. Deshalb ist mit Ausnahme von [Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie] die Erzählstimme meiner Geschichten trotz der schwierigen Themen positiv. Es ist mir wichtig, lebensbejahende Bücher ins Leseruniversum zu entsenden. Sie rangieren abseits des Mainstreams. Vom Genre sind sie einzuordnen unter Belletristik, erzählender Prosa, Unterhaltungs- und Gegenwartsliteratur, zeitgenössischer und moderner Literatur. Als Subgenre würde Reiseliteratur oder psychologischer Roman zutreffen. 
+Meine Reiselust findet sich in meinen Büchern wieder, mal als Reisetagebuch, als Reiseerzählung, als Reiseschilderung, als Reiseroman oder Roadnovel. Mich faszinieren psychologische und medizinische Themen, Nischenthemen bzw. unbequeme Themen, die zum Nachdenken anregen. <br>  Mich reizen die Untiefen der Seele und seelische Abgründe. Je dunkler desto besser. Ich habe ein Faible für Personen mit schwierigen Schicksalen, die mit aller Kraft für ein besseres Leben kämpfen und sich niemals unterkriegen lassen. Deshalb ist mit Ausnahme von [Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie] die Erzählstimme meiner Geschichten trotz der schwierigen Themen positiv. Es ist mir wichtig, lebensbejahende Bücher ins Leseuniversum zu entsenden. Sie rangieren abseits des Mainstreams. Vom Genre sind sie einzuordnen unter Belletristik, erzählender Prosa, Unterhaltungs- und Gegenwartsliteratur, zeitgenössischer und moderner Literatur. Als Subgenre würde Reiseliteratur oder psychologischer Roman zutreffen. 
 
 
 ## Buchveröffentlichungen der schreibenden Apothekerin:
 
 Den Anfang machte 2011 [Reise quer durch Estland, Lettland und Litauen] [reise quer durch Estland, Lettland und Litauen], ein Reisetagebuch. Dem Buchtitel entsprechend schildere ich meine Eindrücke von den baltischen Staaten. Mein Herzbube lieferte die tollen Fotos für das Cover und das Buchinnere. Dieses Reisebuch ist ideal für Individualreisende, weil unsere Reiseroute direkt übernommen werden kann. <br> 
 
-Im Jahr darauf erschien mein erster Roman [Alles anders. Auf Umwegen angekommen] [alles anders. Auf Umwegen angekommen]. Die Schauplätze sind Venedig, das ich sehr gut kenne und immer wieder gerne aufs Neue erkunde, und die Normandie. Dieses Buch ist meine Liebeserklärung an Italien und Frankreich. Fein dosierte Hintergrundinformationen, ein wenig Lokalkolorit, eine gesunde Dosis Gefühl, eine Prise Herzschmerz. Trotzdem ist "Alles anders. Auf Umwegen angekommen" kein Liebesroman. Dass der D-Day im Normandie-Teil eine wesentliche Rolle spielt, hat viele Leser positiv überrascht. Aktuell sind Restexemplare nur bei [Morawa im Citypark] [morawa im citypark] erhältlich.<br> 
+Im Jahr darauf erschien mein erster Roman [Alles anders. Auf Umwegen angekommen] [alles anders. Auf Umwegen angekommen]. Die Schauplätze sind Venedig, das ich sehr gut kenne und immer wieder gerne aufs Neue erkunde, und die Normandie. Dieses Buch ist meine Liebeserklärung an Italien und Frankreich. Fein dosierte Hintergrundinformationen, ein wenig Lokalkolorit, eine gesunde Dosis Gefühl, eine Prise Herzschmerz. Trotzdem ist "Alles anders. Auf Umwegen angekommen" kein Liebesroman. Dass der D-Day im Normandie-Teil eine wesentliche Rolle spielt, hat viele LeserInnen positiv überrascht. Aktuell sind Restexemplare nur bei [Morawa im Citypark] [morawa im citypark] erhältlich.<br> 
 
 In meinem dritten Buch [Spurensuche. Diagnose Schizophrenie] [spurensuche. Diagnose Schizophrenie], 2016 erschienen im A. Fritz Verlag, griff ich meine ursprüngliche Idee auf und widmete mich erstmalig einem medizinischen Thema: Der Schizophrenie. Bewegt von manchen Schicksalen meiner PatientInnen bzw. KundInnen möchte ich als Sprachrohr für diese oft stigmatisierten Menschen auftreten. Dieser Roman leitet fließend zu einem Sachbuch über, da Informationen in die Handlung eingewoben sind. So bekommt der Leser die Krankheit von jedem nur erdenklichen Blickwinkel ausgeleuchtet. Er erfährt von den Ursachen, den Symptomen, der Prognose, der Therapie der Erkrankung, von veralteten Behandlungsmethoden, der eugenischen Lösung, von den Schwierigkeiten des Patienten, in ein geregeltes Leben hineinzufinden, von den Schwierigkeiten der Familie und vor allem was es heißt, ein Nachkomme eines Schizophrenen zu sein. <br> Sie erlben den Ausbruch der Krankheit hautnah, ohne vielleicht die ersten Symptome richtig deuten zu können. Neugierig? <br> 
 Es freute mich, dass ich "Spurensuche. Diagnose Schizophrenie" auf den DGPPN-Kongressen im November 2016 und 2018 in Berlin vorstellen und daraus lesen durfte. <br> 
@@ -52,16 +53,18 @@ Um Aktuelles zu erfahren, abonnieren Sie mich gerne auf [Facebook][facebook], #s
 
 
 
-## Warum hat sich die schreibende Apothekerin unter die Selfpublisher begeben?
-
-Wie so mancher Neuling in der Buchszene habe auch ich meine Manuskripte Verlagen angeboten. Es folgten Wochen und Monate des vergeblichen Wartens, des Zauderns und Zweifelns. Es verstrich kostbare Zeit, in der ich mich auf kein neues Projekt konzentrieren konnte. Manchmal breche ich mit den klassischen Genrevorstellungen, was von großen Publikumsverlagen nicht geschätzt wird. Deshalb veröffentlichte ich meine ersten beiden Bücher allen Unkenrufen zum Trotz bei einem Zuschussverlag. Damals steckte die Selfpublisher-Szene noch in den Kinderschuhen. Ich investierte in ein Rundumsorglospaket für Lektorat, Korrektorat, Covererstellung, Drucksatz und Vertrieb. [Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie], mein drittes Buch, kam bei einem Kleinverlag unter. Bingo! Endlich geschafft, dachte ich. Wer die Verlagszene kennt, weiß, dass die großen Werbebudgets nur auf etablierte AutorInnen bei den ganz großen Verlagen warten. <br>
-[Dreierblues] [dreierblues] und [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] veröffentlichte ich im Selfpublishing. Das können Sie sich wie eine One-Woman-Show von der Buchidee bis zum fertigen Buch vorstellen. Mal läuft es holprig, mal wie am Schnürchen. Und selbstverständlich zweifle ich an manchen Tagen. Das gehört zum Autorenleben dazu. Mein Ehrgeiz, laufend besser zu werden, und die Freude am Schreiben treiben mich an. Meine Ansprüche sind hoch und die meiner LeserInnen noch höher. <br> *Sind Sie zufällig BuchbloggerIn, schreiben Sie regelmäßig Rezensionen oder sind Sie lesewütig? Dann kontaktieren Sie mich bitte. ;)*
-
-
-
 ## Wo sind die Bücher der schreibenden Apothekerin erhältlich?
 
-Sie können sie bei den bekannten Online-Riesen kaufen, und natürlich in der Buchhandlung Ihres Vertrauens, wo sie, falls sie nicht vorrätig sind, gerne bestellt werden können, bei [Thalia] [thalia] usw. Hier eine Übersicht der [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. <br> Eine Einschränkung gibt es für [Alles anders. Auf Umwegen angekommen] [alles anders. Auf Umwegen angekommen]. Der Roman ist bei [Morawa im Citypark] [morawa im citypark] in Graz erhältlich. <br> Wenn Ihnen ein Buch gefallen hat, schreiben Sie bitte eine kurze Buchkritik. Danke, und nochmals danke!
+Sie können sie bei den bekannten Online-Riesen kaufen, und natürlich in der Buchhandlung Ihres Vertrauens, wo sie, falls sie nicht vorrätig sind, gerne bestellt werden können, bei [Thalia] [thalia] usw. Hier eine Übersicht der [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen]. <br> Eine Einschränkung gibt es für [Alles anders. Auf Umwegen angekommen] [alles anders. Auf Umwegen angekommen]. Der Roman ist bei [Morawa im Citypark] [morawa im citypark] in Graz erhältlich. <br> Wenn Ihnen ein Buch gefallen hat, schreiben Sie bitte eine kurze Buchkritik. Danke, und nochmals danke! <br>
+*Sind Sie zufällig BuchbloggerIn, schreiben Sie regelmäßig Rezensionen oder sind Sie lesewütig? Dann kontaktieren Sie mich bitte. ;)*
+
+
+
+## Kurzgeschichten für Erwachsene
+
+Wenn mich mein Apothekerberuf zu sehr in Anspruch nimmt, schreibe ich Kurzgeschichten, damit mein Schreibmuskel nicht verkümmert. Zwischendurch nehme ich an Schreibwettbewerben teil. Einige meiner Geschichten wurden in Kurzgeschichtensammlungen, sogenannten Anthologien veröffentlicht: <br>
+.) *"Ich drehe am Rad der Zeit"*, *"Hilfe, ich bin ein Pflanzen-Messie!"*, *"Blick auf den Canal Grande"* im [Papierfresserchen Verlag] [papierfresserchen verlag] <br> .) *"Unterterdrückter freier Wille"*, *"Zeitreise in die Vergangenheit"*, *"Bittere Momente"* online im #kkl [Kunst-Kultur-Literatur-Magazin] [kunst-kultur-literatur-magazin] <br>
+.) *"Stakkato der Veränderungen"* in der "[Corona Anthologie II] [corona anthologie II]", Hrsg. Thomas Schafferer
 
 Ich wünsche Ihnen gute Unterhaltung und angenehme Stunden mit meinen Büchern, sowie viele unvergessliche Reisen an Ihre Traumziele. <br> 
 Alles Liebe, Ihre Barbara Schwarzl, die schreibende und reiselustige Apothekerin
@@ -80,4 +83,9 @@ Alles Liebe, Ihre Barbara Schwarzl, die schreibende und reiselustige Apothekerin
 [online-Shops der österreichischen Buchhandlungen]: http://www.buecher.at/buylocal/
 [morawa im citypark]: https://www.morawa.at/about/stores/storeDetail/CP/Morawa-Citypark-Graz
 [thalia]: https://www.thalia.at/suche?sq=barbara+schwarzl
+[papierfresserchen verlag]: https://www.papierfresserchen.de/epages/64282966.sf/de_DE/?ObjectPath=/Shops/64282966/Categories/Anthologie
+[kunst-kultur-literatur-magazin]: https://kunstkulturliteratur.com/
+[corona anthologie II]: https://www.cobi.at/showevent/coronaanthologie-ii-mit-352-seiten-78
+
+
 
