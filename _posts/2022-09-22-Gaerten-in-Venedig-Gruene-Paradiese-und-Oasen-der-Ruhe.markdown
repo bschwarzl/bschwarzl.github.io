@@ -23,7 +23,7 @@ Ein Abstecher lohnt sich nicht nur zur An- und Abreise, denn der Giardino Papado
  
 2. Wenn Sie mit dem Zug nach Venedig reisen, folgen Sie vermutlich dem Menschenstrom vom Bahnhof Santa Lucia Richtung Rialto bzw. San Marco. Bevor Sie den Ponte delle Guglie überqueren, befindet sich linker Hand ein wenig versteckt der **Parco Savorgnan**. Kleine Kinder werden sich über Karussell, Rutschen, Schaukeln und Wippen freuen.
  
-3. In unmittelbarer Nähe zum Bahnhof liegt der **Giardino Mistico dei Carmelitani Scalzi**. Er soll sehr schön sein. Ich gestehe, eine Besichtigung gelang mir bislang nicht. Der Eingang befindet sich vermutlich im Klosterladen links von der Chiesa Santa Maria di Nazareth. Dort können Sie den Melissengeist der Karmeliterinnen kaufen, sofern Sie mehr Glück als ich mit den Öffnungszeiten haben.
+3. In unmittelbarer Nähe zum Bahnhof liegt der **[Giardino Mistico] [giardino mistico]**, ein Garten mit Wow-Effekten. Der Eingang befindet sich im Klosterladen links von der Chiesa Santa Maria di Nazareth. Der Garten kann nur im Rahmen einer Führung besichtigt werden. Er hat keine geregelten Öffnungszeiten. Die Gartenführungen finden in italienischer und manchmal in englischer Sprache statt. Bei Interesse kontaktieren Sie die Karmelitinnen per Mail und unbedingt lange bevor Sie nach Venedig reisen. Mehr darüber in meinem [Jahresrückblick 2024] [jahresrückblick 2024]. 
  
 4. Wussten Sie, dass sich ein grünes Paradies direkt hinter der Piazza San Marco befindet? Die **Giradini Reali** sind wieder öffentlich zugänglich. In keinem anderen öffentlichen Park in Venedig blüht es so prächtig.<br>
 Gehen Sie von der Piazza San Marco bei den Ramschbuden vorbei Richtung Bootsanleger San Marco und gehen Sie durch das schmiedeeiserne Tor. Genießen Sie die Ruhe im Herzen Venedigs. Das Foto, das diesen Blogartikel einleitet, habe ich dort aufgenommen.
@@ -104,3 +104,5 @@ Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [ins
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[giardino mistico]: https://www.giardinomistico.it/blog/
+[jahresrückblick 2024]: http://localhost:4000/2025/01/05/Jahresrueckblick-2024-In-der-Ruhe-liegt-die-Kraft.html

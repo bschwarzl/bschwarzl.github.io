@@ -15,7 +15,7 @@ Wie bedeutsam unser Nervensystem für unser Tun und Handeln ist, merken wir erst
 Geisteskrankheiten sind immer noch ein Tabuthema. Insgesamt gut gemacht und gut aufgearbeitet. <br> 
 Begrüßenswert, dass sich das Buch jenen Problemen widmet, die in einem Kontext mit psychischen Problemen stehen. ... Denkanstoß, den die Autorin bildhaft zum Ausdruck brachte. Mich hat die Lektüre zutiefst berührt. <br>
 Ich habe das Buch förmlich verschlungen und finde es von der Autorin sehr durchdacht, Informationen über eine komplexe Krankheit in eine so mitreißende Geschichte zu verpacken.<br>
-Barbara Schwarzl macht mit ihrem Buch interessierten Lesern verständlich, dass es sich bei der Diagnose Schizophrenie, die eine genetische Disposition hat, nicht nur einfach um Verrückte handelt, vor denen man Angst haben muss. Immerhin sollen auch Persönlichkeiten daran erkrankt sein, die Herausragendes geleistet haben. Den Leser erwartet übrigens noch ein völlig überraschendes Ende, das ihm noch einmal zum besseren Verständnis die Besonderheiten der Krankheit vor Augen führt. <br> Die vollständigen Rezensionen können Sie nachlesen auf [Amazon][amazon], [Thalia][thalia], [Buchaviso] [buchaviso] und [Leseleidenschaft] [leseleidenschaft].
+Barbara Schwarzl macht mit ihrem Buch interessierten Lesern verständlich, dass es sich bei der Diagnose Schizophrenie, die eine genetische Disposition hat, nicht nur einfach um Verrückte handelt, vor denen man Angst haben muss. Immerhin sollen auch Persönlichkeiten daran erkrankt sein, die Herausragendes geleistet haben. Den Leser erwartet übrigens noch ein völlig überraschendes Ende, das ihm noch einmal zum besseren Verständnis die Besonderheiten der Krankheit vor Augen führt. <br> Die vollständigen Rezensionen können Sie nachlesen auf [Amazon][amazon], [Thalia][thalia] und [Buchaviso] [buchaviso].
 
 
 ## Klappentext
@@ -66,8 +66,8 @@ Bereits zwei Mal (im November 2016 und 2018) durfte ich "Spurensuche. Diagnose S
 
 ## Treten Sie in Kontakt mit der Autorin!
 
-Weitere Informationen und Aktuelles auf [Facebook][facebook]. Besuchen Sie gerne meine [Autorenseite auf Facebook] [autorenseite auf facebook], auf [Instagram] [instagram] und auf [Twitter] [twitter] <br>
-Ich freue mich über einen regen Austausch, Ihre #schreibendeApothekerin
+Besuchen Sie gerne meine [Autorenseite auf Facebook] [autorenseite auf facebook] und auf [Instagram] [instagram].<br>
+Ich freue mich über einen regen Austausch, Ihre @schreibendeApothekerin
 
 
 # Informationen für psychisch Kranke und ihre Angehörigen
@@ -76,7 +76,6 @@ Ich freue mich über einen regen Austausch, Ihre #schreibendeApothekerin
 
 
 [buchaviso]: http://buchaviso.de/spurensuche-diagnose-schizophrenie-von-barbara-schwarzl
-[leseleidenschaft]: http://www.leseleidenschaft.de/gastrezension-spurensuche-von-barbara-schwarzl/
 [facebook]: https://www.facebook.com/Spurensuche-Diagnose-Schizophrenie-511738592352066/
 [amazon]: https://www.amazon.de/Spurensuche-Diagnose-Schizophrenie-Barbara-Schwarzl/dp/394477115X
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID44038233.html?retn=thatsel:q1

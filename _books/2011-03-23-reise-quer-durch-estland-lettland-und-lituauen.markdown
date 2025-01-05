@@ -48,7 +48,7 @@ erfrischend, unkonventionell, wundervoller Überblick, schildert persönliche Er
 
 
 ## Weitere Informationen und Aktuelles aus den baltischen Ländern
-... auf [Facebook][facebook]. Kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? Oder jene auf [Instagram] [instagram] und [Twitter] [twitter]? Schreiben Sie mir gerne von Ihrer Reise ins Baltikum. Ich freue mich. <br> Schöne Reise wünscht Ihnen die #schreibendeApothekerin
+... auf [Facebook][facebook]. Für News aus der Schreibstube abonnieren Sie bitte [Autorenseite auf Facebook] [autorenseite auf facebook] und [Instagram] [instagram]. Liken, posten und kommentieren Sie! Berichten Sie mir gerne von Ihrer Reise ins Baltikum. Ich freue mich. <br> Schöne Reise wünscht Ihnen die #schreibendeApothekerin
 
 [amazon]: https://www.amazon.de/Reise-Durch-Estland-Lettland-Litauen/dp/399003264X
 [novum verlag]: https://www.novumverlag.com/buecher/ratgeber-sachbuch/sonstiges-allerlei/reise-quer-durch-estland-lettland-und-litauen.html

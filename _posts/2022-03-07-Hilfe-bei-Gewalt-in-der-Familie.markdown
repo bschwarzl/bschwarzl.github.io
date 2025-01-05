@@ -18,7 +18,7 @@ In diesem Blogartikel habe ich Telefonhotlines und Webadressen zusammengestellt,
 ## Selbst ein Gewaltopfer?
 
 Ich bin dankbar, selbst keine Gewalterfahrung zu haben. Ich lebe in einer harmonischen und wertschätzenden Beziehung. Als Frau und Autorin fühle ich natürlich mit Gewaltopfern. Als Apothekerin bin ich in meinen Beratungsgesprächen täglich mit psychischen Problemen konfrontiert. Und ich habe ein Herz für Personen am Rande der Gesellschaft. Oft frage ich mich, was passiert sein mag, dass sie ausgerechnet dort, am äußersten Rand, gelandet sind. <br>
-Es erschüttert mich, dass laut Medienberichten die Gewalt innerhalb der eigenen vier Wände zunehmen soll. Gleichzeitig bestätigt es mich darin – wie auch die ersten Rezensionen von [Nicht ohne meine Schatulle] [nicht ohne meine schatulle] –, dass es wichtig ist, Menschen für dieses Thema zu sensibilisieren. Damit wir als Unbeteiligte aufmerksamer sind, um rechtzeitig einschreiten und helfen zu können. Couragiert das richtige Wort zum richtigen Zeitpunkt aussprechen und nicht wegschauen. Dazu ruft auch das [Österreichische Bundesministerium für Soziales] [österreichische bundesministerium für soziales] unter #sagwas auf seiner Homepage und in Werbespots auf.
+Es erschüttert mich, dass laut Medienberichten die Gewalt innerhalb der eigenen vier Wände zunehmen soll. Gleichzeitig bestätigt es mich darin – wie auch die ersten Rezensionen von [Nicht ohne meine Schatulle] [nicht ohne meine schatulle] –, dass es wichtig ist, Menschen für dieses Thema zu sensibilisieren. Damit wir als Unbeteiligte aufmerksamer sind, um rechtzeitig einschreiten und helfen zu können. Couragiert das richtige Wort zum richtigen Zeitpunkt aussprechen und nicht wegschauen.<br>
 
 
 ## Der brodelnde Vulkan
@@ -94,7 +94,6 @@ Mit Hinschauen und Handeln helfen wir. Wir müssen zusammenhalten! #sagwas
 Ich freue mich, wenn Sie weiter auf meinen Seiten schmökern. In meinen Büchern [Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie], [Dreierblues] [dreierblues], [Nicht ohne meine Schatulle] [nicht ohne meine schatulle] thematisiere ich *psychische Erkrankungen*. In [Reise quer durch Estland, Lettland und Litauen] [reise quer durch estland, lettland und litauen], [Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen], [Dreierblues] [dreierblues] dreht es sich um – wie ich finde – die schönste Tätigkeit, nämlich das *Reisen*. <br>
 Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram], um immer am Laufenden zu sein.
 
-[österreichische bundesministerium für soziales]: https://www.sozialministerium.at/Themen/Soziales/Soziale-Themen/Geschlechtergleichstellung/Gewaltpraevention/mannsprichtsan.html
 
 [erhebung der europäischen union, 2014]: https://fra.europa.eu/de/publications-and-resources/data-and-maps/gewalt-gegen-frauen-eine-eu-weite-erhebung
 

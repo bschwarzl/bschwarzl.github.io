@@ -65,29 +65,22 @@ Karin, einer 39 jährigen, arbeitslosen Sozialpädagogin, machen die Trennung vo
 
 ## Wo können Sie das Buch kaufen?
 
-Das Buch ist erhältlich als eBook (9783742710611) oder als Taschenbuch (ISBN 978-3-7485-1466-4) auf [Amazon][amazon], [Thalia][thalia] und auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler, natürlich in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] oder über die Buchsuchmaschine [Buchsiegel] [buchsiegel]. Ich danke für den Kauf!
-*** NEU ***: "Dreierblues" ist seit 3.9.2020 auch für Tolino-Reader verfügbar (ISBN 13: 9783752112924)!! <br> 
-Die #schreibendeApothekerin wünscht Ihnen viel Spaß beim Lesen und eine gute Reise!
+Das Buch ist erhältlich als eBook (9783742710611) bzw. für Tolino-Reader (ISBN 13: 9783752112924) oder als Taschenbuch (ISBN 978-3-7485-1466-4) auf [Amazon][amazon], [Thalia][thalia] und auf allen gängigen Plattformen, bei Ihrem regionalen Buchhändler, natürlich in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] oder über die Buchsuchmaschine [Buchsiegel] [buchsiegel]. Ich danke für den Kauf!<br> 
+Gute Kopfreise, wünscht die @schreibendeApothekerin!
 
-
-## Buchvorstellungen
-
-Im Jänner 2021 präsentierte [Michelangelos Bookblog] [michelangelos Bookblog] "Dreierblues". Die Schnitzel aus dem Buch können Sie auf diesem vielseitigen Blog nachlesen.
 
 
 ## Eine Bitte an die Leser/Innen von "Dreierblues"
 
-Hat Ihnen das Buch gefallen? Dann schreiben Sie bitte eine Buchkritik - gerne auch eine kurze - auf dem jeweiligen Verkaufsportal. Natürlich können Sie sie mir auch per Mail schicken. Bitte betreiben Sie fleißig Mundpropaganda. Ich freue mich, wenn Sie mich auf [Facebook] [facebook] oder auf [Instagram] [instagram] und [Twitter] [twitter] kontaktieren. Kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie unbedingt [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] lesen. Die Arbeit mit ihm machte so viel Spaß, dass er auch in meinem nächsten Roman eine wichtige Rolle spielt.
+Hat Ihnen das Buch gefallen? Dann schreiben Sie bitte eine Buchkritik - gerne auch eine kurze - auf dem jeweiligen Verkaufsportal. Natürlich können Sie sie mir auch per Mail schicken. Bitte betreiben Sie fleißig Mundpropaganda. Ich freue mich, wenn Sie mich auf [Facebook] [facebook] oder auf [Instagram] [instagram] und [Twitter] [twitter] kontaktieren. Kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie unbedingt [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] lesen.
 
-Weitere Informationen und aktuelle Meldungen aus der Dominikanischen Republik auf [Facebook][facebook].
+
 
 [spurensuche. Diagnose Schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
 [online-Shops der österreichischen Buchhandlungen]: https://buchhandel.at/buchhandlung
-[facebook]: https://www.facebook.com/Roadnovel.DominikanischeRepublik
 [amazon]:https://www.amazon.de/s/ref=nb_sb_noss/260-1243103-4337016?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks&field-keywords=dreierblues
 [lovelybooks]: https://www.lovelybooks.de/autor/Barbara-Schwarzl/Dreierblues-1988154811-w/
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID141994088.html
-[michelangelos Bookblog]: https://michelangelosbookblog.blogspot.com/search/label/Psychologie
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [nicht ohne meine Schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
 [twitter]: https://twitter.com/BuchSchwarzl
