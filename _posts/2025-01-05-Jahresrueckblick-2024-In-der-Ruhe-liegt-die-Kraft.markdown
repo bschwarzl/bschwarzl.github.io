@@ -16,7 +16,7 @@ Mein 2024 war nicht tschingderassabum, aber auch nicht ojemine, sondern ganz rel
 ## Meine Autoren-Projekte 2024:
 
 **Venedig-Reisebuch**:<br>
-Ich liebe Venedig und kenne es wie meine Westentasche. Seit meinem Reiseroman [Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen] floss sehr viel Wasser durch die Lagune, inklusive zahlreicher Acque alte. Ich ging mit der Idee, ein praxistaugliches Reisebuch über Venedig zu schreiben, so lange schwanger wie eine Elefantenkuh. Anfang des Jahres setzten die Wehen ein. Ich begann euphorisch zu schreiben, hielt das Tempo aber nur ein paar Wochen. Dann legte ich mein Manuskript wie ein Findelkind weg.  Gewissensbisse folgten, aber die Verlockungen der warmen Jahreszeit waren zu groß.<br>
+Ich liebe Venedig und kenne es wie meine Westentasche. Seit meinem Reiseroman [Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen] floss sehr viel Wasser durch die Lagune, inklusive zahlreicher Acque alte. Ich ging mit der Idee, ein praxistaugliches Reisebuch über Venedig zu schreiben, so lange schwanger wie eine Elefantenkuh. Anfang des Jahres setzten die Wehen ein. Ich begann euphorisch zu schreiben, hielt das Tempo aber nur ein paar Wochen. Gewissensbisse folgten, aber die Verlockungen der warmen Jahreszeit waren zu groß.<br>
 Das Schreiben war ins Stocken geraten, aber nicht mein Erkundungsdrang. 2024 verbrachte ich zwei Kurzurlaube zu Recherchezwecken in der Serenissima, so viele wie schon lange nicht mehr. Recherche für ein Reisebuch macht Spaß, denn sie lässt sich wunderbar mit Urlaub verbinden: Mit inspirierenden Begegnungen, gutem italienischem Essen, zahlreichen Espressi und dem einen oder anderen Aperol Spritz Veneziano.<br>
 
 **Schreibkurs**:<br>
