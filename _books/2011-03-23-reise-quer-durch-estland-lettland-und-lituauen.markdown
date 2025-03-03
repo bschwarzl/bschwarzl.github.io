@@ -3,10 +3,10 @@ layout: post
 title:  "Reise quer durch Estland, Lettland und Litauen"
 categories: buch
 permalink: /reise-quer-durch-estland-lettland-und-litauen/
-image: /images/Reisetagebuch.Cover.klein.jpg
+image: /images/Reisetagebuch_Cover_Schrift.jpg
 ---
 
-Heißt Ihr nächstes Reiseziel Baltikum? Tüfteln Sie womöglich an Ihrer Reiseroute? Die Lösung ist nah. Das Reisetagebuch "Reise quer durch Estland, Lettland und Litauen" beschreibt eine zehntägige Reise, deren Route Sie mühelos übernehmen können. Ein unkonventionelles Reisebuch mit inspirierenden Farbfotos.
+Heißt Ihr nächstes Reiseziel Baltikum? Tüfteln Sie womöglich an Ihrer Reiseroute? Die Lösung ist nah. Ein unkonventionelles Reisetagebuch mit inspirierenden Farbfotos. "Reise quer durch Estland, Lettland und Litauen" beschreibt eine zehntägige Reise, deren Route Sie mühelos übernehmen können. Erfahren Sie mehr über die Highlights des Baltikums.
 
 
 ## Klappentext
@@ -17,13 +17,24 @@ Dieses Reisetagebuch macht Lust die baltischen Länder zu bereisen und ist der i
 
 ## Warum schrieb Barbara Schwarzl, die schreibende, reiselustige Apothekerin, ein Buch über die baltischen Staaten? Warum ausgerechnet Reisegeschichten?
 
-Ich schrieb schon immer gerne detaillierte Schilderungen meiner Reisen. Freunde und die Familie waren die Empfänger. Der Wunsch, für die Öffentlichkeit zu schreiben, war immer präsent. Als ich mich für unsere Reise in die baltischen Länder vorbereitete, wurde er immer größer. Ich hatte das Glück, die Route von einer geschätzten und vielreisenden Kollegin inklusive ihrer Tipps übernehmen zu dürfen. Ich brauchte nur mehr die Flüge, den Mietwagen und die Zimmer zu buchen und schon konnte es losgehen. Davon sollten auch andere profitieren, dachte ich mir. Und so wurde "Reise quer durch Estland, Lettland und Litauen" mein Debut. <br> 
-Ich ergänzte die detailgetreuen *Reiseschilderungen* mit Informationen über Land und Leute. Nur, damit keine Missverständnisse aufkommen: "Reise quer durch Estland, Lettland und Litauen" ist kein Reiseführer. Das Buch eignet sich aber bestens als Ergänzung dazu. Außerdem ist es bebildert. So können Sie sich bestens auf das Baltikum einstimmen. Die wunderschönen *Fotos* steuerte mein Herzbube bei, der nach wie vor nicht namentlich genannt werden möchte. <br> Bitte beachten Sie, dass ich Estland, Lettland und Litauen als Individualtouristin und nicht als Expertin bereist habe. Ich schildere unsere persönlichen Eindrücke. Möglicherweise werden Sie selbst andere Erlebnisse und damit verbunden andere Eindrücke haben. Übernehmen Sie gerne unsere Route. <br>
+Ich liebe das Reisen und davon zu erzählen. Ich schrieb schon immer gerne *Reiseberichte* an Freunde und die Familie. Warum nicht den Radius an Lesern ausdehnen? <br>
+Das fragte ich mich, als ich unsere Reise in die baltischen Länder vorbereitete. <br>
+Glücklicherweise durfte ich die Reiseroute von einer geschätzten und vielreisenden Kollegin inklusive ihrer Tipps übernehmen. Ich brauchte nur mehr die Flüge, den Mietwagen und die Zimmer zu buchen und schon konnte es losgehen. Ich bekam die fix fertige Route wie am Tablett serviert. Das sparte mir sehr viel Zeit. Wie wäre es, wenn ich das Tablett weiter reichen würde?
+Die Idee zu einem *Reisetagebuch* war geboren. Und “Reise quer durch Estland, Lettland und Litauen” war mein Debut. <br>
+Unterwegs im Baltikum machte ich fleißig Notizen. Mein Herzbube, der nach wie vor nicht namentlich genannt werden möchte, schoss die *Fotos*, damit Sie sich auch optisch auf das Baltikum einstimmen können. Zuhause ergänzte ich die detailgetreuen *Reiseschilderungen* mit Informationen über Land und Leute. <br>
+
+Um Missverständnisse zu vermeiden: “Reise quer durch Estland, Lettland und Litauen” ist kein Reiseführer, sondern ein bebildertes Reisetagebuch. Es ist eine *ideale Ergänzung zu einem Reiseführer*. Bitte beachten Sie, dass ich Estland, Lettland und Litauen als Individualtouristin und nicht als Expertin bereist habe. Ich schildere unsere *persönlichen Eindrücke*. Möglicherweise werden Sie selbst andere Erlebnisse und damit verbunden andere Eindrücke haben. Das ist das Schöne am Reisen. Übernehmen Sie gerne unsere Route und lassen Sie sich überraschen, was das Baltikum für Sie bereithält. <br>
 
 
-## Wen könnte "Reise quer durch Estland, Lettland und Litauen" interessieren?
 
-LeserInnen, ganz gleich ob Pauschal- oder IndividualtouristInnen, die sich auf eine Reise ins Baltikum einstimmen möchten, die unabhängige Informationen von Reisenden zu schätzen wissen. LeserInnen, die sich von meinen Reiseerzählungen inspirieren lassen möchten. LeserInnen, die gerne im Kopf verreisen. LeserInnen mit einer Vorliebe für Reisegeschichten oder Reisetagebücher.
+## Für wen oder warum ist "Reise quer durch Estland, Lettland und Litauen" das ideale Buch?
+
+■ Für Pauschal- und IndividualtouristInnen <br>
+■ Zum Einstimmen auf eine Baltikum-Reise <br>
+■ Wer unabhängige Informationen von Reisenden schätzt. <br>
+■ Wer sich gerne von Reiseerzählungen inspirieren lässt. <br>
+■ Für Kopfreisen, Kopfkino <br>
+■ Bei Vorliebe für Reisegeschichten oder Reisetagebücher <br>
 
 
 ## Welche Orte des Baltikums werden beschrieben?
@@ -33,12 +44,17 @@ Jurmala, Kuldiga, Lipaja, Palanga, Klaipeda, Kurische Nehrung, Tal der Memmel, K
 
 ## Was ist das Besondere dieses Reisetagebuchs?
 
-Die einzelnen Routen können gut nachgefahren oder nachgegangen werden, weshalb dieses Reisebuch gerade für Individualreisende interessant ist. Pauschaltouristen können sich damit ebenso gut auf Estland, Lettland und Litauen einstimmen. <br> Dazu ein wenig Hintergrundinformationen in anschaulicher Sprache und kurzweilige, humorvolle Erzählungen von kleinen Pannen und kulinarischen Höhenflügen. Und nicht zu vergessen die großartigen Fotos. Somit ist mein Reisetagebuch "Reise quer durch Estland, Lettland und Litauen" ein unverzichtbarer Reisebegleiter in den baltischen Ländern und die ideale Ergänzung zu herkömmlichen Reiseführern. <br> Ich wünsche Ihnen eine angenehme Lektüre und eine erlebnisreiche Reise mit unvergesslichen Eindrücken von Estland, Lettland und Litauen.
+■ Die Routen können gut nachgefahren oder nachgegangen werden, weshalb dieses Reisebuch besonders für Individualreisende interessant ist. <br>
+■ Hintergrundinformationen in anschaulicher Sprache <br>
+■ Kurzweilige, humorvolle Erzählungen von kleinen Pannen und kulinarischen Höhenflügen <br>
+■ Fotos, die die Reiselust wecken <br>
+■ Unverzichtbarer Reisebegleiter in den baltischen Ländern und die ideale Ergänzung zu herkömmlichen Reiseführern. <br> 
 
 
 ## Wo können Sie "Reise quer durch Estland, Lettland und Litauen" kaufen?
 
 Das Buch (ISBN 978-3-99003-264-0) können Sie kaufen auf [Amazon][amazon], beim [Novum Verlag][novum verlag], auf allen gängigen Plattformen wie [Thalia] [thalia] usw., in den [Online-Shops der österreichischen Buchhandlungen] [online-Shops der österreichischen Buchhandlungen] und beim Buchhändler Ihres Vertrauens, der es jederzeit bestellen kann, falls es nicht vorrätig ist. Ich danke für den Kauf! <br> 
+
 Wohin führt Ihre nächste Reise? Für Venedig und die Normandie empfiehlt Ihnen die schreibende Apothekerin aus ihrer Fernweh Apotheke [Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen] und für die nächste Fernreise in die Karibik bzw. in die Dominikanische Republik [Dreierblues] [dreierblues]. <br> Viele schöne Reisen - real und im Kopf - wünscht Ihnen Barbara Schwarzl, die schreibende Apothekerin mit der unersättlichen Reiselust.
 
 
