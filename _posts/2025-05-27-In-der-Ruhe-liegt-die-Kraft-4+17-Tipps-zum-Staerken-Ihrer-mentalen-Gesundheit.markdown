@@ -13,6 +13,7 @@ Als Apothekerin setze ich auf Prävention. Vorbeugen ist bekanntlich besser als 
 Mentales Wohlbefinden hilft, belastende Situationen besser zu bewältigen, sowie psychische Erkrankungen vorzubeugen oder abzufedern. Menschen, denen starke Belastungen nichts anhaben können, werden als resilient bezeichnet. Manchmal bedarf es nur weniger Verhaltensänderungen. Einfache Maßnahmen können große Wirkung haben. <br> 
 
 
+
 ## Warum ist es wichtig, die mentale Gesundheit zu stärken?
 
 Ihr Immunsystem bekämpft Krankheitserreger. Mental gesunde Menschen sind zufriedener und können mit Alltagsstress besser umgehen. So wie ein schwächelndes Immunsystem anfälliger für Infekte macht, kann eine beeinträchtigte psychische Gesundheit sich negativ auf die körperliche Gesundheit auswirken oder gar zu psychischen Erkrankungen führen. Mit mentaler Fitness lassen sich Job, Haushalt und Familie leichter managen. Sie hat somit einen bedeutenden Einfluss auf Ihre Lebensqualität.<br>
