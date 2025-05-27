@@ -12,29 +12,36 @@ Dass immer mehr Seelen in Not sind, ist sicher ein schwacher Trost. Diese nicht 
 Ich bin Barbara Schwarzl, die schreibende Apothekerin. Ich schreibe Reisebücher und psychologische Romane. Darin widme ich mich vielfach psychischen Erkrankungen, um auf unterhaltsame Weise *Vorurteile* abzubauen. In diesem Blogartikel habe ich für Sie eine Liste mit Kontakten zusammengestellt. Am jeweiligen Krisentelefon bekommen Sie Hilfe, wenn Ihre Seele in Not ist.
 
 
-## Wann soll ich ärztliche Hilfe holen?
+## Wann sollten Sie ärztliche Hilfe suchen?
 
-Dass Infektionen, Unfallverletzungen und viele Erkrankungen unser Leben bedrohen können, leuchtet uns ein. Bei psychischen Problemen verhält es sich ähnlich. Sie können sich akut, also rapide, verschlimmern und einen medizinischen Notfall auslösen. Wenn eine Person nicht ansprechbar ist, wenn sie sich ungewöhnlich verhält, „komisch“ oder wirr spricht, halluziniert, sich aggressiv verhält,  selbst- oder fremdgefährdetes Verhalten ankündigt, von Gefühlen (wie Angst oder Trauer) überflutet wird oder einen Nervenzusammenbruch hat, dann kontaktieren Sie bitte einen Arzt.
+Dass Infektionen, Unfallverletzungen und viele Erkrankungen unser Leben bedrohen können, leuchtet uns ein. Bei psychischen Problemen verhält es sich ähnlich. Sie können sich akut, also rapide, verschlimmern und einen medizinischen Notfall auslösen.<br>
 
-
-## Beispiele für akute psychiatrische Notfälle
-
-Suizidversuch <br>
-Massive Aggressivität bzw. Gewalttätigkeit <br>
-Angst- oder Panikattacken <br>
-Paranoides Verhalten, Halluzinationen <br>
-Starke Erregung (z.B. bei Personen, die unter Manie, Schizophrenie, Psychose etc. leiden) <br>
-Vergiftungen mit Alkohol, Drogen, Medikamenten, <br> 
-Delir
+**Wenn eine Person nicht ansprechbar ist, wenn sie sich ungewöhnlich verhält, „komisch“ oder wirr spricht, halluziniert, sich aggressiv verhält,  selbst- oder fremdgefährdetes Verhalten ankündigt, von Gefühlen (wie Angst oder Trauer) überflutet wird oder einen Nervenzusammenbruch hat, dann kontaktieren Sie bitte einen Arzt.**
 
 
-## Wo bekomme ich Akut-Hilfe bei psychischen Problemen?
+## Was ist ein akuter psychiatrischer Notfall?
 
-Reden hilft. Reden Sie sich Ihren Kummer von der Seele, damit Sie nicht zu einem psychiatrischen Notfall werden. Vertrauen Sie sich einer Vertrauensperson an. Ihre Familie und Ihre Freunde sollen nicht wissen, dass Sie komplett neben der Spur sind, völlig am Ende sind? Dann werden die hier vorgestellten Kontakte - von der Telefonseelsorge bis zu Kummernummer – hilfreich sein. <br>
-Die Personen am anderen Ende der Leitung haben keine Berührungsängste mit seelischen Problemen. Sie brauchen sich nicht für Ihren seelischen Ausnahmezustand zu schämen. Sie zeigen keine Schwäche, sondern sehr viel Stärke, wenn Sie um Hilfe bitten. Es gehört viel Mut und Kraft dazu, sich ein psychisches Problem einzugestehen. Auch wenn für Sie jetzt vieles dunkel und bedrohlich wirkt, möchte ich Ihnen Zuversicht geben. Eines Tages wird auch für Sie der Himmel nicht mehr pechrabenschwarz sondern wieder strahlend blau sein. Das wünsche ich Ihnen von Herzen.
+Ein paar Beispiele:
+
+• Suizidversuch <br>
+• Massive Aggressivität bzw. Gewalttätigkeit <br>
+• Angst- oder Panikattacken <br>
+• Paranoides Verhalten, Halluzinationen <br>
+• Starke Erregung (z.B. bei Personen, die unter Manie, Schizophrenie, Psychose etc. leiden) <br>
+• Vergiftungen mit Alkohol, Drogen, Medikamenten, <br> 
+• Delir
 
 
-## Servicestellen, Krisentelefone für Seelen in Not:
+## Wo bekommen Sie Hilfe bei akuten psychischen Problemen?
+
+Reden hilft. Reden Sie sich Ihren Kummer von der Seele, damit Sie nicht zu einem psychiatrischen Notfall werden. Vertrauen Sie sich einer Vertrauensperson an. <br>
+
+Sie möchten sich nicht Ihrer Familie und Ihren Freunden anvertrauen? Sie sollen nicht wissen, dass Sie neben der Spur sind oder völlig am Ende sind? Dann kann Ihnen meine Kontaktliste weiterhelfen.<br>
+
+Die Personen am anderen Ende der Leitung haben keine Berührungsängste mit seelischen Problemen. Sie brauchen sich nicht für Ihren seelischen Ausnahmezustand zu schämen. Um Hilfe zu bitten ist kein Zeichen von Schwäche sondern von Stärke! Es erfordert viel Mut und Kraft, sich ein psychisches Problem einzugestehen. Auch wenn für Sie jetzt vieles dunkel und bedrohlich wirkt, möchte ich Ihnen Zuversicht geben. Eines Tages wird auch für Sie der Himmel nicht mehr pechrabenschwarz sondern wieder strahlend blau sein. Das wünsche ich Ihnen von Herzen.
+
+
+## Wo finden Sie Hilfe, wenn die Seele in Not ist? Auswahl von Servicestellen und Krisentelefonen:
 
 1. Die **[Telefonseelsorge Deutschland] [telefonseelsorge deutschland]** ist für Sie am Telefon unter 0800/ 1110111 oder unter 0800/ 1110222, online und auch an mehreren Orten anonym, vertraulich, kostenfrei und kurzfristig für Sie da.
 
@@ -75,19 +82,26 @@ Die Personen am anderen Ende der Leitung haben keine Berührungsängste mit seel
 20. Die Angst- und Panikhilfe Schweiz **[APHS] [aphs]** können Sie telefonisch gebührenpflichtig und per Mail kontaktieren.
 
 
-## Was kann ich sonst bei nervlichen Beschwerden tun?
+## Was kann sonst noch bei nervlichen Beschwerden helfen?
 
-Bei psychischen Beschwerden wenden Sie sich bitte an die Ärztin/ den Arzt Ihres Vertrauens. Eine Psychotherapie kann außerdem Medikamente unterstützen. <br>
-In meinem Blogartikel [Lavendel & Co] [lavendel & co] finden Sie Empfehlungen aus dem Reich der Nährstoffe und Pflanzen, die Sie ergänzend einnehmen können. Dazu besprechen Sie sich bitte mit der Apothekerin oder dem Apotheker Ihres Vertrauens. In einer psychischen Krise lassen Sie bitte die Finger vom Herumdoktern und begeben sich in ärztliche Betreuung. <br>
+• Bei psychischen Beschwerden wenden Sie sich bitte an die *Ärztin/ den Arzt* Ihres Vertrauens.<br>
+• Eine Psychotherapie kann außerdem Medikamente unterstützen. <br>
+• In meinem Blogartikel [Lavendel & Co] [lavendel & co] finden Sie Empfehlungen aus dem Reich der Nährstoffe und Pflanzen, die Sie ergänzend einnehmen können. Dazu besprechen Sie sich bitte mit der Apothekerin oder dem Apotheker Ihres Vertrauens.<br>
+
+In einer psychischen Krise lassen Sie bitte die Finger vom Herumdoktern und begeben sich in ärztliche Betreuung (siehe psychiatrische Notfälle oben). <br>
 
 Ich wünsche Ihnen, dass Sie Ihren Weg aus der Krise finden, damit Ihre Seele nicht länger in Not ist. Alles Gute wünscht Ihnen <br>
-Barbara Schwarzl, die schreibende Apothekerin
+Barbara Schwarzl, die @schreibendeApothekerin
 
 
-## P.S.: Mehr von der schreibenden Apothekerin
+## Wo finden Sie mehr Lesestoff von Barbara Schwarzl, der schreibenden Apothekerin?
 
-Ich freue mich, wenn Sie weiter auf meinen Seiten schmökern. In meinen Büchern [Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie], [Dreierblues] [dreierblues], [Nicht ohne meine Schatulle] [nicht ohne meine schatulle] thematisiere ich *psychische Erkrankungen*. In [Reise quer durch Estland, Lettland und Litauen] [reise quer durch estland, lettland und litauen], [Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen], [Dreierblues] [dreierblues] dreht es sich um – wie ich finde – die schönste Tätigkeit, nämlich das *Reisen*. <br>
-Abonnieren Sie doch meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram], um immer am Laufenden zu sein.
+Stöbern Sie gerne auf meiner [Website] [website] nach interessanten Blogartikeln und Büchern.<br>
+
+In meinen Büchern **[Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie]**, **[Dreierblues] [dreierblues]**, **[Nicht ohne meine Schatulle] [nicht ohne meine schatulle]** thematisiere ich *psychische Erkrankungen*.<br>
+In **[Reise quer durch Estland, Lettland und Litauen] [reise quer durch estland, lettland und litauen]**, **[Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen]** und **[Dreierblues] [dreierblues]** dreht es sich um – wie ich finde – die schönste Tätigkeit, nämlich das *Reisen*. <br>
+
+Abonnieren Sie doch meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram] für regelmäßige Infos.
 
 
 [telefonseelsorge deutschland]:  https://www.telefonseelsorge.de/
@@ -95,13 +109,13 @@ Abonnieren Sie doch meine Seiten auf [Facebook] [facebook] und [Instagram] [inst
 [psychenet]: https://www.psychenet.de/de/hilfe-finden/schnelle-hilfe/soforthilfe.html
 [instahelp]: https://instahelp.me/de/psychologische-beratung-online-lp/?utm_source=google&utm_medium=cpc&utm_campaign=120926346454&utm_term=psychologische%20notfallberatung&gclid=EAIaIQobChMIn6fn1vjy9AIVTrLVCh2OuAC1EAMYAyAAEgLaFPD_BwE
 [telefonseelsorge österreich]: http://www.telefonseelsorge.at/
-[psychosozialen dienste wien]: https://www.psd-wien.at/einrichtungen/behandlung/soforthilfe.html
+[psychosozialen dienste wien]: https://psd-wien.at/
 [kriseninterventionszentrum]: http://www.kriseninterventionszentrum.at/
 [hpe]: https://www.hpe.at/de/
 [öh-helpline]: https://www.oeh.ac.at/helpline
 [gv.at]: https://www.gesundheit.gv.at/krankheiten/erste-hilfe/notfall/psychiatrischer-notfall
 [ö3-kummernummer]: https://oe3.orf.at/kummernummer/stories/2712988/
-[bündnis depression]: https://www.buendnis-depression.at/Hilfsangebote-in-Oesterreich
+[bündnis depression]: https://buendnis-depression.at/
 [bitte lebe]: https://bittelebe.at/
 [böp]: https://www.boep.or.at/psychologische-behandlung/helpline
 [pro mente österreich]: https://www.promenteaustria.at/de/home/
@@ -120,3 +134,5 @@ Abonnieren Sie doch meine Seiten auf [Facebook] [facebook] und [Instagram] [inst
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
 
 [lavendel & co]: https://barbaraschwarzl.com/2021/12/05/Vitamine-Lavendel-&-Co-gegen-den-Winterblues-und-Coronablues.html
+
+[website]: https://barbaraschwarzl.com/

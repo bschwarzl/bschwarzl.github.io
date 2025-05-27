@@ -10,7 +10,7 @@ image: /images/Gewalt_in_Familie.jpg
 Sie schämen sich: für ihn und sich selbst. Sie reden sich ein, dass er es nicht so meint, dass wieder alles besser werden wird. Sie rücken die dunkle Sonnenbrille zurecht, hinter der Sie das blaue Auge an diesem trüben Tag verstecken. Als die Haustür hinter Ihnen zufällt, flackert ein Gefühl von Freiheit auf. Ihr Zuhause ist längst zu Ihrem Gefängnis geworden. <br>
 Seit Monaten lesen Sie wie ich auf Supermarktbelegen: *„Häusliche Gewalt? Wir bieten Hilfe.“* Das stimmt Sie nachdenklich. Ebenso die Tatsache, dass seine Gewaltausbrüche immer heftiger werden und dass von immer mehr Frauenmorden in Österreich die Rede ist. Ihre innere Stimme warnt Sie, etwas zu unternehmen. Sie sollten Hilfe annehmen, wenn Sie nicht als Zahl Eingang finden wollen in die Statistik für Femizide. Bitte unternehmen Sie etwas, bevor es zu spät ist. <br>
 
-Ich bin Barbara Schwarzl, die schreibende Apothekerin. Ich schreibe Reisebücher und psychologische Romane. Mein letzter Roman [Nicht ohne meine Schatulle] [nicht ohne meine schatulle] handelt von Kindesmissbrauch, Kindesmisshandlung und Gewalt in der Familie. Die beiden Hauptfiguren bekamen als Kinder keine Hilfe, obwohl der Stiefvater im Dorf als Tyrann und Trunkenbold bekannt war. Die physischen, psychischen und sexuellen Gewaltexzesse ihres Stiefvaters traumatisierten sie. Auf immer und ewig, bis ins hohe Alter.
+Ich bin Barbara Schwarzl, die schreibende Apothekerin. Ich schreibe Reisebücher und psychologische Romane. Mein letzter Roman **[Nicht ohne meine Schatulle] [nicht ohne meine schatulle]** handelt von Kindesmissbrauch, Kindesmisshandlung und Gewalt in der Familie. Die beiden Hauptfiguren bekamen als Kinder keine Hilfe, obwohl der Stiefvater im Dorf als Tyrann und Trunkenbold bekannt war. Die physischen, psychischen und sexuellen Gewaltexzesse ihres Stiefvaters traumatisierten sie. Auf immer und ewig, bis ins hohe Alter.
 **Sie aber haben Ihr Schicksal in der Hand. Werden Sie aktiv und unternehmen Sie etwas. Gewalt welcher Art auch immer kann bei den Opfern lebenslangen Schaden anrichten. Betroffenen bereitet es Schwierigkeiten, das Erlebte zu verarbeiten oder es in Worte zu fassen. Gewalt ist nie tolerierbar.** <br>
 In diesem Blogartikel habe ich Telefonhotlines und Webadressen zusammengestellt, damit Frauen und Kinder bei Gewalt in der Familie Hilfe bekommen. Es gab schon zu viele Frauenmorde. Sie dürfen nicht der nächste sein! <br>
 
@@ -21,7 +21,7 @@ Ich bin dankbar, selbst keine Gewalterfahrung zu haben. Ich lebe in einer harmon
 Es erschüttert mich, dass laut Medienberichten die Gewalt innerhalb der eigenen vier Wände zunehmen soll. Gleichzeitig bestätigt es mich darin – wie auch die ersten Rezensionen von [Nicht ohne meine Schatulle] [nicht ohne meine schatulle] –, dass es wichtig ist, Menschen für dieses Thema zu sensibilisieren. Damit wir als Unbeteiligte aufmerksamer sind, um rechtzeitig einschreiten und helfen zu können. Couragiert das richtige Wort zum richtigen Zeitpunkt aussprechen und nicht wegschauen.<br>
 
 
-## Der brodelnde Vulkan
+## Nimmt Gewalt zu?
 
 Dass unsere Gesellschaft während der Pandemie aggressiver geworden ist, bemerken Sie auf der Straße, im Supermarkt und einige von uns leider auch zuhause. Frustrationen, Existenzsorgen, Unzufriedenheit, Ärger über Verordnungen und bestimmte Bevölkerungsgruppen, Ärger über mangelnde Planbarkeit, Groll über dieses und jenes und jetzt leider auch Ärger und Sorge wegen eines furchtbaren Krieges vor unserer Haustüre setzen zunehmend die Hemmschwellen herab. Ein barsches Wort, eine Beleidigung da, ein Faustschlag dort. Der Vulkan brodelt. Mal spuckt er ein paar Lavastückchen, mal ergießt sich ein mächtiger Lavastrom. <br>
 Von einem Riss durch die Gesellschaft, manchmal auch durch Familien, ist die Rede. Im Lockdown klebten viele unfreiwillig regelrecht aufeinander. Dazu kamen Homeoffice und Homeschooling. Dass unter solchen Umständen Nerven reißen können, verwundert nicht. Aber für Gewalt gibt es nie eine Entschuldigung. <br>
@@ -32,11 +32,11 @@ Mehr Zahlenmaterial auf der Seite der [Autonomen Österreichischen Frauenhäuser
 Liebe Männer, lasst Euch gesagt sein: Frauen sind kein Freiwild. Sie sind nicht Euer Eigentum. Dasselbe gilt für Eure Kinder.
 
 
-## Der Feind Zuhause
+## Wo lauert die größte Gefahr?
 
 Meist ist der größte Feind Zuhause, genau dort, wo man sich am sichersten fühlen sollte. Und meist sind Frauen und Kinder aller Altersstufen und Schichten die Opfer. Die Täter oft die Lebenspartner, Ehemänner, Freunde, Väter, Stiefväter, Großväter und Onkeln.
 
-## Hilfe für Frauen in Not
+## Wo finden Frauen in Not Hilfe?
 
 1. Fühlen Sie sich bedroht? Dann wenden Sie sich bitte an ein **[Frauenhaus] [frauenhaus]** in Ihrer Nähe.
 
@@ -68,14 +68,14 @@ Meist ist der größte Feind Zuhause, genau dort, wo man sich am sichersten füh
 In manchen Kulturkreisen scheint es normal zu sein, Frauen Gewalt anzutun. Hier setzt ein neues Projekt der Caritas Graz mit einem Buddy-Projekt an. Einheimische Frauen vernetzen sich nach einer Einschulung mit Migrantinnen mit dem Fokus auf Gewaltprävention. Vorsorgen ist bekanntlich immer besser als heilen. Wollen Sie Patin werden oder brauchen Sie selbst Hilfe? Hier geht`s zu **[Malala] [malala]**.
 
 
-## Er tut mir weh! Hilfe für Kinder in Not
+## Er tut mir weh! Wo finden Kinder in Not Hilfe?
 
 Hast Du zuhause Angst? Kannst Du in der Nacht nicht schlafen? Fürchtest Du Dich vor dem Geschrei, dem Türenknallen? Droht er Dir damit, dass Du niemanden etwas sagen darfst? Hat er wieder fest zugeschlagen? Kannst Du Dich niemandem anvertrauen?
 Ja, Du hast Recht, das ist alles nicht in Ordnung. Gewalt ist nie tolerierbar, auch nicht Kindern und Jugendlichen gegenüber. Auf der Seite von **[Gewalt ist nicht OK] [gewalt ist nicht ok]** bekommst Du rund um die Uhr Hilfe. Dort findest Du Links, die Dir weiterhelfen, und Geschichten von Kindern, denen es vielleicht ähnlich wie Dir ergeht. Suche Dir Hilfe, wenn Du in Not bist. <br>
 Wenn Du in Graz wohnst, wende Dich an **[Tartaruga] [tartaruga]**, die Kriseninterventionsstelle für Jugendliche. Du kannst rund um die Uhr die **Telefonnummer 050/7900 3200** wählen.
 
 
-## Auch Männer brauchen Hilfe.
+## Wo finden Männer in Not Hilfe?
 
 Nein, Sie sind kein Weichei, wenn Sie Hilfe annehmen! Alleine schaffen Sie es vermutlich nicht, den Kreislauf der Gewalt zu durchbrechen. Mit einer Therapie können Sie Ihre Aggressionen besser beherrschen. Es ist keine Lösung, die Fäuste sprechen zu lassen. Wenden Sie sich bitte an die **[Männerinfo] [männerinfo]**. Die Hotline erreichen Sie rund um die Uhr unter **0800/ 400 777**. <br>
 Seit September 2021 müssen sich Personen, gegen die ein Betretungs- und Annäherungsverbot ausgesprochen wurde, einer sechsstündigen Beratung unterziehen. Innerhalb von fünf Tagen nach der Wegweisung muss ein Termin vereinbart werden. Das Erstgespräch muss innerhalb von 14 Tagen stattfinden. Sonst werden hohe Geldstrafen verhängt. <br>
@@ -83,16 +83,23 @@ Es geht hier nicht um Schikane, sondern um Deeskalation und um einen Plan B, als
 Weitere Informationen finden Sie auf der Website von **[Neustart] [neustart]**. Nützen Sie das Angebot, Ihrer Familie zuliebe.
 
 
-## Hinschauen, handeln, helfen, gemeinsam gegen Gewalt an Frauen und Kinder vorgehen!
+## Was kann jede(r) gegen Gewalt tun? Hinschauen, handeln, helfen, gemeinsam gegen Gewalt an Frauen und Kinder vorgehen!
 
 Bemerken Sie, dass Frauen oder Kinder belästigt werden, dass ihnen Gewalt angetan wird? Sprechen Sie das Opfer an oder holen Sie Hilfe. Wählen Sie den **Polizeinotruf (133 oder 112)**. <br>
 Mit Hinschauen und Handeln helfen wir. Wir müssen zusammenhalten! #sagwas 
 
 
-## P.S.: Mehr von der schreibenden Apothekerin
+## Was können Sie sonst noch von Barbara Schwarzl, der schreibenden Apothekerin lesen?
 
-Ich freue mich, wenn Sie weiter auf meinen Seiten schmökern. In meinen Büchern [Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie], [Dreierblues] [dreierblues], [Nicht ohne meine Schatulle] [nicht ohne meine schatulle] thematisiere ich *psychische Erkrankungen*. In [Reise quer durch Estland, Lettland und Litauen] [reise quer durch estland, lettland und litauen], [Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen], [Dreierblues] [dreierblues] dreht es sich um – wie ich finde – die schönste Tätigkeit, nämlich das *Reisen*. <br>
+Stöbern Sie gerne weiter auf meiner [Website] [website] nach interessanten Blogartikeln und Büchern.<br>
+
+ In meinen Romanen **[Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie]**, **[Dreierblues] [dreierblues]**, **[Nicht ohne meine Schatulle] [nicht ohne meine schatulle]** thematisiere ich *psychische Erkrankungen*.<br>
+ In **[Reise quer durch Estland, Lettland und Litauen] [reise quer durch estland, lettland und litauen]**, **[Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen]** und **[Dreierblues] [dreierblues]** dreht es sich um – wie ich finde – die schönste Tätigkeit, nämlich das *Reisen*. <br>
+ 
 Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram], um immer am Laufenden zu sein.
+
+Alles Liebe,<br>
+Ihre @schreibendeApothekerin
 
 
 [erhebung der europäischen union, 2014]: https://fra.europa.eu/de/publications-and-resources/data-and-maps/gewalt-gegen-frauen-eine-eu-weite-erhebung
@@ -141,4 +148,6 @@ Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [ins
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[website]: https://barbaraschwarzl.com/
+
 

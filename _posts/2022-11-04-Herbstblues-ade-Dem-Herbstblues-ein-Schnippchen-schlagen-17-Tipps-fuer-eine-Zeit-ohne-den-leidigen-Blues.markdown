@@ -12,7 +12,7 @@ Im Herbst fällt mit den Blättern die Stimmung. Deshalb fürchten Sie sich vor 
 Haben Sie schon einmal Kinder beobachtet, wie Sie glücklich im Freien herumtollen? Sie lassen gerne bunte Blätter über sich regnen und können gar nicht genug davon bekommen. Kindern ist jede Jahreszeit recht. Jeder Tag ist für sie ein Erlebnis. Aber was tun wir Erwachsene? Wir hetzen von einem Termin zum anderen, jagen viel zu vielen Verpflichtungen nach, ohne den Augenblick zu genießen, ohne im Hier und Jetzt zu sein. Kinder fürchten sich nicht vor dem Herbst und vor dem Winter. Ja, es lohnt sich, die ruhigeren Monate zu genießen: Um wie die Natur zur Ruhe zu kommen, um innezuhalten, um sich zu erholen, um Kraft für einen fulminanten Frühling zu schöpfen.<br>
 
 
-## Was verursacht eigentlich eine Herbstdepression?
+## Was verursacht eine Herbstdepression?
 
 Denken Sie an Ihre Zimmerpflanzen. Stellen Sie sie in einen dunklen Winkel, werden sie verkümmern.<br>
 Beim Menschen verhält es sich ähnlich. Sonnenlicht sorgt für Wohlbefinden. Dahinter stecken komplizierte biochemische Prozesse. Vereinfacht gesagt regt Sonnenlicht die Produktion von Vitamin D an. Dieses Sonnenvitamin steht in einem engen Zusammenhang mit Serotonin, einem Botenstoff, der im Körper weiter zu Melatonin abgebaut wird. Ein Melatoninmangel wiederum verursacht Schlafprobleme. Sinkt der Serotoninspiegel zu weit ab, können Depressionen entstehen.<br>
@@ -20,7 +20,7 @@ Ihr Körper ist ein wahres Wunderwerk der Natur. Wenn Sie ihm genügend von den 
 Nehmen wir wieder den Vergleich mit Ihren Pflanzen zur Hand. Sie stellen sie an den besten Platz, gießen sie und verwöhnen sie sogar mit regelmäßigen Düngergaben. Ähnlich fürsorglich behandeln Sie künftig sich selbst. Welche Nährstoffe und Arzneipflanzen guttun gegen den Blues verrate ich in meinem Blogartikel [Vitamine, Lavendel & Co] [vitamine, lavendel & Co].
 
 
-## 17 Tipps für eine Zeit ohne den leidigen Blues
+## Wie lässt sich eine Herbstdepression verhindern? 17 Tipps der schreibenden Apothekerin für eine Zeit ohne den leidigen Blues
 
 1. **Es werde Licht.**
 Natürlich wissen Sie längst, dass Sie sich an sonnigen Tagen wohler fühlen. Vielleicht können Sie Ihren Terminkalender adaptieren, um sonnige Phasen zu nützen? Oder verlagern Sie Ihre Pausen spontan nach draußen? Bei zu wenig Tageslicht kann eine Lichttherapie-Lampe Abhilfe leisten.
@@ -105,12 +105,18 @@ Seien Sie ehrlich zu sich selbst! Fühlen Sie sich stimmungsmäßig im Dauertief
 Wie wir es drehen oder wenden, ein gesunder Lebensstil ist die beste Investition in Ihre Gesundheit. Kommen Sie gut durch den Herbst, Ihre schreibende Apothekerin.<br>
 
 
-## In eigener Sache
+## Was Barbara Schwarzl, die schreibende Apothekerin noch zum leidigen Blues loswerden möchte 
 
 Als Apothekerin liegt mir das Seelenheil meiner PatientInnen am Herzen und als Autorin jenes meiner LeserInnen und der Figuren meiner Bücher.<br>
-In meinen psychologischen Romanen sind manche Figuren nicht auf die Butterseite des Lebens gefallen. Aber sie kämpfen mit vereinten Kräften für ein besseres Schicksal. Wie Sie und ich, haben auch sie ihre Hochs und Tiefs. Manchmal haben Sie sogar den Blues. Ich sehe meine Bücher als Beitrag, um gegen die Stigmatisierung von psychisch Kranken anzukämpfen. Dafür ist [Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie] das beste Beispiel.<br>
-Reisen ist für mich der Schlüssel zum Glück. Ich reise für mein Leben gerne und schreibe ebenso gerne darüber. Zum Beispiel über das [Baltikum] [baltikum], über [Venedig, die Normandie] [venedig, die normandie] oder die [Dominikanische Republik] [dominikanische republik].
-Folgen Sie mir gerne auf [Facebook] [facebook] und [Instagram] [instagram], um über meine Bücher und mich am Laufenden zu sein.
+In meinen psychologischen Romanen sind manche Figuren nicht auf die Butterseite des Lebens gefallen. Aber sie kämpfen mit vereinten Kräften für ein besseres Schicksal. Wie Sie und ich, haben auch sie ihre Hochs und Tiefs, so z.B. im **[Dreierblues] [dreierblues]** und in **[Nicht ohne meine Schatulle] [nicht ohne meine schatulle]**<br>
+Manchmal haben Sie sogar den Blues. Ich sehe meine Bücher als Beitrag, um gegen die Stigmatisierung von psychisch Kranken anzukämpfen. Dafür ist **[Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie]** das beste Beispiel.<br>
+
+Reisen ist für mich der Schlüssel zum Glück. Ich reise für mein Leben gerne und schreibe ebenso gerne darüber. Zum Beispiel über das [Baltikum] [baltikum], über [Venedig, die Normandie] [venedig, die normandie] oder die [Dominikanische Republik] [dominikanische republik].<br>
+
+Folgen Sie mir gerne auf [Facebook] [facebook] und [Instagram] [instagram], um über meine Bücher und mich am Laufenden zu sein.<br>
+
+Alles Liebe,<br>
+Ihre @schreibendeApothekerin
 
 
 [vitamine, lavendel & Co]: https://barbaraschwarzl.com/2021/12/05/Vitamine-Lavendel-&-Co-gegen-den-Winterblues-und-Coronablues.html
@@ -124,4 +130,6 @@ Folgen Sie mir gerne auf [Facebook] [facebook] und [Instagram] [instagram], um �
 [nicht ohne meine schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/ 
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [instagram]: https://www.instagram.com/schreibendeapothekerin/?hl=de
+[nicht ohne meine schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
+
 
