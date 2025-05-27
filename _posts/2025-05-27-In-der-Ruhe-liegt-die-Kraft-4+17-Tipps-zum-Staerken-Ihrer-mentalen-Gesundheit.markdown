@@ -2,7 +2,7 @@
 layout: post
 title:  "In der Ruhe liegt die Kraft:<br> 4 + 17 Tipps zum Stärken Ihrer mentalen Gesundheit"
 categories: 
-image: /images/Ruhe_liegt_die_Kraft_Tipps.JPEG
+image: /images/Ruhe_Tipps.JPEG
 ---
 
 
