@@ -110,7 +110,7 @@ Oft stellen Leseratten Außergewöhnliches auf die Beine. 2022 erblickte eine Bu
 4. Halten Sie in 2023 Ausschau nach meinem Namen im Gesundheitsteil der [Kleinen Zeitung] [kleinen zeitung].<br>
 
 
-Abonnieren Sie gerne meine Autorenseiten auf [Facebook] [facebook] oder [Instagram] [instagram], um mehr über aktuelle Projekte zu erfahren und treten Sie dort mit mir in Kontakt!<br>
+Abonnieren Sie gerne meine Autorenseiten auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads], um mehr über aktuelle Projekte zu erfahren und treten Sie dort mit mir in Kontakt!<br>
 Eine Bitte zuletzt: Ich freue mich jederzeit über wohlwollende Kritiken. Hauen Sie bitte für mich so beherzt in die Tasten, so wie ich es für Sie tue. Eine Buchkritik ist für eine Autorin so kostbar wie das Salz in der Suppe.<br>
 
 Bleiben Sie gesund und kommen Sie gut durch die Feiertage und ins neue Jahr 2023!<br>
@@ -157,6 +157,7 @@ Ihre @schreibendeApothekerin<br>
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 
 [instagram]: https://www.instagram.com/schreibendeapothekerin/?next=%2Fleonie_rachel%2F&hl=de
+[threads]: https://www.threads.com/@schreibendeapothekerin
 
 [stigmatisierung]: https://de.wikipedia.org/wiki/Stigmatisierung_psychisch_Kranker#:~:text=Das%20Wort%20Stigma%20kommt%20urspr%C3%BCnglich,allgemeing%C3%BCltigen%20gesellschaftlichen%20sozialen%20Normen%20ab.
 

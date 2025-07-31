@@ -148,7 +148,7 @@ Für meinen [Jahresrückblick 2024] [jahresrückblick 2024] kristallisierte sich
 • [Herbstblues ade] [herbstblues ade]<br>
 • [Lavendel & Co] [lavendel & co]<br>
 
-# Über meine Autorenseite auf [Facebook] [facebook] und [Instagram] [instagram]:
+# Über meine Autorenseite auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads]:
 Liken, kommentieren und teilen Sie nach Herzenslust.<br>
 
 Alles Liebe,<br>
@@ -161,6 +161,7 @@ Ihre @schreibendeApothekerin<br>
 [nicht ohne meine schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[threads]: https://www.threads.com/@schreibendeapothekerin
 [lavendel & co]: https://barbaraschwarzl.com/2021/12/05/Vitamine-Lavendel-&-Co-gegen-den-Winterblues-und-Coronablues.html
 [gärtnernd zu mehr wohlbefinden]: https://barbaraschwarzl.com/2022/04/27/Gaertnernd-zu-mehr-Wohlbefinden-11-Vorteile-der-Gartenarbeit-fuer-die-Gesundheit.html
 [herbstblues ade]: https://barbaraschwarzl.com/2022/11/04/Herbstblues-ade-Dem-Herbstblues-ein-Schnippchen-schlagen-17-Tipps-fuer-eine-Zeit-ohne-den-leidigen-Blues.html

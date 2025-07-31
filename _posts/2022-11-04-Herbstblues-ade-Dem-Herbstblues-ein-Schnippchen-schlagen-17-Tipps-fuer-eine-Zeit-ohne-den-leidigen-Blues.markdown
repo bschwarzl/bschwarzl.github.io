@@ -113,7 +113,7 @@ Manchmal haben Sie sogar den Blues. Ich sehe meine Bücher als Beitrag, um gegen
 
 Reisen ist für mich der Schlüssel zum Glück. Ich reise für mein Leben gerne und schreibe ebenso gerne darüber. Zum Beispiel über das [Baltikum] [baltikum], über [Venedig, die Normandie] [venedig, die normandie] oder die [Dominikanische Republik] [dominikanische republik].<br>
 
-Folgen Sie mir gerne auf [Facebook] [facebook] und [Instagram] [instagram], um über meine Bücher und mich am Laufenden zu sein.<br>
+Folgen Sie mir gerne auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads], um über meine Bücher und mich am Laufenden zu sein.<br>
 
 Alles Liebe,<br>
 Ihre @schreibendeApothekerin
@@ -129,7 +129,7 @@ Ihre @schreibendeApothekerin
 [dominikanische republik]: https://barbaraschwarzl.com/dreierblues/
 [nicht ohne meine schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/ 
 [facebook]: https://www.facebook.com/schreibendeApothekerin
-[instagram]: https://www.instagram.com/schreibendeapothekerin/?hl=de
+[instagram]: https://www.instagram.com/schreibendeapothekerin/
 [nicht ohne meine schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
-
+[threads]: https://www.threads.com/@schreibendeapothekerin
 

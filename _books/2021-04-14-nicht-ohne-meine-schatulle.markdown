@@ -126,7 +126,7 @@ Die fiktive Geschichte ist in und um Graz, sowie in der Südsteiermark angesiede
 # Noch eine Bitte zum Schluss
  
 Für AutorInnen sind Rückmeldungen ihrer LeserInnen ungemein wichtig. Darum meine Bitte an Sie. Ihnen hat das Buch gefallen? Fein. Dann schreiben Sie bitte eine Rezension auf dem jeweiligen Verkaufsportal. Gerne können Sie sie mir auch per Mail übermitteln. Und bitte, bitte betreiben Sie fleißig Mundpropaganda.<br>
-Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter auf meiner Homepage. Kennen Sie meine Autorenseiten auf [Facebook] [facebook], [Instagram] [instagram] und [Twitter] [twitter]? Am besten abonnieren Sie mich gleich auf [Facebook] [facebook], damit Sie immer auf dem Laufenden sind. <br> Ihre #schreibendeApothekerin
+Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter auf meiner Homepage. Kennen Sie meine Autorenseiten auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads]? Am besten abonnieren Sie mich gleich auf [Facebook] [facebook], damit Sie immer auf dem Laufenden sind. <br> Ihre #schreibendeApothekerin
  
 
 [amazon]: https://www.amazon.de/Nicht-meine-Schatulle-Barbara-Schwarzl/dp/3754114026/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2I89PHXZD7Z00&keywords=nicht+ohne+meine+schatulle&qid=1662916601&sprefix=nicht+ohne+meine+schatulle%2Caps%2C102&sr=8-2
@@ -140,6 +140,7 @@ Sie möchten noch mehr von mir lesen? Großartig! Dann stöbern Sie bitte weiter
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
 
 [thalia]: https://www.thalia.at/suche?sq=barbara+schwarzl
+[threads]: https://www.threads.com/@schreibendeapothekerin
 
 
 

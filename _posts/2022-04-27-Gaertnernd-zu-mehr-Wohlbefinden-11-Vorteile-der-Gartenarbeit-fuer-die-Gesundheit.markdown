@@ -58,7 +58,7 @@ Ihre schreibende Apothekerin <br>
 ## P.S.: Mehr von der schreibenden Apothekerin
 
 Ich freue mich, wenn Sie weiter auf meinen Seiten schmökern. <br>
-Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram], um immer am Laufenden zu sein.
+Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads], um immer am Laufenden zu sein.
 
 
 [studien an mäusen]: https://www.focus.de/gesundheit/ratgeber/psychologie/news/dreck-macht-gluecklich-hirnforschung_id_1811407.html
@@ -72,3 +72,4 @@ Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [ins
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[threads]: https://www.threads.com/@schreibendeapothekerin

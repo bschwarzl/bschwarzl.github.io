@@ -101,7 +101,7 @@ Stöbern Sie gerne auf meiner [Website] [website] nach interessanten Blogartikel
 In meinen Büchern **[Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie]**, **[Dreierblues] [dreierblues]**, **[Nicht ohne meine Schatulle] [nicht ohne meine schatulle]** thematisiere ich *psychische Erkrankungen*.<br>
 In **[Reise quer durch Estland, Lettland und Litauen] [reise quer durch estland, lettland und litauen]**, **[Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen]** und **[Dreierblues] [dreierblues]** dreht es sich um – wie ich finde – die schönste Tätigkeit, nämlich das *Reisen*. <br>
 
-Abonnieren Sie doch meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram] für regelmäßige Infos.
+Abonnieren Sie doch meine Seiten auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads] für regelmäßige Infos.
 
 
 [telefonseelsorge deutschland]:  https://www.telefonseelsorge.de/
@@ -132,7 +132,7 @@ Abonnieren Sie doch meine Seiten auf [Facebook] [facebook] und [Instagram] [inst
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
-
+[threads]: https://www.threads.com/@schreibendeapothekerin
 [lavendel & co]: https://barbaraschwarzl.com/2021/12/05/Vitamine-Lavendel-&-Co-gegen-den-Winterblues-und-Coronablues.html
 
 [website]: https://barbaraschwarzl.com/

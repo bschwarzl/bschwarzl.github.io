@@ -146,7 +146,7 @@ Emma und Fritz, die beiden Geschwister in **[Nicht ohne meine Schatulle] [nicht 
 Die Antwort finden Sie in den Büchern, die Sie gerne in der Buchhandlung Ihrer Wahl kaufen können.<br>
 
 
-Abonnieren Sie meine Seiten auf [Facebook][facebook] und [Instagram] [instagram], um stets auf dem Laufenden zu sein. Ich freue mich über Ihre Likes und Kommentare.<br>
+Abonnieren Sie meine Seiten auf [Facebook][facebook], [Instagram] [instagram] und [Threads] [threads], um stets auf dem Laufenden zu sein. Ich freue mich über Ihre Likes und Kommentare.<br>
 
 Alles Liebe,<br>
 Ihre @schreibendeApothekerin
@@ -171,7 +171,7 @@ Ihre @schreibendeApothekerin
 
 [kleine zeitung]: https://www.kleinezeitung.at/lebensart/gesundheit/17873351/krankhafte-angst-wie-fuehlt-sich-eine-panikattacke-an
 
-
+[threads]: https://www.threads.com/@schreibendeapothekerin
 
 
 

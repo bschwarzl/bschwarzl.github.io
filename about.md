@@ -132,7 +132,7 @@ Wohin ich gerne reise? Überallhin, wo es schön, friedlich und einigermaßen sa
 
 # In den Sozialen Medien:
 
-Folgen Sie mir auf [Facebook] [facebook]und [Instagram] [instagram]. Sagen Sie gerne „Hallo“, liken und kommentieren Sie. Ich freue mich auf Sie.
+Folgen Sie mir auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads]. Sagen Sie gerne „Hallo“, liken und kommentieren Sie. Ich freue mich auf Sie.
 
 
 
@@ -173,6 +173,7 @@ Barbara Schwarzl lebt und arbeitet in [Graz] [graz]. <br>
 
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[threads]: https://www.threads.com/@schreibendeapothekerin
 [reif für die insel]: https://barbaraschwarzl.com/2021/12/20/Jahresrueckblick-2021-Reif-fuer-die-Insel.html
 [im bann der mitternachtssonne]: https://barbaraschwarzl.com/2022/12/20/Jahresrueckblick-2022-Im-Bann-der-Mitternachtssonne.html
 [in der ruhe liegt die kraft]: https://barbaraschwarzl.com/2025/01/05/Jahresrueckblick-2024-In-der-Ruhe-liegt-die-Kraft.html

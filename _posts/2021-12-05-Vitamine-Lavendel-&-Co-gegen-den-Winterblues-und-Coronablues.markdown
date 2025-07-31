@@ -71,11 +71,13 @@ Ich habe Ihnen bewusst keine Angaben zu Dosierungen gemacht. Nicht, um Sie zu ve
 
 ## Mehr von der schreibenden Apothekerin
 
-Abonnieren Sie meine Autorenseite auf [Facebook] [facebook], um immer am laufenden zu sein.
+Abonnieren Sie meine Autorenseite auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads], um immer am laufenden zu sein.
 
 
 [spurensuche. diagnose schizophrenie]: https://barbaraschwarzl.com/spurensuche-diagnose-schizophrenie/
 [dreierblues]: https://barbaraschwarzl.com/dreierblues/
 [nicht ohne meine schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/ 
 [facebook]: https://www.facebook.com/schreibendeApothekerin
+[instagram]: https://www.instagram.com/schreibendeapothekerin/
+[threads]: https://www.threads.com/@schreibendeapothekerin
 

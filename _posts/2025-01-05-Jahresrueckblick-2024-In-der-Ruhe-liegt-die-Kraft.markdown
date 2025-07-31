@@ -123,7 +123,7 @@ Flexibel bleiben<br>
 
 ## Wie können Sie mich 2025 als Autorin unterstützen?
 
-Ganz einfach! Indem Sie meine [Bücher] [bücher] und [Blogartikel] [blogartikel] lesen, mir auf [Facebook][facebook] und [Instagram] [instagram] folgen, liken und fleißig kommentieren, aber auch indem Sie eine kurze Buchkritik schreiben. Für uns AutorInnen sind Reaktionen von LeserInnen das Salz in der Suppe. Seien Sie bitte mein Salzstreuer.<br>
+Ganz einfach! Indem Sie meine [Bücher] [bücher] und [Blogartikel] [blogartikel] lesen, mir auf [Facebook][facebook], [Instagram] [instagram] und [Threads] [threads] folgen, liken und fleißig kommentieren, aber auch indem Sie eine kurze Buchkritik schreiben. Für uns AutorInnen sind Reaktionen von LeserInnen das Salz in der Suppe. Seien Sie bitte mein Salzstreuer.<br>
 Begeben Sie sich auf Kopfreisen nach Venedig, in die Normandie, ins Baltikum, in die Karibik oder in die Untiefen der menschlichen Seele. Lassen Sie mich bitte wissen, wie sie Ihnen gefallen haben.<br>
 
 Sind Sie *BuchbloggerIn*? Melden Sie sich gerne. Ich freue mich auf eine Zusammenarbeit.<br>
@@ -164,6 +164,7 @@ Ihre @schreibendeApothekerin<br>
 [nicht ohne meine schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
 [facebook]: https://www.facebook.com/schreibendeApothekerin
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[threads]: https://www.threads.com/@schreibendeapothekerin
 [gärten in venedig: grüne paradiese und oasen der ruhe]: https://barbaraschwarzl.com/2022/09/22/Gaerten-in-Venedig-Gruene-Paradiese-und-Oasen-der-Ruhe.html
 [giardino mistico]: https://www.giardinomistico.it/blog/
 [sorgen und angst fressen die seele auf]: https://barbaraschwarzl.com/2023/11/19/Sorgen-und-Angst-fressen-die-Seele-auf-Tipps-fuer-mehr-Zuversicht.html

@@ -114,7 +114,7 @@ Gute Kopfreise, wünscht die @schreibendeApothekerin!
 
 ## Eine Bitte an die Leser/Innen von "Dreierblues"
 
-Hat Ihnen das Buch gefallen? Dann schreiben Sie bitte eine Buchkritik - gerne auch eine kurze - auf dem jeweiligen Verkaufsportal. Natürlich können Sie sie mir auch per Mail schicken. Bitte betreiben Sie fleißig Mundpropaganda. Ich freue mich, wenn Sie mich auf [Facebook] [facebook] oder auf [Instagram] [instagram] und [Twitter] [twitter] kontaktieren. Kennen Sie meine [Autorenseite auf Facebook] [autorenseite auf facebook]? <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie unbedingt [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] lesen.
+Hat Ihnen das Buch gefallen? Dann schreiben Sie bitte eine Buchkritik - gerne auch eine kurze - auf dem jeweiligen Verkaufsportal. Natürlich können Sie sie mir auch per Mail schicken. Bitte betreiben Sie fleißig Mundpropaganda. Ich freue mich, wenn Sie mich auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads] kontaktieren. <br>  Wenn Ihnen der charismatische Richie gefallen hat, sollten Sie unbedingt [Nicht ohne meine Schatulle] [nicht ohne meine Schatulle] lesen.
 
 
 
@@ -123,10 +123,10 @@ Hat Ihnen das Buch gefallen? Dann schreiben Sie bitte eine Buchkritik - gerne au
 [amazon]:https://www.amazon.de/s/ref=nb_sb_noss/260-1243103-4337016?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&url=search-alias%3Dstripbooks&field-keywords=dreierblues
 [lovelybooks]: https://www.lovelybooks.de/autor/Barbara-Schwarzl/Dreierblues-1988154811-w/
 [thalia]: https://www.thalia.at/shop/home/artikeldetails/ID141994088.html
-[autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
+[facebook]: https://www.facebook.com/schreibendeApothekerin
 [nicht ohne meine Schatulle]: https://barbaraschwarzl.com/nicht-ohne-meine-schatulle/
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
 [buchsiegel]: https://www.buchsiegel.de/
-
+[threads]: https://www.threads.com/@schreibendeapothekerin
  

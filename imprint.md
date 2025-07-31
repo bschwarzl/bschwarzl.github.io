@@ -23,6 +23,6 @@ Links zu externen Websites Dritter, entziehen sich dem Verantwortungsbereich der
 
 Der Blog behandelt Themen rund um die Autorentätigkeit von Mag. Barbara Schwarzl.
 
-Dieses Impressum gilt auch für die von Mag. Barbara Schwarzl betriebenen Seiten auf Facebook, Instagram und Twitter.
+Dieses Impressum gilt auch für die von Mag. Barbara Schwarzl betriebenen Seiten auf Facebook, Instagram, Threads und Twitter.
 
 

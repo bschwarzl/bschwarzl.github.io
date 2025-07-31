@@ -88,7 +88,7 @@ Ihre schreibende Apothekerin <br>
 ## P.S.: Mehr von der schreibenden Apothekerin
 
 Ich freue mich, wenn Sie weiter auf meinen Seiten schmökern. <br>
-Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram], um immer am Laufenden zu sein.
+Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads], um immer am Laufenden zu sein.
 
 
 
@@ -106,3 +106,4 @@ Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [ins
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
 [giardino mistico]: https://www.giardinomistico.it/blog/
 [jahresrückblick 2024]: http://localhost:4000/2025/01/05/Jahresrueckblick-2024-In-der-Ruhe-liegt-die-Kraft.html
+[threads]: https://www.threads.com/@schreibendeapothekerin

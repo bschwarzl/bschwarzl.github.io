@@ -94,7 +94,7 @@ Bereits zwei Mal (im November 2016 und 2018) durfte ich "Spurensuche. Diagnose S
 
 ## Treten Sie in Kontakt mit der Autorin!
 
-Besuchen Sie gerne meine [Autorenseite auf Facebook] [autorenseite auf facebook] und auf [Instagram] [instagram].<br>
+Besuchen Sie gerne meine [Autorenseite auf Facebook] [autorenseite auf facebook], [Instagram] [instagram] und [Threads] [threads].<br>
 Ich freue mich über einen regen Austausch, Ihre @schreibendeApothekerin
 
 
@@ -114,3 +114,4 @@ Ich freue mich über einen regen Austausch, Ihre @schreibendeApothekerin
 [dgppn]: https://www.dgppn.de/
 [hilfe für Angehörige psychisch Erkrankter]: https://www.hpe.at/home.html
 [öffentliches Gesundheitsportal Österreichs]: https://www.gesundheit.gv.at/krankheiten/psyche/inhalt
+[threads]: https://www.threads.com/@schreibendeapothekerin

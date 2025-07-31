@@ -72,7 +72,7 @@ Neugierig? Prima! Das Buch (ISBN 978-3-99026-311-2) bekommen Sie aktuell **NUR**
 
 ## Treten Sie mit der Autorin in Kontakt!
 
-Abonnieren Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [autorenseite auf facebook] und auf [Instagram] [instagram] für News aus der Schreibstube? <br> Ich wünsche Ihnen viele wundervolle Reisen nach Venedig und in die Normandie, Ihre #schreibendeApothekerin
+Abonnieren Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [autorenseite auf facebook], [Instagram] [instagram] und [Threads] [threads] für News aus der Schreibstube? <br> Ich wünsche Ihnen viele wundervolle Reisen nach Venedig und in die Normandie, Ihre #schreibendeApothekerin
 
 
 [reise quer durch Estland, Lettland und Litauen]: https://barbaraschwarzl.com/reise-quer-durch-estland-lettland-und-litauen/
@@ -82,5 +82,6 @@ Abonnieren Sie die [Autorenseite der schreibenden Apothekerin auf Facebook] [aut
 [autorenseite auf facebook]: https://www.facebook.com/schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
+[threads]: https://www.threads.com/@schreibendeapothekerin
 
 

@@ -96,7 +96,7 @@ Stöbern Sie gerne weiter auf meiner [Website] [website] nach interessanten Blog
  In meinen Romanen **[Spurensuche. Diagnose Schizophrenie] [spurensuche. diagnose schizophrenie]**, **[Dreierblues] [dreierblues]**, **[Nicht ohne meine Schatulle] [nicht ohne meine schatulle]** thematisiere ich *psychische Erkrankungen*.<br>
  In **[Reise quer durch Estland, Lettland und Litauen] [reise quer durch estland, lettland und litauen]**, **[Alles anders. Auf Umwegen angekommen] [alles anders. auf umwegen angekommen]** und **[Dreierblues] [dreierblues]** dreht es sich um – wie ich finde – die schönste Tätigkeit, nämlich das *Reisen*. <br>
  
-Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook] und [Instagram] [instagram], um immer am Laufenden zu sein.
+Abonnieren Sie gerne meine Seiten auf [Facebook] [facebook], [Instagram] [instagram] und [Threads] [threads], um immer am Laufenden zu sein.
 
 Alles Liebe,<br>
 Ihre @schreibendeApothekerin
@@ -149,5 +149,5 @@ Ihre @schreibendeApothekerin
 [twitter]: https://twitter.com/BuchSchwarzl
 [instagram]: https://www.instagram.com/schreibendeapothekerin/
 [website]: https://barbaraschwarzl.com/
-
+[threads]: https://www.threads.com/@schreibendeapothekerin
 
